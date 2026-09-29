@@ -17,7 +17,9 @@ gamecode,jornada,date,live,court,quarter,jugador_asiste,jugador_asistido,three_m
 12,1,2026-09-29 16:00:00,TRUE,home,1,NA,NA,0,0,0,1,0,0,0,23,KLA,P005522,2FGA,"ECHODAS, MARTYNAS",Martynas Echodas,Neptunas Klaipeda,14,2,08:36,0,0,,Missed Two Pointer,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,-1
 12,1,2026-09-29 16:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,24,TRN,P014854,D,"BROWN JR, CHARLIE",Charlie Brown Jr,Dolomiti Energia Trento,4,2,08:33,0,0,,Def Rebound,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
 12,1,2026-09-29 16:00:00,TRUE,away,1,NA,NA,0,0,1,0,0,0,0,25,TRN,P014855,2FGM,"OLIVARI, QUINCY",Quincy Olivari,Dolomiti Energia Trento,8,2,08:30,0,2,,Two Pointer,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2,2
-12,1,2026-09-29 16:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,26,TRN,P014854,CM,"BROWN JR, CHARLIE",Charlie Brown Jr,Dolomiti Energia Trento,4,2,08:27,0,2,,Foul,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,-1
+12,1,2026-09-29 16:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,331,TRN,P014854,CM,"BROWN JR, CHARLIE",Charlie Brown Jr,Dolomiti Energia Trento,4,2,08:30,0,2,,Foul,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,-1
+12,1,2026-09-29 16:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,332,KLA,P005860,RV,"TAROLIS, DONATAS",Donatas Tarolis,Neptunas Klaipeda,1,2,08:30,0,2,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1
+12,1,2026-09-29 16:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,26,TRN,P013271,CM,"MAWUGBE, SELOM",Selom Mawugbe,Dolomiti Energia Trento,21,2,08:27,0,2,,Foul,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-1
 12,1,2026-09-29 16:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,27,KLA,P005522,RV,"ECHODAS, MARTYNAS",Martynas Echodas,Neptunas Klaipeda,14,2,08:27,0,2,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
 12,1,2026-09-29 16:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,28,TRN,P014854,OUT,"BROWN JR, CHARLIE",Charlie Brown Jr,Dolomiti Energia Trento,4,2,08:27,0,2,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 12,1,2026-09-29 16:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,29,TRN,P013756,IN,"NIANG, CHEICKH",Cheickh Niang,Dolomiti Energia Trento,7,2,08:27,0,2,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -25,8 +27,6 @@ gamecode,jornada,date,live,court,quarter,jugador_asiste,jugador_asistido,three_m
 12,1,2026-09-29 16:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,31,TRN,P014853,D,"BROWN II, DARIUS",Darius Brown II,Dolomiti Energia Trento,0,2,08:25,0,2,,Def Rebound,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
 12,1,2026-09-29 16:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,32,KLA,P005860,CM,"TAROLIS, DONATAS",Donatas Tarolis,Neptunas Klaipeda,1,2,08:13,0,2,,Foul,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-1
 12,1,2026-09-29 16:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,33,TRN,P014855,RV,"OLIVARI, QUINCY",Quincy Olivari,Dolomiti Energia Trento,8,2,08:13,0,2,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
-12,1,2026-09-29 16:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,34,TRN,P013271,CM,"MAWUGBE, SELOM",Selom Mawugbe,Dolomiti Energia Trento,21,2,08:13,0,2,,Foul,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-1
-12,1,2026-09-29 16:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,35,KLA,P007830,RV,"FRANKE, YANNICK",Yannick Franke,Neptunas Klaipeda,5,2,08:13,0,2,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
 12,1,2026-09-29 16:00:00,TRUE,away,1,NA,NA,0,0,0,0,1,0,0,36,TRN,P014855,FTM,"OLIVARI, QUINCY",Quincy Olivari,Dolomiti Energia Trento,8,2,08:13,0,3,,Free Throw In,0,0,0,0,1,1,0,0,0,0,0,0,0,0,3,1
 12,1,2026-09-29 16:00:00,TRUE,away,1,"BROWN II, DARIUS","OLIVARI, QUINCY",0,0,0,0,0,0,0,37,TRN,P014853,AS,"BROWN II, DARIUS",Darius Brown II,Dolomiti Energia Trento,0,2,08:13,0,3,,Assist,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
 12,1,2026-09-29 16:00:00,TRUE,away,1,NA,NA,0,0,0,0,1,0,0,38,TRN,P014855,FTM,"OLIVARI, QUINCY",Quincy Olivari,Dolomiti Energia Trento,8,2,08:13,0,4,,Free Throw In,0,0,0,0,2,2,0,0,0,0,0,0,0,0,4,1
@@ -41,7 +41,7 @@ gamecode,jornada,date,live,court,quarter,jugador_asiste,jugador_asistido,three_m
 12,1,2026-09-29 16:00:00,TRUE,away,1,NA,NA,0,0,1,0,0,0,0,48,TRN,P013756,2FGM,"NIANG, CHEICKH",Cheickh Niang,Dolomiti Energia Trento,7,3,07:16,3,6,,Two Pointer,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2,2
 12,1,2026-09-29 16:00:00,TRUE,away,1,"OLIVARI, QUINCY","NIANG, CHEICKH",0,0,0,0,0,0,0,49,TRN,P014855,AS,"OLIVARI, QUINCY",Quincy Olivari,Dolomiti Energia Trento,8,3,07:13,3,6,,Assist,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
 12,1,2026-09-29 16:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,50,TRN,P014853,CM,"BROWN II, DARIUS",Darius Brown II,Dolomiti Energia Trento,0,3,07:11,3,6,,Foul,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-1
-12,1,2026-09-29 16:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,51,KLA,P005860,RV,"TAROLIS, DONATAS",Donatas Tarolis,Neptunas Klaipeda,1,3,07:11,3,6,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1
+12,1,2026-09-29 16:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,51,KLA,P005860,RV,"TAROLIS, DONATAS",Donatas Tarolis,Neptunas Klaipeda,1,3,07:11,3,6,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1
 12,1,2026-09-29 16:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,52,TRN,P013756,CM,"NIANG, CHEICKH",Cheickh Niang,Dolomiti Energia Trento,7,3,07:03,3,6,,Foul,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-1
 12,1,2026-09-29 16:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,53,KLA,P006154,RV,"BERUCKA, ARNAS",Arnas Berucka,Neptunas Klaipeda,21,3,07:03,3,6,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
 12,1,2026-09-29 16:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,1,0,54,KLA,P006154,FTA,"BERUCKA, ARNAS",Arnas Berucka,Neptunas Klaipeda,21,3,07:03,3,6,,Missed Free Throw,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,-1
@@ -162,7 +162,7 @@ gamecode,jornada,date,live,court,quarter,jugador_asiste,jugador_asistido,three_m
 12,1,2026-09-29 16:00:00,TRUE,home,2,NA,NA,0,1,0,0,0,0,0,176,KLA,P005024,3FGA,"GIRDZIUNAS, MINDAUGAS",Mindaugas Girdziunas,Neptunas Klaipeda,8,11,09:21,15,21,,Missed Three Pointer,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
 12,1,2026-09-29 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,177,KLA,P005516,O,"ZEMAITIS, KRISTUPAS",Kristupas Zemaitis,Neptunas Klaipeda,13,11,09:18,15,21,,Off Rebound,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
 12,1,2026-09-29 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,178,TRN,P006382,CMU_FL,"FORRAY, TOTO",Toto Forray,Dolomiti Energia Trento,10,11,09:08,15,21,,Flagrant Foul,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-12,1,2026-09-29 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,179,KLA,P005860,RV,"TAROLIS, DONATAS",Donatas Tarolis,Neptunas Klaipeda,1,11,09:08,15,21,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1
+12,1,2026-09-29 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,179,KLA,P005860,RV,"TAROLIS, DONATAS",Donatas Tarolis,Neptunas Klaipeda,1,11,09:08,15,21,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,1
 12,1,2026-09-29 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,1,0,180,KLA,P005860,FTA,"TAROLIS, DONATAS",Donatas Tarolis,Neptunas Klaipeda,1,11,09:08,15,21,,Missed Free Throw,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,-1
 12,1,2026-09-29 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,1,0,0,181,KLA,P005860,FTM,"TAROLIS, DONATAS",Donatas Tarolis,Neptunas Klaipeda,1,11,09:08,16,21,,Free Throw In,0,0,0,0,2,1,0,0,0,0,0,0,0,0,1,1
 12,1,2026-09-29 16:00:00,TRUE,home,2,"ZEMAITIS, KRISTUPAS","TAROLIS, DONATAS",0,0,0,0,0,0,0,182,KLA,P005516,AS,"ZEMAITIS, KRISTUPAS",Kristupas Zemaitis,Neptunas Klaipeda,13,11,09:08,16,21,,Assist,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
@@ -173,7 +173,7 @@ gamecode,jornada,date,live,court,quarter,jugador_asiste,jugador_asistido,three_m
 12,1,2026-09-29 16:00:00,TRUE,home,2,NA,NA,0,0,0,1,0,0,0,188,KLA,P005860,2FGA,"TAROLIS, DONATAS",Donatas Tarolis,Neptunas Klaipeda,1,12,08:30,19,21,,Missed Two Pointer,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,-1
 12,1,2026-09-29 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,189,KLA,P005860,O,"TAROLIS, DONATAS",Donatas Tarolis,Neptunas Klaipeda,1,12,08:29,19,21,,Off Rebound,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1
 12,1,2026-09-29 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,190,TRN,P006382,CM,"FORRAY, TOTO",Toto Forray,Dolomiti Energia Trento,10,12,08:29,19,21,,Foul,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,-1
-12,1,2026-09-29 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,191,KLA,P005860,RV,"TAROLIS, DONATAS",Donatas Tarolis,Neptunas Klaipeda,1,12,08:29,19,21,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,1
+12,1,2026-09-29 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,191,KLA,P005860,RV,"TAROLIS, DONATAS",Donatas Tarolis,Neptunas Klaipeda,1,12,08:29,19,21,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1
 12,1,2026-09-29 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,192,TRN,P014853,IN,"BROWN II, DARIUS",Darius Brown II,Dolomiti Energia Trento,0,12,08:29,19,21,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 12,1,2026-09-29 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,193,TRN,P013862,OUT,"MEDINA BOUZA, JOSE",Jose Medina Bouza,Dolomiti Energia Trento,30,12,08:29,19,21,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 12,1,2026-09-29 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,1,0,0,194,KLA,P005860,FTM,"TAROLIS, DONATAS",Donatas Tarolis,Neptunas Klaipeda,1,12,08:29,20,21,,Free Throw In,0,0,0,0,3,2,0,0,0,0,0,0,0,0,2,1
@@ -240,7 +240,7 @@ gamecode,jornada,date,live,court,quarter,jugador_asiste,jugador_asistido,three_m
 12,1,2026-09-29 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,258,KLA,P005860,O,"TAROLIS, DONATAS",Donatas Tarolis,Neptunas Klaipeda,1,16,04:19,26,27,,Off Rebound,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,1
 12,1,2026-09-29 16:00:00,TRUE,home,2,NA,NA,0,0,1,0,0,0,0,259,KLA,P005860,2FGM,"TAROLIS, DONATAS",Donatas Tarolis,Neptunas Klaipeda,1,16,04:19,28,27,,Two Pointer,0,0,4,1,0,0,0,0,0,0,0,0,0,0,4,2
 12,1,2026-09-29 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,260,TRN,P014854,CM,"BROWN JR, CHARLIE",Charlie Brown Jr,Dolomiti Energia Trento,4,16,04:19,28,27,,Foul,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,-1
-12,1,2026-09-29 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,261,KLA,P005860,RV,"TAROLIS, DONATAS",Donatas Tarolis,Neptunas Klaipeda,1,16,04:19,28,27,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1
+12,1,2026-09-29 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,261,KLA,P005860,RV,"TAROLIS, DONATAS",Donatas Tarolis,Neptunas Klaipeda,1,16,04:19,28,27,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,1
 12,1,2026-09-29 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,262,TRN,P014854,OUT,"BROWN JR, CHARLIE",Charlie Brown Jr,Dolomiti Energia Trento,4,16,04:19,28,27,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 12,1,2026-09-29 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,263,TRN,P014855,IN,"OLIVARI, QUINCY",Quincy Olivari,Dolomiti Energia Trento,8,16,04:19,28,27,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 12,1,2026-09-29 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,264,TRN,P014857,OUT,"BIGELOW, ISAIAH",Isaiah Bigelow,Dolomiti Energia Trento,24,16,04:19,28,27,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -254,7 +254,7 @@ gamecode,jornada,date,live,court,quarter,jugador_asiste,jugador_asistido,three_m
 12,1,2026-09-29 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,272,KLA,P007830,D,"FRANKE, YANNICK",Yannick Franke,Neptunas Klaipeda,5,16,04:02,29,27,,Def Rebound,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,1
 12,1,2026-09-29 16:00:00,TRUE,home,2,NA,NA,0,0,1,0,0,0,0,273,KLA,P007830,2FGM,"FRANKE, YANNICK",Yannick Franke,Neptunas Klaipeda,5,16,04:00,31,27,,Two Pointer,0,0,4,1,0,0,0,0,0,0,0,0,0,0,5,2
 12,1,2026-09-29 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,274,TRN,P013271,CM,"MAWUGBE, SELOM",Selom Mawugbe,Dolomiti Energia Trento,21,16,04:00,31,27,,Foul,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,-1
-12,1,2026-09-29 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,275,KLA,P007830,RV,"FRANKE, YANNICK",Yannick Franke,Neptunas Klaipeda,5,16,04:00,31,27,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1
+12,1,2026-09-29 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,275,KLA,P007830,RV,"FRANKE, YANNICK",Yannick Franke,Neptunas Klaipeda,5,16,04:00,31,27,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
 12,1,2026-09-29 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,1,0,0,276,KLA,P007830,FTM,"FRANKE, YANNICK",Yannick Franke,Neptunas Klaipeda,5,16,04:00,32,27,,Free Throw In,0,0,0,0,1,1,0,0,0,0,0,0,0,0,6,1
 12,1,2026-09-29 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,278,TRN,P014855,TO,"OLIVARI, QUINCY",Quincy Olivari,Dolomiti Energia Trento,8,17,03:43,32,27,,Turnover,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,-1
 12,1,2026-09-29 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,279,KLA,P007830,TO,"FRANKE, YANNICK",Yannick Franke,Neptunas Klaipeda,5,17,03:30,32,27,,Turnover,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-1
@@ -281,7 +281,7 @@ gamecode,jornada,date,live,court,quarter,jugador_asiste,jugador_asistido,three_m
 12,1,2026-09-29 16:00:00,TRUE,away,2,NA,NA,0,1,0,0,0,0,0,304,TRN,P014855,3FGA,"OLIVARI, QUINCY",Quincy Olivari,Dolomiti Energia Trento,8,19,01:43,32,36,,Missed Three Pointer,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
 12,1,2026-09-29 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,305,KLA,P005522,D,"ECHODAS, MARTYNAS",Martynas Echodas,Neptunas Klaipeda,14,19,01:41,32,36,,Def Rebound,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,1
 12,1,2026-09-29 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,306,TRN,P013862,CM,"MEDINA BOUZA, JOSE",Jose Medina Bouza,Dolomiti Energia Trento,30,19,01:31,32,36,,Foul,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-1
-12,1,2026-09-29 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,307,KLA,P007830,RV,"FRANKE, YANNICK",Yannick Franke,Neptunas Klaipeda,5,19,01:31,32,36,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1
+12,1,2026-09-29 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,307,KLA,P007830,RV,"FRANKE, YANNICK",Yannick Franke,Neptunas Klaipeda,5,19,01:31,32,36,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1
 12,1,2026-09-29 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,1,0,0,308,KLA,P007830,FTM,"FRANKE, YANNICK",Yannick Franke,Neptunas Klaipeda,5,19,01:31,33,36,,Free Throw In,0,0,0,0,2,2,0,0,0,0,0,0,0,0,7,1
 12,1,2026-09-29 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,1,0,0,309,KLA,P007830,FTM,"FRANKE, YANNICK",Yannick Franke,Neptunas Klaipeda,5,19,01:31,34,36,,Free Throw In,0,0,0,0,3,3,0,0,0,0,0,0,0,0,8,1
 12,1,2026-09-29 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,310,KLA,P008260,IN,"DRELL, HENRI",Henri Drell,Neptunas Klaipeda,0,19,01:31,34,36,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -302,3 +302,218 @@ gamecode,jornada,date,live,court,quarter,jugador_asiste,jugador_asistido,three_m
 12,1,2026-09-29 16:00:00,TRUE,home,2,NA,NA,0,0,0,1,0,0,0,326,KLA,P005024,2FGA,"GIRDZIUNAS, MINDAUGAS",Mindaugas Girdziunas,Neptunas Klaipeda,8,20,00:22,36,36,,Missed Two Pointer,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,-1
 12,1,2026-09-29 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,327,TRN,P014853,D,"BROWN II, DARIUS",Darius Brown II,Dolomiti Energia Trento,0,20,00:19,36,36,,Def Rebound,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,1
 12,1,2026-09-29 16:00:00,TRUE,away,2,NA,NA,0,1,0,0,0,0,0,328,TRN,P014857,3FGA,"BIGELOW, ISAIAH",Isaiah Bigelow,Dolomiti Energia Trento,24,20,00:00,36,36,,Missed Three Pointer,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+12,1,2026-09-29 16:00:00,TRUE,NA,0,NA,NA,0,0,0,0,0,0,0,330,,,EP,NA,NA,NA,NA,21,00:00,36,36,,End Period,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,1,2026-09-29 16:00:00,TRUE,NA,3,NA,NA,0,0,0,0,0,0,0,333,,,BP,NA,NA,NA,NA,21,10:00,36,36,,Begin Period,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,1,2026-09-29 16:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,334,KLA,P005860,IN,"TAROLIS, DONATAS",Donatas Tarolis,Neptunas Klaipeda,1,21,09:59,36,36,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,1,2026-09-29 16:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,335,KLA,P007830,IN,"FRANKE, YANNICK",Yannick Franke,Neptunas Klaipeda,5,21,09:59,36,36,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,1,2026-09-29 16:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,336,KLA,P005024,OUT,"GIRDZIUNAS, MINDAUGAS",Mindaugas Girdziunas,Neptunas Klaipeda,8,21,09:59,36,36,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,1,2026-09-29 16:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,337,KLA,P009321,OUT,"KREISMONTAS, LUKAS",Lukas Kreismontas,Neptunas Klaipeda,88,21,09:59,36,36,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,1,2026-09-29 16:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,338,TRN,P013271,IN,"MAWUGBE, SELOM",Selom Mawugbe,Dolomiti Energia Trento,21,21,09:59,36,36,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,1,2026-09-29 16:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,339,TRN,P014857,OUT,"BIGELOW, ISAIAH",Isaiah Bigelow,Dolomiti Energia Trento,24,21,09:59,36,36,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,1,2026-09-29 16:00:00,TRUE,away,3,NA,NA,0,0,1,0,0,0,0,340,TRN,P014855,2FGM,"OLIVARI, QUINCY",Quincy Olivari,Dolomiti Energia Trento,8,21,09:44,36,38,,Two Pointer,0,0,6,3,0,0,0,0,0,0,0,0,0,0,12,2
+12,1,2026-09-29 16:00:00,TRUE,home,3,NA,NA,0,1,0,0,0,0,0,341,KLA,P007830,3FGA,"FRANKE, YANNICK",Yannick Franke,Neptunas Klaipeda,5,21,09:06,36,38,,Missed Three Pointer,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+12,1,2026-09-29 16:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,342,TRN,P013271,D,"MAWUGBE, SELOM",Selom Mawugbe,Dolomiti Energia Trento,21,21,09:04,36,38,,Def Rebound,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,1
+12,1,2026-09-29 16:00:00,TRUE,away,3,NA,NA,0,0,1,0,0,0,0,343,TRN,P014853,2FGM,"BROWN II, DARIUS",Darius Brown II,Dolomiti Energia Trento,0,21,09:02,36,40,,Two Pointer,0,0,4,3,0,0,0,0,0,0,0,0,0,0,8,2
+12,1,2026-09-29 16:00:00,TRUE,away,3,"MAWUGBE, SELOM","BROWN II, DARIUS",0,0,0,0,0,0,0,344,TRN,P013271,AS,"MAWUGBE, SELOM",Selom Mawugbe,Dolomiti Energia Trento,21,21,09:02,36,40,,Assist,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,1
+12,1,2026-09-29 16:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,345,KLA,P007830,CM,"FRANKE, YANNICK",Yannick Franke,Neptunas Klaipeda,5,21,09:02,36,40,,Foul,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,-1
+12,1,2026-09-29 16:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,346,TRN,P014853,RV,"BROWN II, DARIUS",Darius Brown II,Dolomiti Energia Trento,0,21,09:02,36,40,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,1
+12,1,2026-09-29 16:00:00,TRUE,away,3,NA,NA,0,0,0,0,1,0,0,347,TRN,P014853,FTM,"BROWN II, DARIUS",Darius Brown II,Dolomiti Energia Trento,0,21,09:02,36,41,,Free Throw In,0,0,0,0,3,3,0,0,0,0,0,0,0,0,9,1
+12,1,2026-09-29 16:00:00,TRUE,home,3,NA,NA,0,1,0,0,0,0,0,349,KLA,P007830,3FGA,"FRANKE, YANNICK",Yannick Franke,Neptunas Klaipeda,5,22,08:41,36,41,,Missed Three Pointer,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+12,1,2026-09-29 16:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,350,KLA,,O,NA,NA,Neptunas Klaipeda,,22,08:41,36,41,,Off Rebound,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,1
+12,1,2026-09-29 16:00:00,TRUE,home,3,NA,NA,0,0,0,1,0,0,0,351,KLA,P014907,2FGA,"FRIDRIKSSON, ELVAR",Elvar Fridriksson,Neptunas Klaipeda,10,22,08:25,36,41,,Missed Two Pointer,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,-1
+12,1,2026-09-29 16:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,352,TRN,P013271,D,"MAWUGBE, SELOM",Selom Mawugbe,Dolomiti Energia Trento,21,22,08:22,36,41,,Def Rebound,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,1
+12,1,2026-09-29 16:00:00,TRUE,away,3,NA,NA,0,0,0,1,0,0,0,353,TRN,P014853,2FGA,"BROWN II, DARIUS",Darius Brown II,Dolomiti Energia Trento,0,22,08:14,36,41,,Missed Two Pointer,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,-1
+12,1,2026-09-29 16:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,354,KLA,P005522,D,"ECHODAS, MARTYNAS",Martynas Echodas,Neptunas Klaipeda,14,22,08:12,36,41,,Def Rebound,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,1
+12,1,2026-09-29 16:00:00,TRUE,home,3,NA,NA,1,0,0,0,0,0,0,356,KLA,P005860,3FGM,"TAROLIS, DONATAS",Donatas Tarolis,Neptunas Klaipeda,1,23,07:53,39,41,,Three Pointer,2,1,0,0,0,0,0,0,0,0,0,0,0,0,8,3
+12,1,2026-09-29 16:00:00,TRUE,home,3,"FRANKE, YANNICK","TAROLIS, DONATAS",0,0,0,0,0,0,0,357,KLA,P007830,AS,"FRANKE, YANNICK",Yannick Franke,Neptunas Klaipeda,5,23,07:50,39,41,,Assist,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1
+12,1,2026-09-29 16:00:00,TRUE,away,3,NA,NA,0,0,0,1,0,0,0,358,TRN,P014855,2FGA,"OLIVARI, QUINCY",Quincy Olivari,Dolomiti Energia Trento,8,23,07:33,39,41,,Missed Two Pointer,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,-1
+12,1,2026-09-29 16:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,359,TRN,P014855,AG,"OLIVARI, QUINCY",Quincy Olivari,Dolomiti Energia Trento,8,23,07:33,39,41,,Shot Rejected,0,0,0,0,0,0,0,0,0,0,0,0,0,2,0,-1
+12,1,2026-09-29 16:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,360,KLA,P008260,FV,"DRELL, HENRI",Henri Drell,Neptunas Klaipeda,0,23,07:30,39,41,,Block,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+12,1,2026-09-29 16:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,361,KLA,P005860,D,"TAROLIS, DONATAS",Donatas Tarolis,Neptunas Klaipeda,1,23,07:29,39,41,,Def Rebound,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+12,1,2026-09-29 16:00:00,TRUE,home,3,NA,NA,0,1,0,0,0,0,0,362,KLA,P005860,3FGA,"TAROLIS, DONATAS",Donatas Tarolis,Neptunas Klaipeda,1,23,07:26,39,41,,Missed Three Pointer,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+12,1,2026-09-29 16:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,363,TRN,P010597,D,"BERTINI, ALESSANDRO",Alessandro Bertini,Dolomiti Energia Trento,5,23,07:23,39,41,,Def Rebound,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+12,1,2026-09-29 16:00:00,TRUE,away,3,NA,NA,0,0,1,0,0,0,0,364,TRN,P014853,2FGM,"BROWN II, DARIUS",Darius Brown II,Dolomiti Energia Trento,0,23,07:16,39,43,,Two Pointer,0,0,6,4,0,0,0,0,0,0,0,0,0,0,11,2
+12,1,2026-09-29 16:00:00,TRUE,home,3,NA,NA,0,1,0,0,0,0,0,366,KLA,P014907,3FGA,"FRIDRIKSSON, ELVAR",Elvar Fridriksson,Neptunas Klaipeda,10,24,06:58,39,43,,Missed Three Pointer,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+12,1,2026-09-29 16:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,367,KLA,P005522,O,"ECHODAS, MARTYNAS",Martynas Echodas,Neptunas Klaipeda,14,24,06:58,39,43,,Off Rebound,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,1
+12,1,2026-09-29 16:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,368,TRN,P010597,CM,"BERTINI, ALESSANDRO",Alessandro Bertini,Dolomiti Energia Trento,5,24,06:56,39,43,,Foul,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-1
+12,1,2026-09-29 16:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,369,KLA,P005522,RV,"ECHODAS, MARTYNAS",Martynas Echodas,Neptunas Klaipeda,14,24,06:56,39,43,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1
+12,1,2026-09-29 16:00:00,TRUE,home,3,NA,NA,0,0,1,0,0,0,0,370,KLA,P008260,2FGM,"DRELL, HENRI",Henri Drell,Neptunas Klaipeda,0,24,06:56,41,43,,Two Pointer,0,0,3,2,0,0,0,0,0,0,0,0,0,0,7,2
+12,1,2026-09-29 16:00:00,TRUE,home,3,"FRIDRIKSSON, ELVAR","DRELL, HENRI",0,0,0,0,0,0,0,371,KLA,P014907,AS,"FRIDRIKSSON, ELVAR",Elvar Fridriksson,Neptunas Klaipeda,10,24,06:56,41,43,,Assist,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1
+12,1,2026-09-29 16:00:00,TRUE,away,3,NA,NA,0,0,1,0,0,0,0,372,TRN,P014855,2FGM,"OLIVARI, QUINCY",Quincy Olivari,Dolomiti Energia Trento,8,24,06:36,41,45,,Two Pointer,0,0,8,4,0,0,0,0,0,0,0,0,0,0,14,2
+12,1,2026-09-29 16:00:00,TRUE,home,3,NA,NA,1,0,0,0,0,0,0,373,KLA,P014907,3FGM,"FRIDRIKSSON, ELVAR",Elvar Fridriksson,Neptunas Klaipeda,10,24,06:23,44,45,,Three Pointer,2,1,0,0,0,0,0,0,0,0,0,0,0,0,3,3
+12,1,2026-09-29 16:00:00,TRUE,away,3,NA,NA,0,0,0,1,0,0,0,374,TRN,P014855,2FGA,"OLIVARI, QUINCY",Quincy Olivari,Dolomiti Energia Trento,8,24,06:09,44,45,,Missed Two Pointer,0,0,9,0,0,0,0,0,0,0,0,0,0,0,0,-1
+12,1,2026-09-29 16:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,375,TRN,P013271,O,"MAWUGBE, SELOM",Selom Mawugbe,Dolomiti Energia Trento,21,24,06:09,44,45,,Off Rebound,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+12,1,2026-09-29 16:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,376,KLA,P005522,CM,"ECHODAS, MARTYNAS",Martynas Echodas,Neptunas Klaipeda,14,24,06:09,44,45,,Foul,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,-1
+12,1,2026-09-29 16:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,377,TRN,P013271,RV,"MAWUGBE, SELOM",Selom Mawugbe,Dolomiti Energia Trento,21,24,06:09,44,45,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1
+12,1,2026-09-29 16:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,378,TRN,P014853,OUT,"BROWN II, DARIUS",Darius Brown II,Dolomiti Energia Trento,0,24,06:09,44,45,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,1,2026-09-29 16:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,379,TRN,P006382,IN,"FORRAY, TOTO",Toto Forray,Dolomiti Energia Trento,10,24,06:09,44,45,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,1,2026-09-29 17:00:00,TRUE,NA,1,NA,NA,0,0,0,0,0,0,0,2,,,BP,NA,NA,NA,NA,1,10:00,0,0,,Begin Period,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,3,BUR,,JB,NA,NA,Tofas Bursa,,1,09:59,0,0,,Jump Ball,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,1,0,0,0,0,0,4,BUR,P012577,3FGA,"THURMAN, TRE'SHAWN",Tre'Shawn Thurman,Tofas Bursa,15,1,09:41,0,0,,Missed Three Pointer,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+11,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,5,BUR,P014942,O,"MCNEACE, JAMUNI",Jamuni Mcneace,Tofas Bursa,8,1,09:38,0,0,,Off Rebound,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+11,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,1,0,0,0,6,BUR,P014943,2FGA,"POSTEL, EFE",Efe Postel,Tofas Bursa,22,1,09:29,0,0,,Missed Two Pointer,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,-1
+11,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,7,NIN,,D,NA,NA,NINERS Chemnitz,,1,09:28,0,0,,Def Rebound,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+11,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,1,0,0,0,0,0,8,NIN,P014929,3FGA,"SMITH, STEFAN",Stefan Smith,NINERS Chemnitz,2,1,09:09,0,0,,Missed Three Pointer,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+11,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,9,BUR,P014942,D,"MCNEACE, JAMUNI",Jamuni Mcneace,Tofas Bursa,8,1,09:06,0,0,,Def Rebound,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+11,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,1,0,0,0,0,11,BUR,P006693,2FGM,"SAYBIR, YIGITCAN",Yigitcan Saybir,Tofas Bursa,3,2,08:55,2,0,,Two Pointer,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2,2
+11,1,2026-09-29 17:00:00,TRUE,home,1,"POSTEL, EFE","SAYBIR, YIGITCAN",0,0,0,0,0,0,0,12,BUR,P014943,AS,"POSTEL, EFE",Efe Postel,Tofas Bursa,22,2,08:52,2,0,,Assist,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+11,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,0,1,0,0,0,0,13,NIN,P014932,2FGM,"BURNHAM, BEN",Ben Burnham,NINERS Chemnitz,25,2,08:40,2,2,,Two Pointer,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2,2
+11,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,14,NIN,P006872,CM,"SERIC, MATEO",Mateo Seric,NINERS Chemnitz,21,2,08:33,2,2,,Foul,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-1
+11,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,15,BUR,P014097,RV,"REYNOLDS JR, SHAVAR",Shavar Reynolds Jr,Tofas Bursa,33,2,08:33,2,2,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+11,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,1,0,0,16,BUR,P014097,FTM,"REYNOLDS JR, SHAVAR",Shavar Reynolds Jr,Tofas Bursa,33,2,08:33,3,2,,Free Throw In,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1
+11,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,1,0,0,17,BUR,P014097,FTM,"REYNOLDS JR, SHAVAR",Shavar Reynolds Jr,Tofas Bursa,33,2,08:33,4,2,,Free Throw In,0,0,0,0,2,2,0,0,0,0,0,0,0,0,2,1
+11,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,18,BUR,P014097,CM,"REYNOLDS JR, SHAVAR",Shavar Reynolds Jr,Tofas Bursa,33,2,08:33,4,2,,Foul,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-1
+11,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,19,NIN,P014928,RV,"FLEMING JR, PHLANDROUS",Phlandrous Fleming Jr,NINERS Chemnitz,1,2,08:33,4,2,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+11,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,0,0,1,0,0,0,20,NIN,P006872,2FGA,"SERIC, MATEO",Mateo Seric,NINERS Chemnitz,21,2,08:17,4,2,,Missed Two Pointer,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,-1
+11,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,21,BUR,P014942,D,"MCNEACE, JAMUNI",Jamuni Mcneace,Tofas Bursa,8,2,08:15,4,2,,Def Rebound,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+11,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,1,0,0,0,0,0,22,BUR,P014097,3FGA,"REYNOLDS JR, SHAVAR",Shavar Reynolds Jr,Tofas Bursa,33,2,08:01,4,2,,Missed Three Pointer,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+11,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,24,BUR,,O,NA,NA,Tofas Bursa,,3,07:59,4,2,,Off Rebound,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+11,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,25,NIN,P014185,CM,"CEASER, NIGHAEL",Nighael Ceaser,NINERS Chemnitz,22,3,07:50,4,2,,Foul,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-1
+11,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,26,BUR,P014942,RV,"MCNEACE, JAMUNI",Jamuni Mcneace,Tofas Bursa,8,3,07:50,4,2,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+11,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,1,0,0,27,BUR,P014942,FTM,"MCNEACE, JAMUNI",Jamuni Mcneace,Tofas Bursa,8,3,07:50,5,2,,Free Throw In,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1
+11,1,2026-09-29 17:00:00,TRUE,home,1,"SAYBIR, YIGITCAN","MCNEACE, JAMUNI",0,0,0,0,0,0,0,28,BUR,P006693,AS,"SAYBIR, YIGITCAN",Yigitcan Saybir,Tofas Bursa,3,3,07:50,5,2,,Assist,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+11,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,1,0,0,29,BUR,P014942,FTM,"MCNEACE, JAMUNI",Jamuni Mcneace,Tofas Bursa,8,3,07:50,6,2,,Free Throw In,0,0,0,0,2,2,0,0,0,0,0,0,0,0,2,1
+11,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,0,1,0,0,0,0,30,NIN,P014929,2FGM,"SMITH, STEFAN",Stefan Smith,NINERS Chemnitz,2,3,07:39,6,4,,Two Pointer,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2,2
+11,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,1,0,0,0,0,31,BUR,P014943,2FGM,"POSTEL, EFE",Efe Postel,Tofas Bursa,22,3,07:28,8,4,,Two Pointer,0,0,2,1,0,0,0,0,0,0,0,0,0,0,2,2
+11,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,0,1,0,0,0,0,32,NIN,P014185,2FGM,"CEASER, NIGHAEL",Nighael Ceaser,NINERS Chemnitz,22,3,07:18,8,6,,Two Pointer,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2,2
+11,1,2026-09-29 17:00:00,TRUE,away,1,"SMITH, STEFAN","CEASER, NIGHAEL",0,0,0,0,0,0,0,33,NIN,P014929,AS,"SMITH, STEFAN",Stefan Smith,NINERS Chemnitz,2,3,07:16,8,6,,Assist,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+11,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,34,BUR,P006693,TO,"SAYBIR, YIGITCAN",Yigitcan Saybir,Tofas Bursa,3,3,07:06,8,6,,Turnover,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-1
+11,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,35,NIN,P014928,ST,"FLEMING JR, PHLANDROUS",Phlandrous Fleming Jr,NINERS Chemnitz,1,3,07:04,8,6,,Steal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+11,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,36,NIN,P014928,TO,"FLEMING JR, PHLANDROUS",Phlandrous Fleming Jr,NINERS Chemnitz,1,3,07:03,8,6,,Turnover,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-1
+11,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,37,BUR,P014943,ST,"POSTEL, EFE",Efe Postel,Tofas Bursa,22,3,07:01,8,6,,Steal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+11,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,39,BUR,P014943,TO,"POSTEL, EFE",Efe Postel,Tofas Bursa,22,4,06:59,8,6,,Turnover,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-1
+11,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,40,NIN,P014928,ST,"FLEMING JR, PHLANDROUS",Phlandrous Fleming Jr,NINERS Chemnitz,1,4,06:57,8,6,,Steal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+11,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,1,0,0,0,0,0,41,NIN,P014928,3FGA,"FLEMING JR, PHLANDROUS",Phlandrous Fleming Jr,NINERS Chemnitz,1,4,06:52,8,6,,Missed Three Pointer,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+11,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,42,NIN,P014932,O,"BURNHAM, BEN",Ben Burnham,NINERS Chemnitz,25,4,06:47,8,6,,Off Rebound,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+11,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,0,0,1,0,0,0,43,NIN,P014932,2FGA,"BURNHAM, BEN",Ben Burnham,NINERS Chemnitz,25,4,06:43,8,6,,Missed Two Pointer,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,-1
+11,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,44,NIN,P014932,AG,"BURNHAM, BEN",Ben Burnham,NINERS Chemnitz,25,4,06:43,8,6,,Shot Rejected,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,-1
+11,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,45,BUR,P014942,FV,"MCNEACE, JAMUNI",Jamuni Mcneace,Tofas Bursa,8,4,06:41,8,6,,Block,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+11,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,46,BUR,P014942,D,"MCNEACE, JAMUNI",Jamuni Mcneace,Tofas Bursa,8,4,06:38,8,6,,Def Rebound,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,1
+11,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,47,BUR,P012577,TO,"THURMAN, TRE'SHAWN",Tre'Shawn Thurman,Tofas Bursa,15,4,06:23,8,6,,Turnover,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-1
+11,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,48,BUR,P006693,OUT,"SAYBIR, YIGITCAN",Yigitcan Saybir,Tofas Bursa,3,4,06:23,8,6,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,49,BUR,P014941,IN,"KABACA, SADIK",Sadik Kabaca,Tofas Bursa,6,4,06:23,8,6,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,50,BUR,P012577,OUT,"THURMAN, TRE'SHAWN",Tre'Shawn Thurman,Tofas Bursa,15,4,06:23,8,6,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,51,BUR,P014943,OUT,"POSTEL, EFE",Efe Postel,Tofas Bursa,22,4,06:23,8,6,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,52,BUR,P012621,IN,"JONES, BRYCE",Bryce Jones,Tofas Bursa,32,4,06:23,8,6,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,53,BUR,P014945,IN,"BROWN, GABRIEL",Gabriel Brown,Tofas Bursa,44,4,06:23,8,6,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,54,NIN,P014928,OUT,"FLEMING JR, PHLANDROUS",Phlandrous Fleming Jr,NINERS Chemnitz,1,4,06:23,8,6,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,55,NIN,P011811,IN,"ATKINS, DARION",Darion Atkins,NINERS Chemnitz,17,4,06:23,8,6,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,56,NIN,P014930,IN,"KING, URALD",Urald King,NINERS Chemnitz,20,4,06:23,8,6,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,57,NIN,P006872,OUT,"SERIC, MATEO",Mateo Seric,NINERS Chemnitz,21,4,06:23,8,6,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,58,NIN,P014185,OUT,"CEASER, NIGHAEL",Nighael Ceaser,NINERS Chemnitz,22,4,06:23,8,6,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,59,NIN,P014931,IN,"WILLIAMS, COBE",Cobe Williams,NINERS Chemnitz,24,4,06:23,8,6,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,1,0,0,0,0,0,60,NIN,P014931,3FGA,"WILLIAMS, COBE",Cobe Williams,NINERS Chemnitz,24,4,06:06,8,6,,Missed Three Pointer,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+11,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,61,BUR,P014942,D,"MCNEACE, JAMUNI",Jamuni Mcneace,Tofas Bursa,8,4,06:04,8,6,,Def Rebound,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,1
+11,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,1,0,0,0,63,BUR,P014942,2FGA,"MCNEACE, JAMUNI",Jamuni Mcneace,Tofas Bursa,8,5,05:51,8,6,,Missed Two Pointer,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,-1
+11,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,64,NIN,P014932,D,"BURNHAM, BEN",Ben Burnham,NINERS Chemnitz,25,5,05:49,8,6,,Def Rebound,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+11,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,1,0,0,0,0,0,65,NIN,P014932,3FGA,"BURNHAM, BEN",Ben Burnham,NINERS Chemnitz,25,5,05:44,8,6,,Missed Three Pointer,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+11,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,66,BUR,P014945,D,"BROWN, GABRIEL",Gabriel Brown,Tofas Bursa,44,5,05:42,8,6,,Def Rebound,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+11,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,1,0,0,0,0,0,67,BUR,P014941,3FGA,"KABACA, SADIK",Sadik Kabaca,Tofas Bursa,6,5,05:37,8,6,,Missed Three Pointer,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+11,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,68,BUR,P014097,O,"REYNOLDS JR, SHAVAR",Shavar Reynolds Jr,Tofas Bursa,33,5,05:32,8,6,,Off Rebound,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+11,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,69,BUR,P014097,TO,"REYNOLDS JR, SHAVAR",Shavar Reynolds Jr,Tofas Bursa,33,5,05:30,8,6,,Turnover,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-1
+11,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,70,NIN,P014931,ST,"WILLIAMS, COBE",Cobe Williams,NINERS Chemnitz,24,5,05:29,8,6,,Steal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+11,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,0,1,0,0,0,0,71,NIN,P014930,2FGM,"KING, URALD",Urald King,NINERS Chemnitz,20,5,05:29,8,8,,Two Pointer,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2,2
+11,1,2026-09-29 17:00:00,TRUE,away,1,"WILLIAMS, COBE","KING, URALD",0,0,0,0,0,0,0,72,NIN,P014931,AS,"WILLIAMS, COBE",Cobe Williams,NINERS Chemnitz,24,5,05:29,8,8,,Assist,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+11,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,73,BUR,P014941,CM,"KABACA, SADIK",Sadik Kabaca,Tofas Bursa,6,5,05:29,8,8,,Foul,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-1
+11,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,74,NIN,P014930,RV,"KING, URALD",Urald King,NINERS Chemnitz,20,5,05:29,8,8,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+11,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,75,BUR,P014940,IN,"CARTER II, TERRELL",Terrell Carter II,Tofas Bursa,5,5,05:29,8,8,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,76,BUR,P014942,OUT,"MCNEACE, JAMUNI",Jamuni Mcneace,Tofas Bursa,8,5,05:29,8,8,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,77,BUR,P015111,IN,"NUTALL, ZACH",Zach Nutall,Tofas Bursa,10,5,05:29,8,8,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,78,BUR,P014097,OUT,"REYNOLDS JR, SHAVAR",Shavar Reynolds Jr,Tofas Bursa,33,5,05:29,8,8,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,0,0,0,1,0,0,79,NIN,P014930,FTM,"KING, URALD",Urald King,NINERS Chemnitz,20,5,05:29,8,9,,Free Throw In,0,0,0,0,1,1,0,0,0,0,0,0,0,0,3,1
+11,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,1,0,0,0,0,0,80,BUR,P014941,3FGA,"KABACA, SADIK",Sadik Kabaca,Tofas Bursa,6,5,05:16,8,9,,Missed Three Pointer,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+11,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,81,NIN,P014931,D,"WILLIAMS, COBE",Cobe Williams,NINERS Chemnitz,24,5,05:14,8,9,,Def Rebound,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+11,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,82,NIN,P014931,TO,"WILLIAMS, COBE",Cobe Williams,NINERS Chemnitz,24,5,05:04,8,9,,Turnover,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-1
+11,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,83,BUR,P012621,ST,"JONES, BRYCE",Bryce Jones,Tofas Bursa,32,5,05:03,8,9,,Steal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+11,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,1,0,0,0,0,85,BUR,P012621,2FGM,"JONES, BRYCE",Bryce Jones,Tofas Bursa,32,6,04:59,10,9,,Two Pointer,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2,2
+11,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,0,1,0,0,0,0,86,NIN,P014932,2FGM,"BURNHAM, BEN",Ben Burnham,NINERS Chemnitz,25,6,04:42,10,11,,Two Pointer,0,0,3,2,0,0,0,0,0,0,0,0,0,0,4,2
+11,1,2026-09-29 17:00:00,TRUE,away,1,"SMITH, STEFAN","BURNHAM, BEN",0,0,0,0,0,0,0,87,NIN,P014929,AS,"SMITH, STEFAN",Stefan Smith,NINERS Chemnitz,2,6,04:39,10,11,,Assist,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1
+11,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,88,BUR,P014940,TO,"CARTER II, TERRELL",Terrell Carter II,Tofas Bursa,5,6,04:29,10,11,,Turnover,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-1
+11,1,2026-09-29 17:00:00,TRUE,NA,1,NA,NA,0,0,0,0,0,0,0,89,,,TOUT_TV,NA,NA,NA,NA,6,04:29,10,11,,TV Time Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,90,NIN,P014928,IN,"FLEMING JR, PHLANDROUS",Phlandrous Fleming Jr,NINERS Chemnitz,1,6,04:29,10,11,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,91,NIN,P014929,OUT,"SMITH, STEFAN",Stefan Smith,NINERS Chemnitz,2,6,04:29,10,11,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,92,NIN,P014932,OUT,"BURNHAM, BEN",Ben Burnham,NINERS Chemnitz,25,6,04:29,10,11,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,93,NIN,P014933,IN,"VON SECKENDORFF, JANNIS",Jannis Von Seckendorff,NINERS Chemnitz,90,6,04:29,10,11,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,1,0,0,0,0,0,94,NIN,P011811,3FGA,"ATKINS, DARION",Darion Atkins,NINERS Chemnitz,17,6,04:15,10,11,,Missed Three Pointer,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+11,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,95,BUR,P012621,D,"JONES, BRYCE",Bryce Jones,Tofas Bursa,32,6,04:12,10,11,,Def Rebound,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+11,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,96,NIN,P014933,CM,"VON SECKENDORFF, JANNIS",Jannis Von Seckendorff,NINERS Chemnitz,90,6,04:08,10,11,,Foul,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-1
+11,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,97,BUR,P014945,RV,"BROWN, GABRIEL",Gabriel Brown,Tofas Bursa,44,6,04:08,10,11,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+11,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,1,0,0,0,0,98,BUR,P015111,2FGM,"NUTALL, ZACH",Zach Nutall,Tofas Bursa,10,6,04:06,12,11,,Two Pointer,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2,2
+11,1,2026-09-29 17:00:00,TRUE,home,1,"JONES, BRYCE","NUTALL, ZACH",0,0,0,0,0,0,0,99,BUR,P012621,AS,"JONES, BRYCE",Bryce Jones,Tofas Bursa,32,6,04:04,12,11,,Assist,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+2,1,2026-09-29 17:00:00,TRUE,NA,1,NA,NA,0,0,0,0,0,0,0,2,,,BP,NA,NA,NA,NA,1,10:00,0,0,,Begin Period,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,3,RTK,,JB,NA,NA,Rostock Seawolves,,1,09:59,0,0,,Jump Ball,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,1,0,0,0,0,0,4,RTK,P014892,3FGA,"CROCKETT JR, TJ",Tj Crockett Jr,Rostock Seawolves,0,1,09:35,0,0,,Missed Three Pointer,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+2,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,5,RTK,,O,NA,NA,Rostock Seawolves,,1,09:35,0,0,,Off Rebound,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+2,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,0,1,0,0,0,0,6,RTK,P014893,2FGM,"COPELAND, ZACH",Zach Copeland,Rostock Seawolves,2,1,09:24,0,2,,Two Pointer,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2,2
+2,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,7,RTK,P007478,CM,"KLASSEN, OWEN",Owen Klassen,Rostock Seawolves,29,1,09:06,0,2,,Foul,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-1
+2,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,8,JER,P009896,RV,"MILETIC, DUSAN",Dusan Miletic,Hapoel Midtown Jerusalem,11,1,09:06,0,2,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+2,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,1,0,9,JER,P009896,FTA,"MILETIC, DUSAN",Dusan Miletic,Hapoel Midtown Jerusalem,11,1,09:06,0,2,,Missed Free Throw,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,-1
+2,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,1,0,0,10,JER,P009896,FTM,"MILETIC, DUSAN",Dusan Miletic,Hapoel Midtown Jerusalem,11,1,09:06,1,2,,Free Throw In,0,0,0,0,2,1,0,0,0,0,0,0,0,0,1,1
+2,1,2026-09-29 17:00:00,TRUE,home,1,"BURG, ETHAN","MILETIC, DUSAN",0,0,0,0,0,0,0,11,JER,P014874,AS,"BURG, ETHAN",Ethan Burg,Hapoel Midtown Jerusalem,35,1,09:06,1,2,,Assist,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+2,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,1,0,0,0,0,0,13,RTK,P014899,3FGA,"KONONTSUK, ARTUR",Artur Konontsuk,Rostock Seawolves,34,2,08:47,1,2,,Missed Three Pointer,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+2,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,14,JER,P014874,D,"BURG, ETHAN",Ethan Burg,Hapoel Midtown Jerusalem,35,2,08:45,1,2,,Def Rebound,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+2,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,15,RTK,P014899,CM,"KONONTSUK, ARTUR",Artur Konontsuk,Rostock Seawolves,34,2,08:44,1,2,,Foul,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-1
+2,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,16,JER,P014903,RV,"LOFTON JR, KENNY",Kenny Lofton Jr,Hapoel Midtown Jerusalem,2,2,08:44,1,2,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+2,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,1,0,0,0,17,JER,P014903,2FGA,"LOFTON JR, KENNY",Kenny Lofton Jr,Hapoel Midtown Jerusalem,2,2,08:31,1,2,,Missed Two Pointer,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,-1
+2,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,18,JER,P014874,O,"BURG, ETHAN",Ethan Burg,Hapoel Midtown Jerusalem,35,2,08:31,1,2,,Off Rebound,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+2,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,19,RTK,P014892,CM,"CROCKETT JR, TJ",Tj Crockett Jr,Rostock Seawolves,0,2,08:31,1,2,,Foul,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-1
+2,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,20,JER,P014874,RV,"BURG, ETHAN",Ethan Burg,Hapoel Midtown Jerusalem,35,2,08:31,1,2,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+2,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,1,0,0,0,0,21,JER,P009896,2FGM,"MILETIC, DUSAN",Dusan Miletic,Hapoel Midtown Jerusalem,11,2,08:25,3,2,,Two Pointer,0,0,1,1,0,0,0,0,0,0,0,0,0,0,3,2
+2,1,2026-09-29 17:00:00,TRUE,home,1,"SMITH, JALEEN","MILETIC, DUSAN",0,0,0,0,0,0,0,22,JER,P011192,AS,"SMITH, JALEEN",Jaleen Smith,Hapoel Midtown Jerusalem,3,2,08:23,3,2,,Assist,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+2,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,1,0,0,0,0,0,0,23,RTK,P014893,3FGM,"COPELAND, ZACH",Zach Copeland,Rostock Seawolves,2,2,08:07,3,5,,Three Pointer,1,1,0,0,0,0,0,0,0,0,0,0,0,0,5,3
+2,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,25,RTK,P007478,CM,"KLASSEN, OWEN",Owen Klassen,Rostock Seawolves,29,3,07:52,3,5,,Foul,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,-1
+2,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,26,JER,P009896,RV,"MILETIC, DUSAN",Dusan Miletic,Hapoel Midtown Jerusalem,11,3,07:52,3,5,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1
+2,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,27,RTK,P007478,OUT,"KLASSEN, OWEN",Owen Klassen,Rostock Seawolves,29,3,07:52,3,5,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,28,RTK,P009197,IN,"LEUCHTEN, BENT",Bent Leuchten,Rostock Seawolves,51,3,07:52,3,5,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,1,0,0,0,0,29,JER,P014904,2FGM,"RODDY, DAVID",David Roddy,Hapoel Midtown Jerusalem,21,3,07:52,5,5,,Two Pointer,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2,2
+2,1,2026-09-29 17:00:00,TRUE,home,1,"SMITH, JALEEN","RODDY, DAVID",0,0,0,0,0,0,0,30,JER,P011192,AS,"SMITH, JALEEN",Jaleen Smith,Hapoel Midtown Jerusalem,3,3,07:52,5,5,,Assist,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1
+2,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,31,RTK,P014892,TO,"CROCKETT JR, TJ",Tj Crockett Jr,Rostock Seawolves,0,3,07:35,5,5,,Turnover,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-1
+2,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,32,JER,P014904,ST,"RODDY, DAVID",David Roddy,Hapoel Midtown Jerusalem,21,3,07:33,5,5,,Steal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,33,RTK,P004811,CM,"LOCKHART, DOMINIC",Dominic Lockhart,Rostock Seawolves,3,3,07:33,5,5,,Foul,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-1
+2,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,34,JER,P014904,RV,"RODDY, DAVID",David Roddy,Hapoel Midtown Jerusalem,21,3,07:33,5,5,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+2,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,1,0,0,35,JER,P014904,FTM,"RODDY, DAVID",David Roddy,Hapoel Midtown Jerusalem,21,3,07:33,6,5,,Free Throw In,0,0,0,0,1,1,0,0,0,0,0,0,0,0,3,1
+2,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,1,0,0,36,JER,P014904,FTM,"RODDY, DAVID",David Roddy,Hapoel Midtown Jerusalem,21,3,07:33,7,5,,Free Throw In,0,0,0,0,2,2,0,0,0,0,0,0,0,0,4,1
+2,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,37,RTK,P014893,TO,"COPELAND, ZACH",Zach Copeland,Rostock Seawolves,2,3,07:10,7,5,,Turnover,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-1
+2,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,38,JER,P014904,ST,"RODDY, DAVID",David Roddy,Hapoel Midtown Jerusalem,21,3,07:08,7,5,,Steal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,1,0,0,0,0,0,39,JER,P014903,3FGA,"LOFTON JR, KENNY",Kenny Lofton Jr,Hapoel Midtown Jerusalem,2,3,07:01,7,5,,Missed Three Pointer,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+2,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,40,RTK,P014893,D,"COPELAND, ZACH",Zach Copeland,Rostock Seawolves,2,3,07:02,7,5,,Def Rebound,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+2,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,41,JER,P014904,CM,"RODDY, DAVID",David Roddy,Hapoel Midtown Jerusalem,21,3,07:02,7,5,,Foul,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-1
+2,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,42,RTK,P014893,RV,"COPELAND, ZACH",Zach Copeland,Rostock Seawolves,2,3,07:02,7,5,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+2,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,44,RTK,P014893,TO,"COPELAND, ZACH",Zach Copeland,Rostock Seawolves,2,4,06:53,7,5,,Turnover,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,-1
+2,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,45,RTK,P014893,OUT,"COPELAND, ZACH",Zach Copeland,Rostock Seawolves,2,4,06:53,7,5,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,46,RTK,P013503,IN,"STOVE, JOHNATHAN",Johnathan Stove,Rostock Seawolves,22,4,06:53,7,5,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,1,0,0,0,0,0,0,47,JER,P014903,3FGM,"LOFTON JR, KENNY",Kenny Lofton Jr,Hapoel Midtown Jerusalem,2,4,06:39,10,5,,Three Pointer,2,1,0,0,0,0,0,0,0,0,0,0,0,0,3,3
+2,1,2026-09-29 17:00:00,TRUE,home,1,"SMITH, JALEEN","LOFTON JR, KENNY",0,0,0,0,0,0,0,48,JER,P011192,AS,"SMITH, JALEEN",Jaleen Smith,Hapoel Midtown Jerusalem,3,4,06:37,10,5,,Assist,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,1
+2,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,1,0,0,0,0,0,49,RTK,P014892,3FGA,"CROCKETT JR, TJ",Tj Crockett Jr,Rostock Seawolves,0,4,06:24,10,5,,Missed Three Pointer,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+2,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,50,JER,P009896,D,"MILETIC, DUSAN",Dusan Miletic,Hapoel Midtown Jerusalem,11,4,06:22,10,5,,Def Rebound,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+2,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,1,0,0,0,51,JER,P011192,2FGA,"SMITH, JALEEN",Jaleen Smith,Hapoel Midtown Jerusalem,3,4,06:05,10,5,,Missed Two Pointer,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,-1
+2,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,52,JER,P014903,O,"LOFTON JR, KENNY",Kenny Lofton Jr,Hapoel Midtown Jerusalem,2,4,06:04,10,5,,Off Rebound,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+2,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,1,0,0,0,53,JER,P014903,2FGA,"LOFTON JR, KENNY",Kenny Lofton Jr,Hapoel Midtown Jerusalem,2,4,06:04,10,5,,Missed Two Pointer,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,-1
+2,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,54,JER,P014903,O,"LOFTON JR, KENNY",Kenny Lofton Jr,Hapoel Midtown Jerusalem,2,4,06:04,10,5,,Off Rebound,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1
+2,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,1,0,0,0,0,55,JER,P014903,2FGM,"LOFTON JR, KENNY",Kenny Lofton Jr,Hapoel Midtown Jerusalem,2,4,06:04,12,5,,Two Pointer,0,0,3,1,0,0,0,0,0,0,0,0,0,0,5,2
+2,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,56,RTK,P009197,CM,"LEUCHTEN, BENT",Bent Leuchten,Rostock Seawolves,51,4,06:04,12,5,,Foul,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-1
+2,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,57,JER,P014903,RV,"LOFTON JR, KENNY",Kenny Lofton Jr,Hapoel Midtown Jerusalem,2,4,06:04,12,5,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1
+2,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,1,0,0,58,JER,P014903,FTM,"LOFTON JR, KENNY",Kenny Lofton Jr,Hapoel Midtown Jerusalem,2,4,06:04,13,5,,Free Throw In,0,0,0,0,1,1,0,0,0,0,0,0,0,0,6,1
+2,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,0,0,1,0,0,0,60,RTK,P014899,2FGA,"KONONTSUK, ARTUR",Artur Konontsuk,Rostock Seawolves,34,5,05:44,13,5,,Missed Two Pointer,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,-1
+2,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,61,JER,P014903,D,"LOFTON JR, KENNY",Kenny Lofton Jr,Hapoel Midtown Jerusalem,2,5,05:42,13,5,,Def Rebound,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+2,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,62,JER,P011192,TO,"SMITH, JALEEN",Jaleen Smith,Hapoel Midtown Jerusalem,3,5,05:34,13,5,,Turnover,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-1
+2,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,63,RTK,P004811,ST,"LOCKHART, DOMINIC",Dominic Lockhart,Rostock Seawolves,3,5,05:34,13,5,,Steal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+2,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,64,JER,P009896,CMU_DI,"MILETIC, DUSAN",Dusan Miletic,Hapoel Midtown Jerusalem,11,5,05:34,13,5,,Disruptive Foul,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,65,RTK,P009197,RV,"LEUCHTEN, BENT",Bent Leuchten,Rostock Seawolves,51,5,05:34,13,5,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+2,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,66,RTK,P014898,IN,"WITHERS, TODD",Todd Withers,Rostock Seawolves,33,5,05:34,13,5,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,67,RTK,P014899,OUT,"KONONTSUK, ARTUR",Artur Konontsuk,Rostock Seawolves,34,5,05:34,13,5,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,0,0,0,1,0,0,68,RTK,P009197,FTM,"LEUCHTEN, BENT",Bent Leuchten,Rostock Seawolves,51,5,05:34,13,6,,Free Throw In,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1
+2,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,1,0,69,RTK,P009197,FTA,"LEUCHTEN, BENT",Bent Leuchten,Rostock Seawolves,51,5,05:34,13,6,,Missed Free Throw,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,-1
+2,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,70,JER,P014007,IN,"MILTON, SHAKE",Shake Milton,Hapoel Midtown Jerusalem,9,5,05:34,13,6,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,71,JER,P014874,OUT,"BURG, ETHAN",Ethan Burg,Hapoel Midtown Jerusalem,35,5,05:34,13,6,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,1,0,0,0,0,0,72,RTK,P013503,3FGA,"STOVE, JOHNATHAN",Johnathan Stove,Rostock Seawolves,22,5,05:21,13,6,,Missed Three Pointer,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+2,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,73,JER,,D,NA,NA,Hapoel Midtown Jerusalem,,5,05:21,13,6,,Def Rebound,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+2,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,1,0,0,0,75,JER,P009896,2FGA,"MILETIC, DUSAN",Dusan Miletic,Hapoel Midtown Jerusalem,11,6,04:57,13,6,,Missed Two Pointer,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,-1
+2,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,76,RTK,P004811,D,"LOCKHART, DOMINIC",Dominic Lockhart,Rostock Seawolves,3,6,04:56,13,6,,Def Rebound,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+2,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,1,0,0,0,0,0,77,RTK,P014898,3FGA,"WITHERS, TODD",Todd Withers,Rostock Seawolves,33,6,04:50,13,6,,Missed Three Pointer,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+2,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,78,RTK,,O,NA,NA,Rostock Seawolves,,6,04:50,13,6,,Off Rebound,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1
+2,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,79,JER,P009896,CM,"MILETIC, DUSAN",Dusan Miletic,Hapoel Midtown Jerusalem,11,6,04:50,13,6,,Foul,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,-1
+2,1,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,80,RTK,P009197,RV,"LEUCHTEN, BENT",Bent Leuchten,Rostock Seawolves,51,6,04:50,13,6,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1
+2,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,81,JER,P012714,IN,"CACOK, DEVONTAE",Devontae Cacok,Hapoel Midtown Jerusalem,0,6,04:50,13,6,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,1,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,82,JER,P009896,OUT,"MILETIC, DUSAN",Dusan Miletic,Hapoel Midtown Jerusalem,11,6,04:50,13,6,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+2,1,2026-09-29 17:00:00,TRUE,NA,1,NA,NA,0,0,0,0,0,0,0,83,,,TOUT_TV,NA,NA,NA,NA,6,04:50,13,6,,TV Time Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
