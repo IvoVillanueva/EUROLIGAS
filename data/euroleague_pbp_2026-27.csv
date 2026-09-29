@@ -6320,6 +6320,27 @@ gamecode,jornada,date,live,court,quarter,jugador_asiste,jugador_asistido,three_m
 13,2,2026-09-29 16:00:00,TRUE,away,4,NA,NA,0,0,0,0,0,0,0,568,BAR,P013855,IN,"GIBSON, UMOJA",Umoja Gibson,FC Barcelona,1,38,02:44,90,80,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 13,2,2026-09-29 16:00:00,TRUE,away,4,NA,NA,0,0,0,0,0,0,0,569,BAR,P014008,OUT,"ROBINSON, JUSTIN",Justin Robinson,FC Barcelona,5,38,02:44,90,80,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 13,2,2026-09-29 16:00:00,TRUE,away,4,NA,NA,0,0,1,0,0,0,0,570,BAR,P015140,2FGM,"NKAMHOUA, OLIVIER",Olivier Nkamhoua,FC Barcelona,13,38,02:28,90,82,,Two Pointer,0,0,4,4,0,0,0,0,0,0,0,0,0,0,8,2
+13,2,2026-09-29 16:00:00,TRUE,home,4,NA,NA,0,1,0,0,0,0,0,572,DUB,P011286,3FGA,"BACON, DWAYNE",Dwayne Bacon,Dubai Basketball,3,38,02:04,90,82,,Missed Three Pointer,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+13,2,2026-09-29 16:00:00,TRUE,away,4,NA,NA,0,0,0,0,0,0,0,573,BAR,P015138,D,"MARTIN, TYRESE",Tyrese Martin,FC Barcelona,2,38,02:02,90,82,,Def Rebound,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,1
+13,2,2026-09-29 16:00:00,TRUE,away,4,NA,NA,0,0,1,0,0,0,0,575,BAR,P009862,2FGM,"PUNTER, KEVIN",Kevin Punter,FC Barcelona,0,39,01:57,90,84,,Two Pointer,0,0,10,8,0,0,0,0,0,0,0,0,0,0,22,2
+13,2,2026-09-29 16:00:00,TRUE,home,4,NA,NA,0,0,0,0,0,0,0,576,DUB,P012606,TO,"WRIGHT IV, MCKINLEY",Mckinley Wright IV,Dubai Basketball,25,39,01:39,90,84,,Turnover,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,-1
+13,2,2026-09-29 16:00:00,TRUE,away,4,NA,NA,0,1,0,0,0,0,0,577,BAR,P007464,3FGA,"PARRA, JOEL",Joel Parra,FC Barcelona,44,39,01:26,90,84,,Missed Three Pointer,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+13,2,2026-09-29 16:00:00,TRUE,home,4,NA,NA,0,0,0,0,0,0,0,578,DUB,P011231,D,"BLOSSOMGAME, JARON",Jaron Blossomgame,Dubai Basketball,4,39,01:23,90,84,,Def Rebound,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+13,2,2026-09-29 16:00:00,TRUE,home,4,NA,NA,0,1,0,0,0,0,0,579,DUB,P011231,3FGA,"BLOSSOMGAME, JARON",Jaron Blossomgame,Dubai Basketball,4,39,01:05,90,84,,Missed Three Pointer,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+13,2,2026-09-29 16:00:00,TRUE,home,4,NA,NA,0,0,0,0,0,0,0,581,DUB,,O,NA,NA,Dubai Basketball,,39,01:05,90,84,,Off Rebound,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,1
+13,2,2026-09-29 16:00:00,TRUE,away,4,NA,NA,0,0,0,0,0,0,0,582,BAR,P009862,CM,"PUNTER, KEVIN",Kevin Punter,FC Barcelona,0,39,01:05,90,84,,Foul,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,-1
+13,2,2026-09-29 16:00:00,TRUE,home,4,NA,NA,0,0,0,0,0,0,0,583,DUB,P012796,RV,"KABENGELE, MFIONDU",Mfiondu Kabengele,Dubai Basketball,17,39,01:05,90,84,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+13,2,2026-09-29 16:00:00,TRUE,home,4,NA,NA,0,0,0,0,1,0,0,584,DUB,P012796,FTM,"KABENGELE, MFIONDU",Mfiondu Kabengele,Dubai Basketball,17,39,01:05,91,84,,Free Throw In,0,0,0,0,1,1,0,0,0,0,0,0,0,0,20,1
+13,2,2026-09-29 16:00:00,TRUE,home,4,NA,NA,0,0,0,0,1,0,0,585,DUB,P012796,FTM,"KABENGELE, MFIONDU",Mfiondu Kabengele,Dubai Basketball,17,39,01:05,92,84,,Free Throw In,0,0,0,0,2,2,0,0,0,0,0,0,0,0,21,1
+13,2,2026-09-29 16:00:00,TRUE,home,4,NA,NA,0,0,0,0,0,0,0,587,DUB,P011212,CM,"OKOBO, ELIE",Elie Okobo,Dubai Basketball,0,40,00:54,92,84,,Foul,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,-1
+13,2,2026-09-29 16:00:00,TRUE,away,4,NA,NA,0,0,0,0,0,0,0,588,BAR,P009862,RV,"PUNTER, KEVIN",Kevin Punter,FC Barcelona,0,40,00:54,92,84,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1
+13,2,2026-09-29 16:00:00,TRUE,away,4,NA,NA,0,0,0,0,0,0,0,589,BAR,,TOUT,NA,NA,FC Barcelona,,40,00:54,92,84,,Time Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,2,2026-09-29 16:00:00,TRUE,away,4,NA,NA,0,1,0,0,0,0,0,590,BAR,P009862,3FGA,"PUNTER, KEVIN",Kevin Punter,FC Barcelona,0,40,00:43,92,84,,Missed Three Pointer,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+13,2,2026-09-29 16:00:00,TRUE,home,4,NA,NA,0,0,0,0,0,0,0,591,DUB,,D,NA,NA,Dubai Basketball,,40,00:44,92,84,,Def Rebound,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,1
+13,2,2026-09-29 16:00:00,TRUE,home,4,NA,NA,0,0,0,0,0,0,0,593,DUB,P011286,TO,"BACON, DWAYNE",Dwayne Bacon,Dubai Basketball,3,40,00:26,92,84,,Turnover,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,-1
+13,2,2026-09-29 16:00:00,TRUE,away,4,NA,NA,0,0,0,0,0,0,0,594,BAR,P009862,ST,"PUNTER, KEVIN",Kevin Punter,FC Barcelona,0,40,00:25,92,84,,Steal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+13,2,2026-09-29 16:00:00,TRUE,away,4,NA,NA,1,0,0,0,0,0,0,595,BAR,P009862,3FGM,"PUNTER, KEVIN",Kevin Punter,FC Barcelona,0,40,00:24,92,87,,Three Pointer,5,3,0,0,0,0,0,0,0,0,0,0,0,0,25,3
+13,2,2026-09-29 16:00:00,TRUE,home,4,NA,NA,0,0,0,0,0,0,0,596,DUB,,TOUT,NA,NA,Dubai Basketball,,40,00:24,92,87,,Time Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 14,2,2026-09-29 17:00:00,TRUE,NA,1,NA,NA,0,0,0,0,0,0,0,2,,,BP,NA,NA,NA,NA,1,10:00,0,0,,Begin Period,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 14,2,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,3,ZAL,,JB,NA,NA,Zalgiris Kaunas,,1,09:59,0,0,,Jump Ball,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 14,2,2026-09-29 17:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,4,ZAL,P000898,TO,"VALANCIUNAS, JONAS",Jonas Valanciunas,Zalgiris Kaunas,17,1,09:46,0,0,,Turnover,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-1
@@ -6588,8 +6609,23 @@ gamecode,jornada,date,live,court,quarter,jugador_asiste,jugador_asistido,three_m
 14,2,2026-09-29 17:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,288,ZAL,P011927,IN,"SLEVA, DUSTIN",Dustin Sleva,Zalgiris Kaunas,14,20,00:23,44,44,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 14,2,2026-09-29 17:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,289,ZAL,P008186,OUT,"BLAZEVIC, MAREK",Marek Blazevic,Zalgiris Kaunas,22,20,00:23,44,44,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 14,2,2026-09-29 17:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,290,ZAL,P002676,OUT,"BUTKEVICIUS, ARNAS",Arnas Butkevicius,Zalgiris Kaunas,51,20,00:23,44,44,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-14,2,2026-09-29 17:00:00,TRUE,home,2,NA,NA,0,1,0,0,0,0,0,291,ZAL,P002328,3FGA,"GRIGONIS, MARIUS",Marius Grigonis,Zalgiris Kaunas,40,20,00:01,44,44,,Missed Three Pointer,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
-14,2,2026-09-29 17:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,292,OLY,,D,NA,NA,Olympiacos Piraeus,,20,00:01,44,44,,Def Rebound,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+14,2,2026-09-29 17:00:00,TRUE,home,2,NA,NA,0,1,0,0,0,0,0,291,ZAL,P002328,3FGA,"GRIGONIS, MARIUS",Marius Grigonis,Zalgiris Kaunas,40,20,00:02,44,44,,Missed Three Pointer,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+14,2,2026-09-29 17:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,292,OLY,,D,NA,NA,Olympiacos Piraeus,,20,00:02,44,44,,Def Rebound,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+14,2,2026-09-29 17:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,294,OLY,,TOUT,NA,NA,Olympiacos Piraeus,,20,00:02,44,44,,Time Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,2,2026-09-29 17:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,295,ZAL,P011987,OUT,"EDWARDS, CARSEN",Carsen Edwards,Zalgiris Kaunas,3,20,00:02,44,44,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,2,2026-09-29 17:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,296,ZAL,P007513,IN,"GIEDRAITIS, DOVYDAS",Dovydas Giedraitis,Zalgiris Kaunas,9,20,00:02,44,44,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,2,2026-09-29 17:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,297,ZAL,P011927,OUT,"SLEVA, DUSTIN",Dustin Sleva,Zalgiris Kaunas,14,20,00:02,44,44,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,2,2026-09-29 17:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,298,ZAL,P008186,IN,"BLAZEVIC, MAREK",Marek Blazevic,Zalgiris Kaunas,22,20,00:02,44,44,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,2,2026-09-29 17:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,299,OLY,P009048,IN,"MILLER-MCINTYRE, CODI",Codi Miller-Mcintyre,Olympiacos Piraeus,0,20,00:02,44,44,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,2,2026-09-29 17:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,300,OLY,P012610,IN,"WARD, TYSON",Tyson Ward,Olympiacos Piraeus,3,20,00:02,44,44,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,2,2026-09-29 17:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,301,OLY,P001255,OUT,"PAPANIKOLAOU, KOSTAS",Kostas Papanikolaou,Olympiacos Piraeus,16,20,00:02,44,44,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,2,2026-09-29 17:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,302,OLY,P012731,OUT,"NDIAYE, MBAYE",Mbaye Ndiaye,Olympiacos Piraeus,24,20,00:02,44,44,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,2,2026-09-29 17:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,303,OLY,P011196,OUT,"HALL, DONTA",Donta Hall,Olympiacos Piraeus,45,20,00:02,44,44,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,2,2026-09-29 17:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,304,OLY,P013380,IN,"FOURNIER, EVAN",Evan Fournier,Olympiacos Piraeus,94,20,00:02,44,44,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,2,2026-09-29 17:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,305,OLY,P013380,TO,"FOURNIER, EVAN",Evan Fournier,Olympiacos Piraeus,94,20,00:01,44,44,,Turnover,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,-1
+14,2,2026-09-29 17:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,306,ZAL,P002329,ST,"ULANOVAS, EDGARAS",Edgaras Ulanovas,Zalgiris Kaunas,92,20,00:01,44,44,,Steal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+14,2,2026-09-29 17:00:00,TRUE,home,2,NA,NA,0,1,0,0,0,0,0,307,ZAL,P002329,3FGA,"ULANOVAS, EDGARAS",Edgaras Ulanovas,Zalgiris Kaunas,92,20,00:01,44,44,,Missed Three Pointer,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+14,2,2026-09-29 17:00:00,TRUE,NA,0,NA,NA,0,0,0,0,0,0,0,309,,,EP,NA,NA,NA,NA,21,00:00,44,44,,End Period,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 11,2,2026-09-29 17:00:00,TRUE,NA,1,NA,NA,0,0,0,0,0,0,0,2,,,BP,NA,NA,NA,NA,1,10:00,0,0,,Begin Period,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 11,2,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,3,MAD,,JB,NA,NA,Real Madrid,,1,09:59,0,0,,Jump Ball,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 11,2,2026-09-29 17:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,4,MAD,P015244,RV,"SMITH JR, NICK",Nick Smith Jr,Real Madrid,1,1,09:48,0,0,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
@@ -6839,22 +6875,134 @@ gamecode,jornada,date,live,court,quarter,jugador_asiste,jugador_asistido,three_m
 11,2,2026-09-29 17:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,265,MAD,P015103,OUT,"JONES, DAMIAN",Damian Jones,Real Madrid,30,16,04:13,39,34,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 11,2,2026-09-29 17:00:00,TRUE,home,2,NA,NA,0,0,0,1,0,0,0,266,IST,P012742,2FGA,"DOZIER, PJ",Pj Dozier,Anadolu Efes Istanbul,15,16,04:00,39,34,,Missed Two Pointer,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,-1
 11,2,2026-09-29 17:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,268,MAD,P007027,D,"MALEDON, THEO",Theo Maledon,Real Madrid,12,17,03:59,39,34,,Def Rebound,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+11,2,2026-09-29 17:00:00,TRUE,away,2,NA,NA,1,0,0,0,0,0,0,269,MAD,P005928,3FGM,"CAMPAZZO, FACUNDO",Facundo Campazzo,Real Madrid,7,17,03:41,39,37,,Three Pointer,2,2,0,0,0,0,0,0,0,0,0,0,0,0,8,3
+11,2,2026-09-29 17:00:00,TRUE,away,2,"PRADILLA, JAIME","CAMPAZZO, FACUNDO",0,0,0,0,0,0,0,270,MAD,P010393,AS,"PRADILLA, JAIME",Jaime Pradilla,Real Madrid,4,17,03:39,39,37,,Assist,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1
+11,2,2026-09-29 17:00:00,TRUE,home,2,NA,NA,0,0,0,1,0,0,0,271,IST,P005368,2FGA,"YUSTA, SANTI",Santi Yusta,Anadolu Efes Istanbul,4,17,03:19,39,37,,Missed Two Pointer,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,-1
+11,2,2026-09-29 17:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,272,IST,P005368,AG,"YUSTA, SANTI",Santi Yusta,Anadolu Efes Istanbul,4,17,03:19,39,37,,Shot Rejected,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,-1
+11,2,2026-09-29 17:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,273,MAD,P005791,FV,"TAVARES, WALTER",Walter Tavares,Real Madrid,22,17,03:19,39,37,,Block,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1
+11,2,2026-09-29 17:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,274,MAD,,D,NA,NA,Real Madrid,,17,03:19,39,37,,Def Rebound,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,1
+11,2,2026-09-29 17:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,275,IST,P012742,OUT,"DOZIER, PJ",Pj Dozier,Anadolu Efes Istanbul,15,17,03:19,39,37,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,2,2026-09-29 17:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,276,IST,P005985,IN,"JAMES, MIKE",Mike James,Anadolu Efes Istanbul,55,17,03:19,39,37,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,2,2026-09-29 17:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,277,MAD,P012080,IN,"LUWAWU-CABARROT, TIMOTHE",Timothe Luwawu-Cabarrot,Real Madrid,3,17,03:19,39,37,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,2,2026-09-29 17:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,278,MAD,P003733,IN,"ABALDE, ALBERTO",Alberto Abalde,Real Madrid,6,17,03:19,39,37,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,2,2026-09-29 17:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,279,MAD,P007027,OUT,"MALEDON, THEO",Theo Maledon,Real Madrid,12,17,03:19,39,37,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,2,2026-09-29 17:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,280,MAD,P009005,OUT,"DECK, GABRIEL",Gabriel Deck,Real Madrid,14,17,03:19,39,37,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,2,2026-09-29 17:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,281,MAD,P012080,TO,"LUWAWU-CABARROT, TIMOTHE",Timothe Luwawu-Cabarrot,Real Madrid,3,17,03:08,39,37,,Turnover,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,-1
+11,2,2026-09-29 17:00:00,TRUE,home,2,NA,NA,1,0,0,0,0,0,0,283,IST,P005368,3FGM,"YUSTA, SANTI",Santi Yusta,Anadolu Efes Istanbul,4,18,02:48,42,37,,Three Pointer,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3,3
+11,2,2026-09-29 17:00:00,TRUE,home,2,"JAMES, MIKE","YUSTA, SANTI",0,0,0,0,0,0,0,284,IST,P005985,AS,"JAMES, MIKE",Mike James,Anadolu Efes Istanbul,55,18,02:46,42,37,,Assist,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,1
+11,2,2026-09-29 17:00:00,TRUE,away,2,NA,NA,0,1,0,0,0,0,0,285,MAD,P012080,3FGA,"LUWAWU-CABARROT, TIMOTHE",Timothe Luwawu-Cabarrot,Real Madrid,3,18,02:36,42,37,,Missed Three Pointer,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+11,2,2026-09-29 17:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,286,MAD,P005791,O,"TAVARES, WALTER",Walter Tavares,Real Madrid,22,18,02:36,42,37,,Off Rebound,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1
+11,2,2026-09-29 17:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,287,MAD,P005791,TO,"TAVARES, WALTER",Walter Tavares,Real Madrid,22,18,02:35,42,37,,Turnover,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,-1
+11,2,2026-09-29 17:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,288,IST,P003112,IN,"SARIC, DARIO",Dario Saric,Anadolu Efes Istanbul,5,18,02:35,42,37,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,2,2026-09-29 17:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,289,IST,P012710,OUT,"OSMANI, ERCAN",Ercan Osmani,Anadolu Efes Istanbul,24,18,02:35,42,37,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,2,2026-09-29 17:00:00,TRUE,home,2,NA,NA,1,0,0,0,0,0,0,290,IST,P013943,3FGM,"RUSSELL, DARON",Daron Russell,Anadolu Efes Istanbul,11,18,02:13,45,37,,Three Pointer,2,1,0,0,0,0,0,0,0,0,0,0,0,0,5,3
+11,2,2026-09-29 17:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,292,MAD,,TOUT,NA,NA,Real Madrid,,18,02:13,45,37,,Time Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,2,2026-09-29 17:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,293,MAD,P015244,IN,"SMITH JR, NICK",Nick Smith Jr,Real Madrid,1,18,02:13,45,37,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,2,2026-09-29 17:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,294,MAD,P012080,OUT,"LUWAWU-CABARROT, TIMOTHE",Timothe Luwawu-Cabarrot,Real Madrid,3,18,02:13,45,37,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,2,2026-09-29 17:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,295,MAD,P010393,OUT,"PRADILLA, JAIME",Jaime Pradilla,Real Madrid,4,18,02:13,45,37,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,2,2026-09-29 17:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,296,MAD,P014006,IN,"OKEKE, CHUMA",Chuma Okeke,Real Madrid,8,18,02:13,45,37,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,2,2026-09-29 17:00:00,TRUE,away,2,NA,NA,0,1,0,0,0,0,0,299,MAD,P014006,3FGA,"OKEKE, CHUMA",Chuma Okeke,Real Madrid,8,19,01:51,45,37,,Missed Three Pointer,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+11,2,2026-09-29 17:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,300,IST,P014102,D,"JONES, KAI",Kai Jones,Anadolu Efes Istanbul,88,19,01:51,45,37,,Def Rebound,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+11,2,2026-09-29 17:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,301,MAD,P015244,CM,"SMITH JR, NICK",Nick Smith Jr,Real Madrid,1,19,01:48,45,37,,Foul,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,-1
+11,2,2026-09-29 17:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,302,IST,P003112,RV,"SARIC, DARIO",Dario Saric,Anadolu Efes Istanbul,5,19,01:48,45,37,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+11,2,2026-09-29 17:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,303,MAD,P015244,OUT,"SMITH JR, NICK",Nick Smith Jr,Real Madrid,1,19,01:48,45,37,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,2,2026-09-29 17:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,304,MAD,P007027,IN,"MALEDON, THEO",Theo Maledon,Real Madrid,12,19,01:48,45,37,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,2,2026-09-29 17:00:00,TRUE,home,2,NA,NA,0,0,0,0,1,0,0,305,IST,P003112,FTM,"SARIC, DARIO",Dario Saric,Anadolu Efes Istanbul,5,19,01:48,46,37,,Free Throw In,0,0,0,0,1,1,0,0,0,0,0,0,0,0,3,1
+11,2,2026-09-29 17:00:00,TRUE,home,2,NA,NA,0,0,0,0,1,0,0,306,IST,P003112,FTM,"SARIC, DARIO",Dario Saric,Anadolu Efes Istanbul,5,19,01:48,47,37,,Free Throw In,0,0,0,0,2,2,0,0,0,0,0,0,0,0,4,1
+11,2,2026-09-29 17:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,307,IST,P013943,OUT,"RUSSELL, DARON",Daron Russell,Anadolu Efes Istanbul,11,19,01:48,47,37,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,2,2026-09-29 17:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,308,IST,P008099,IN,"STRAZEL, MATTHEW",Matthew Strazel,Anadolu Efes Istanbul,32,19,01:48,47,37,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+11,2,2026-09-29 17:00:00,TRUE,away,2,NA,NA,0,0,0,1,0,0,0,309,MAD,P005928,2FGA,"CAMPAZZO, FACUNDO",Facundo Campazzo,Real Madrid,7,19,01:28,47,37,,Missed Two Pointer,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,-1
+11,2,2026-09-29 17:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,310,IST,P005985,D,"JAMES, MIKE",Mike James,Anadolu Efes Istanbul,55,19,01:27,47,37,,Def Rebound,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+11,2,2026-09-29 17:00:00,TRUE,home,2,NA,NA,0,0,0,1,0,0,0,311,IST,P003112,2FGA,"SARIC, DARIO",Dario Saric,Anadolu Efes Istanbul,5,19,01:21,47,37,,Missed Two Pointer,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,-1
+11,2,2026-09-29 17:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,312,MAD,P005791,D,"TAVARES, WALTER",Walter Tavares,Real Madrid,22,19,01:19,47,37,,Def Rebound,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+11,2,2026-09-29 17:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,313,IST,P005368,CM,"YUSTA, SANTI",Santi Yusta,Anadolu Efes Istanbul,4,19,01:19,47,37,,Foul,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-1
+11,2,2026-09-29 17:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,314,MAD,P007027,RV,"MALEDON, THEO",Theo Maledon,Real Madrid,12,19,01:19,47,37,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,1
+11,2,2026-09-29 17:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,315,MAD,P007027,TO,"MALEDON, THEO",Theo Maledon,Real Madrid,12,19,01:06,47,37,,Turnover,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,-1
+11,2,2026-09-29 17:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,316,IST,P014102,ST,"JONES, KAI",Kai Jones,Anadolu Efes Istanbul,88,19,01:06,47,37,,Steal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+11,2,2026-09-29 17:00:00,TRUE,home,2,NA,NA,1,0,0,0,0,0,0,318,IST,P005985,3FGM,"JAMES, MIKE",Mike James,Anadolu Efes Istanbul,55,20,00:59,50,37,,Three Pointer,2,1,0,0,0,0,0,0,0,0,0,0,0,0,8,3
+11,2,2026-09-29 17:00:00,TRUE,away,2,NA,NA,0,0,1,0,0,0,0,319,MAD,P005791,2FGM,"TAVARES, WALTER",Walter Tavares,Real Madrid,22,20,00:40,50,39,,Two Pointer,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2,2
+11,2,2026-09-29 17:00:00,TRUE,away,2,"CAMPAZZO, FACUNDO","TAVARES, WALTER",0,0,0,0,0,0,0,320,MAD,P005928,AS,"CAMPAZZO, FACUNDO",Facundo Campazzo,Real Madrid,7,20,00:39,50,39,,Assist,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+11,2,2026-09-29 17:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,321,IST,P003112,TO,"SARIC, DARIO",Dario Saric,Anadolu Efes Istanbul,5,20,00:18,50,39,,Turnover,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-1
+11,2,2026-09-29 17:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,322,MAD,P005791,ST,"TAVARES, WALTER",Walter Tavares,Real Madrid,22,20,00:17,50,39,,Steal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+11,2,2026-09-29 17:00:00,TRUE,away,2,NA,NA,0,0,1,0,0,0,0,323,MAD,P005928,2FGM,"CAMPAZZO, FACUNDO",Facundo Campazzo,Real Madrid,7,20,00:13,50,41,,Two Pointer,0,0,4,2,0,0,0,0,0,0,0,0,0,0,10,2
+11,2,2026-09-29 17:00:00,TRUE,away,2,"MALEDON, THEO","CAMPAZZO, FACUNDO",0,0,0,0,0,0,0,324,MAD,P007027,AS,"MALEDON, THEO",Theo Maledon,Real Madrid,12,20,00:13,50,41,,Assist,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,1
+11,2,2026-09-29 17:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,325,IST,,TOUT,NA,NA,Anadolu Efes Istanbul,,20,00:13,50,41,,Time Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 17,2,2026-09-29 17:45:00,TRUE,NA,1,NA,NA,0,0,0,0,0,0,0,12,,,BP,NA,NA,NA,NA,1,10:00,0,0,,Begin Period,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 17,2,2026-09-29 17:45:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,13,MUN,,JB,NA,NA,FC Bayern Munich,,1,09:59,0,0,,Jump Ball,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 17,2,2026-09-29 17:45:00,TRUE,away,1,NA,NA,0,1,0,0,0,0,0,14,MUN,P014732,3FGA,"BEAUCHAMP, MARJON",Marjon Beauchamp,FC Bayern Munich,3,1,09:46,0,0,,Missed Three Pointer,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
 17,2,2026-09-29 17:45:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,15,ULK,P014168,D,"KEY, BRAXTON",Braxton Key,Fenerbahce Tarfin Istanbul,12,1,09:46,0,0,,Def Rebound,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
-17,2,2026-09-29 17:45:00,TRUE,home,1,NA,NA,1,0,0,0,0,0,0,16,ULK,P002968,3FGM,"SANLI, SERTAC",Sertac Sanli,Fenerbahce Tarfin Istanbul,5,1,09:30,3,0,,Three Pointer,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3,3
-17,2,2026-09-29 17:45:00,TRUE,home,1,"HORTON TUCKER, TALEN","SANLI, SERTAC",0,0,0,0,0,0,0,17,ULK,P014124,AS,"HORTON TUCKER, TALEN",Talen Horton Tucker,Fenerbahce Tarfin Istanbul,8,1,09:27,3,0,,Assist,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
-17,2,2026-09-29 17:45:00,TRUE,away,1,NA,NA,1,0,0,0,0,0,0,18,MUN,P014134,3FGM,"NORRIS, MILES",Miles Norris,FC Bayern Munich,0,1,09:12,3,3,,Three Pointer,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3,3
-17,2,2026-09-29 17:45:00,TRUE,away,1,"BEAUCHAMP, MARJON","NORRIS, MILES",0,0,0,0,0,0,0,19,MUN,P014732,AS,"BEAUCHAMP, MARJON",Marjon Beauchamp,FC Bayern Munich,3,1,09:10,3,3,,Assist,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
-17,2,2026-09-29 17:45:00,TRUE,home,1,NA,NA,1,0,0,0,0,0,0,21,ULK,P002968,3FGM,"SANLI, SERTAC",Sertac Sanli,Fenerbahce Tarfin Istanbul,5,2,08:52,6,3,,Three Pointer,2,2,0,0,0,0,0,0,0,0,0,0,0,0,6,3
-17,2,2026-09-29 17:45:00,TRUE,home,1,"FORREST, TRENT","SANLI, SERTAC",0,0,0,0,0,0,0,22,ULK,P013367,AS,"FORREST, TRENT",Trent Forrest,Fenerbahce Tarfin Istanbul,11,2,08:50,6,3,,Assist,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
-17,2,2026-09-29 17:45:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,23,MUN,P004508,TO,"OBST, ANDREAS",Andreas Obst,FC Bayern Munich,13,2,08:35,6,3,,Turnover,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-1
-17,2,2026-09-29 17:45:00,TRUE,home,1,NA,NA,0,0,0,1,0,0,0,24,ULK,P014124,2FGA,"HORTON TUCKER, TALEN",Talen Horton Tucker,Fenerbahce Tarfin Istanbul,8,2,08:18,6,3,,Missed Two Pointer,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,-1
-17,2,2026-09-29 17:45:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,25,MUN,P014732,D,"BEAUCHAMP, MARJON",Marjon Beauchamp,FC Bayern Munich,3,2,08:17,6,3,,Def Rebound,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
-17,2,2026-09-29 17:45:00,TRUE,away,1,NA,NA,0,0,1,0,0,0,0,26,MUN,P013278,2FGM,"WILEY, AUSTIN",Austin Wiley,FC Bayern Munich,50,2,08:07,6,5,,Two Pointer,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2,2
-17,2,2026-09-29 17:45:00,TRUE,away,1,"BEAUCHAMP, MARJON","WILEY, AUSTIN",0,0,0,0,0,0,0,27,MUN,P014732,AS,"BEAUCHAMP, MARJON",Marjon Beauchamp,FC Bayern Munich,3,2,08:06,6,5,,Assist,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1
-17,2,2026-09-29 17:45:00,TRUE,home,1,NA,NA,0,0,1,0,0,0,0,29,ULK,P014168,2FGM,"KEY, BRAXTON",Braxton Key,Fenerbahce Tarfin Istanbul,12,3,07:52,8,5,,Two Pointer,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2,2
-17,2,2026-09-29 17:45:00,TRUE,home,1,"SANLI, SERTAC","KEY, BRAXTON",0,0,0,0,0,0,0,30,ULK,P002968,AS,"SANLI, SERTAC",Sertac Sanli,Fenerbahce Tarfin Istanbul,5,3,07:51,8,5,,Assist,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
-17,2,2026-09-29 17:45:00,TRUE,away,1,NA,NA,0,0,0,1,0,0,0,31,MUN,P014732,2FGA,"BEAUCHAMP, MARJON",Marjon Beauchamp,FC Bayern Munich,3,3,07:31,8,5,,Missed Two Pointer,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,-1
-17,2,2026-09-29 17:45:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,32,ULK,,D,NA,NA,Fenerbahce Tarfin Istanbul,,3,07:31,8,5,,Def Rebound,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+17,2,2026-09-29 17:45:00,TRUE,home,1,NA,NA,0,0,1,0,0,0,0,78,ULK,P002968,2FGM,"SANLI, SERTAC",Sertac Sanli,Fenerbahce Tarfin Istanbul,5,1,09:30,2,0,,Two Pointer,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2,2
+17,2,2026-09-29 17:45:00,TRUE,home,1,"HORTON TUCKER, TALEN","SANLI, SERTAC",0,0,0,0,0,0,0,17,ULK,P014124,AS,"HORTON TUCKER, TALEN",Talen Horton Tucker,Fenerbahce Tarfin Istanbul,8,1,09:27,2,0,,Assist,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+17,2,2026-09-29 17:45:00,TRUE,away,1,NA,NA,1,0,0,0,0,0,0,18,MUN,P014134,3FGM,"NORRIS, MILES",Miles Norris,FC Bayern Munich,0,1,09:12,2,3,,Three Pointer,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3,3
+17,2,2026-09-29 17:45:00,TRUE,away,1,"BEAUCHAMP, MARJON","NORRIS, MILES",0,0,0,0,0,0,0,19,MUN,P014732,AS,"BEAUCHAMP, MARJON",Marjon Beauchamp,FC Bayern Munich,3,1,09:10,2,3,,Assist,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+17,2,2026-09-29 17:45:00,TRUE,home,1,NA,NA,1,0,0,0,0,0,0,21,ULK,P002968,3FGM,"SANLI, SERTAC",Sertac Sanli,Fenerbahce Tarfin Istanbul,5,2,08:52,5,3,,Three Pointer,1,1,0,0,0,0,0,0,0,0,0,0,0,0,5,3
+17,2,2026-09-29 17:45:00,TRUE,home,1,"FORREST, TRENT","SANLI, SERTAC",0,0,0,0,0,0,0,22,ULK,P013367,AS,"FORREST, TRENT",Trent Forrest,Fenerbahce Tarfin Istanbul,11,2,08:50,5,3,,Assist,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+17,2,2026-09-29 17:45:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,23,MUN,P004508,TO,"OBST, ANDREAS",Andreas Obst,FC Bayern Munich,13,2,08:35,5,3,,Turnover,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-1
+17,2,2026-09-29 17:45:00,TRUE,home,1,NA,NA,0,0,0,1,0,0,0,24,ULK,P014124,2FGA,"HORTON TUCKER, TALEN",Talen Horton Tucker,Fenerbahce Tarfin Istanbul,8,2,08:18,5,3,,Missed Two Pointer,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,-1
+17,2,2026-09-29 17:45:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,25,MUN,P014732,D,"BEAUCHAMP, MARJON",Marjon Beauchamp,FC Bayern Munich,3,2,08:17,5,3,,Def Rebound,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+17,2,2026-09-29 17:45:00,TRUE,away,1,NA,NA,0,0,1,0,0,0,0,26,MUN,P013278,2FGM,"WILEY, AUSTIN",Austin Wiley,FC Bayern Munich,50,2,08:07,5,5,,Two Pointer,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2,2
+17,2,2026-09-29 17:45:00,TRUE,away,1,"BEAUCHAMP, MARJON","WILEY, AUSTIN",0,0,0,0,0,0,0,27,MUN,P014732,AS,"BEAUCHAMP, MARJON",Marjon Beauchamp,FC Bayern Munich,3,2,08:06,5,5,,Assist,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1
+17,2,2026-09-29 17:45:00,TRUE,home,1,NA,NA,0,0,1,0,0,0,0,29,ULK,P014168,2FGM,"KEY, BRAXTON",Braxton Key,Fenerbahce Tarfin Istanbul,12,3,07:52,7,5,,Two Pointer,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2,2
+17,2,2026-09-29 17:45:00,TRUE,home,1,"SANLI, SERTAC","KEY, BRAXTON",0,0,0,0,0,0,0,30,ULK,P002968,AS,"SANLI, SERTAC",Sertac Sanli,Fenerbahce Tarfin Istanbul,5,3,07:51,7,5,,Assist,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+17,2,2026-09-29 17:45:00,TRUE,away,1,NA,NA,0,0,0,1,0,0,0,31,MUN,P014732,2FGA,"BEAUCHAMP, MARJON",Marjon Beauchamp,FC Bayern Munich,3,3,07:31,7,5,,Missed Two Pointer,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,-1
+17,2,2026-09-29 17:45:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,32,ULK,,D,NA,NA,Fenerbahce Tarfin Istanbul,,3,07:31,7,5,,Def Rebound,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+17,2,2026-09-29 17:45:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,33,MUN,P009513,CM,"HOLLATZ, JUSTUS",Justus Hollatz,FC Bayern Munich,21,3,07:15,7,5,,Foul,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-1
+17,2,2026-09-29 17:45:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,34,ULK,P013367,RV,"FORREST, TRENT",Trent Forrest,Fenerbahce Tarfin Istanbul,11,3,07:15,7,5,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+17,2,2026-09-29 17:45:00,TRUE,home,1,NA,NA,0,0,0,0,1,0,0,35,ULK,P013367,FTM,"FORREST, TRENT",Trent Forrest,Fenerbahce Tarfin Istanbul,11,3,07:15,8,5,,Free Throw In,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1
+17,2,2026-09-29 17:45:00,TRUE,home,1,NA,NA,0,0,0,0,0,1,0,36,ULK,P013367,FTA,"FORREST, TRENT",Trent Forrest,Fenerbahce Tarfin Istanbul,11,3,07:15,8,5,,Missed Free Throw,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,-1
+17,2,2026-09-29 17:45:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,37,ULK,,O,NA,NA,Fenerbahce Tarfin Istanbul,,3,07:14,8,5,,Off Rebound,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+17,2,2026-09-29 17:45:00,TRUE,home,1,NA,NA,0,0,0,1,0,0,0,38,ULK,P014124,2FGA,"HORTON TUCKER, TALEN",Talen Horton Tucker,Fenerbahce Tarfin Istanbul,8,3,07:08,8,5,,Missed Two Pointer,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,-1
+17,2,2026-09-29 17:45:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,39,ULK,P014124,O,"HORTON TUCKER, TALEN",Talen Horton Tucker,Fenerbahce Tarfin Istanbul,8,3,07:07,8,5,,Off Rebound,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+17,2,2026-09-29 17:45:00,TRUE,home,1,NA,NA,0,0,0,1,0,0,0,40,ULK,P014124,2FGA,"HORTON TUCKER, TALEN",Talen Horton Tucker,Fenerbahce Tarfin Istanbul,8,3,07:07,8,5,,Missed Two Pointer,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,-1
+17,2,2026-09-29 17:45:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,41,MUN,P013278,D,"WILEY, AUSTIN",Austin Wiley,FC Bayern Munich,50,3,07:06,8,5,,Def Rebound,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+17,2,2026-09-29 17:45:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,42,ULK,P002968,CM,"SANLI, SERTAC",Sertac Sanli,Fenerbahce Tarfin Istanbul,5,3,07:02,8,5,,Foul,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-1
+17,2,2026-09-29 17:45:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,43,MUN,P014732,RV,"BEAUCHAMP, MARJON",Marjon Beauchamp,FC Bayern Munich,3,3,07:02,8,5,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+17,2,2026-09-29 17:45:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,44,ULK,P013506,IN,"BINGHAM, MARCUS",Marcus Bingham,Fenerbahce Tarfin Istanbul,1,3,07:02,8,5,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,2,2026-09-29 17:45:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,45,ULK,P002968,OUT,"SANLI, SERTAC",Sertac Sanli,Fenerbahce Tarfin Istanbul,5,3,07:02,8,5,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,2,2026-09-29 17:45:00,TRUE,away,1,NA,NA,0,1,0,0,0,0,0,47,MUN,P004508,3FGA,"OBST, ANDREAS",Andreas Obst,FC Bayern Munich,13,4,06:45,8,5,,Missed Three Pointer,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+17,2,2026-09-29 17:45:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,48,MUN,P004508,AG,"OBST, ANDREAS",Andreas Obst,FC Bayern Munich,13,4,06:45,8,5,,Shot Rejected,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,-1
+17,2,2026-09-29 17:45:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,49,ULK,P013506,FV,"BINGHAM, MARCUS",Marcus Bingham,Fenerbahce Tarfin Istanbul,1,4,06:43,8,5,,Block,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+17,2,2026-09-29 17:45:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,50,ULK,P007831,D,"SHIELDS, SHAVON",Shavon Shields,Fenerbahce Tarfin Istanbul,31,4,06:42,8,5,,Def Rebound,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+17,2,2026-09-29 17:45:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,51,MUN,P004508,CM,"OBST, ANDREAS",Andreas Obst,FC Bayern Munich,13,4,06:40,8,5,,Foul,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-1
+17,2,2026-09-29 17:45:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,52,ULK,P013506,RV,"BINGHAM, MARCUS",Marcus Bingham,Fenerbahce Tarfin Istanbul,1,4,06:40,8,5,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+17,2,2026-09-29 17:45:00,TRUE,home,1,NA,NA,1,0,0,0,0,0,0,53,ULK,P014124,3FGM,"HORTON TUCKER, TALEN",Talen Horton Tucker,Fenerbahce Tarfin Istanbul,8,4,06:25,11,5,,Three Pointer,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3,3
+17,2,2026-09-29 17:45:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,54,ULK,P013506,CM,"BINGHAM, MARCUS",Marcus Bingham,Fenerbahce Tarfin Istanbul,1,4,06:08,11,5,,Foul,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-1
+17,2,2026-09-29 17:45:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,55,MUN,P009513,RV,"HOLLATZ, JUSTUS",Justus Hollatz,FC Bayern Munich,21,4,06:08,11,5,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+17,2,2026-09-29 17:45:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,56,MUN,P009513,OUT,"HOLLATZ, JUSTUS",Justus Hollatz,FC Bayern Munich,21,4,06:08,11,5,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,2,2026-09-29 17:45:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,57,MUN,P007519,IN,"JOKUBAITIS, ROKAS",Rokas Jokubaitis,FC Bayern Munich,31,4,06:08,11,5,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,2,2026-09-29 17:45:00,TRUE,away,1,NA,NA,0,0,1,0,0,0,0,58,MUN,P013278,2FGM,"WILEY, AUSTIN",Austin Wiley,FC Bayern Munich,50,4,06:03,11,7,,Two Pointer,0,0,2,2,0,0,0,0,0,0,0,0,0,0,4,2
+17,2,2026-09-29 17:45:00,TRUE,away,1,"JOKUBAITIS, ROKAS","WILEY, AUSTIN",0,0,0,0,0,0,0,59,MUN,P007519,AS,"JOKUBAITIS, ROKAS",Rokas Jokubaitis,FC Bayern Munich,31,4,06:02,11,7,,Assist,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+17,2,2026-09-29 17:45:00,TRUE,home,1,NA,NA,0,0,1,0,0,0,0,61,ULK,P013506,2FGM,"BINGHAM, MARCUS",Marcus Bingham,Fenerbahce Tarfin Istanbul,1,5,05:50,13,7,,Two Pointer,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2,2
+17,2,2026-09-29 17:45:00,TRUE,home,1,"HORTON TUCKER, TALEN","BINGHAM, MARCUS",0,0,0,0,0,0,0,62,ULK,P014124,AS,"HORTON TUCKER, TALEN",Talen Horton Tucker,Fenerbahce Tarfin Istanbul,8,5,05:49,13,7,,Assist,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1
+17,2,2026-09-29 17:45:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,63,MUN,P013278,TO,"WILEY, AUSTIN",Austin Wiley,FC Bayern Munich,50,5,05:36,13,7,,Turnover,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-1
+17,2,2026-09-29 17:45:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,64,ULK,P013506,ST,"BINGHAM, MARCUS",Marcus Bingham,Fenerbahce Tarfin Istanbul,1,5,05:35,13,7,,Steal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+17,2,2026-09-29 17:45:00,TRUE,home,1,NA,NA,0,0,0,1,0,0,0,65,ULK,P014168,2FGA,"KEY, BRAXTON",Braxton Key,Fenerbahce Tarfin Istanbul,12,5,05:27,13,7,,Missed Two Pointer,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,-1
+17,2,2026-09-29 17:45:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,66,ULK,P013367,O,"FORREST, TRENT",Trent Forrest,Fenerbahce Tarfin Istanbul,11,5,05:27,13,7,,Off Rebound,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+17,2,2026-09-29 17:45:00,TRUE,home,1,NA,NA,1,0,0,0,0,0,0,67,ULK,P013506,3FGM,"BINGHAM, MARCUS",Marcus Bingham,Fenerbahce Tarfin Istanbul,1,5,05:19,16,7,,Three Pointer,1,1,0,0,0,0,0,0,0,0,0,0,0,0,5,3
+17,2,2026-09-29 17:45:00,TRUE,home,1,"HORTON TUCKER, TALEN","BINGHAM, MARCUS",0,0,0,0,0,0,0,68,ULK,P014124,AS,"HORTON TUCKER, TALEN",Talen Horton Tucker,Fenerbahce Tarfin Istanbul,8,5,05:19,16,7,,Assist,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,1
+17,2,2026-09-29 17:45:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,69,MUN,,TOUT,NA,NA,FC Bayern Munich,,5,05:19,16,7,,Time Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,2,2026-09-29 17:45:00,TRUE,NA,1,NA,NA,0,0,0,0,0,0,0,70,,,TOUT_TV,NA,NA,NA,NA,5,05:19,16,7,,TV Time Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,2,2026-09-29 17:45:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,72,MUN,P011244,IN,"DA SILVA, OSCAR",Oscar Da Silva,FC Bayern Munich,1,5,05:19,16,7,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,2,2026-09-29 17:45:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,73,MUN,P013370,IN,"WASHINGTON, DUANE",Duane Washington,FC Bayern Munich,4,5,05:19,16,7,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,2,2026-09-29 17:45:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,74,MUN,P004508,OUT,"OBST, ANDREAS",Andreas Obst,FC Bayern Munich,13,5,05:19,16,7,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,2,2026-09-29 17:45:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,75,MUN,P007519,OUT,"JOKUBAITIS, ROKAS",Rokas Jokubaitis,FC Bayern Munich,31,5,05:19,16,7,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,2,2026-09-29 17:45:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,76,MUN,P003958,IN,"THIEMANN, JOHANNES",Johannes Thiemann,FC Bayern Munich,32,5,05:19,16,7,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,2,2026-09-29 17:45:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,77,MUN,P013278,OUT,"WILEY, AUSTIN",Austin Wiley,FC Bayern Munich,50,5,05:19,16,7,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,2,2026-09-29 17:45:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,79,MUN,P014732,OUT,"BEAUCHAMP, MARJON",Marjon Beauchamp,FC Bayern Munich,3,5,05:19,16,7,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,2,2026-09-29 17:45:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,80,MUN,P007519,IN,"JOKUBAITIS, ROKAS",Rokas Jokubaitis,FC Bayern Munich,31,5,05:19,16,7,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,2,2026-09-29 17:45:00,TRUE,away,1,NA,NA,0,0,1,0,0,0,0,81,MUN,P014732,2FGM,"BEAUCHAMP, MARJON",Marjon Beauchamp,FC Bayern Munich,3,5,05:04,16,9,,Two Pointer,0,0,2,1,0,0,0,0,0,0,0,0,0,0,2,2
+17,2,2026-09-29 17:45:00,TRUE,home,1,NA,NA,0,1,0,0,0,0,0,83,ULK,P013506,3FGA,"BINGHAM, MARCUS",Marcus Bingham,Fenerbahce Tarfin Istanbul,1,6,04:44,16,9,,Missed Three Pointer,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+17,2,2026-09-29 17:45:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,84,ULK,P014168,O,"KEY, BRAXTON",Braxton Key,Fenerbahce Tarfin Istanbul,12,6,04:42,16,9,,Off Rebound,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+17,2,2026-09-29 17:45:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,85,ULK,P009863,IN,"BALDWIN IV, WADE",Wade Baldwin IV,Fenerbahce Tarfin Istanbul,2,6,04:42,16,9,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,2,2026-09-29 17:45:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,86,ULK,P014124,OUT,"HORTON TUCKER, TALEN",Talen Horton Tucker,Fenerbahce Tarfin Istanbul,8,6,04:42,16,9,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,2,2026-09-29 17:45:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,87,ULK,P013367,OUT,"FORREST, TRENT",Trent Forrest,Fenerbahce Tarfin Istanbul,11,6,04:42,16,9,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,2,2026-09-29 17:45:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,88,ULK,P006896,IN,"SARGIUNAS, IGNAS",Ignas Sargiunas,Fenerbahce Tarfin Istanbul,43,6,04:42,16,9,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,2,2026-09-29 17:45:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,89,MUN,P011244,OUT,"DA SILVA, OSCAR",Oscar Da Silva,FC Bayern Munich,1,6,04:42,16,9,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,2,2026-09-29 17:45:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,90,MUN,P014732,IN,"BEAUCHAMP, MARJON",Marjon Beauchamp,FC Bayern Munich,3,6,04:42,16,9,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,2,2026-09-29 17:45:00,TRUE,home,1,NA,NA,0,0,0,1,0,0,0,91,ULK,P006896,2FGA,"SARGIUNAS, IGNAS",Ignas Sargiunas,Fenerbahce Tarfin Istanbul,43,6,04:35,16,9,,Missed Two Pointer,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,-1
+17,2,2026-09-29 17:45:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,92,MUN,P003958,D,"THIEMANN, JOHANNES",Johannes Thiemann,FC Bayern Munich,32,6,04:33,16,9,,Def Rebound,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+17,2,2026-09-29 17:45:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,93,ULK,P009863,CM,"BALDWIN IV, WADE",Wade Baldwin IV,Fenerbahce Tarfin Istanbul,2,6,04:27,16,9,,Foul,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-1
+17,2,2026-09-29 17:45:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,94,MUN,P013370,RV,"WASHINGTON, DUANE",Duane Washington,FC Bayern Munich,4,6,04:27,16,9,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+17,2,2026-09-29 17:45:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,95,MUN,P014134,OUT,"NORRIS, MILES",Miles Norris,FC Bayern Munich,0,6,04:27,16,9,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,2,2026-09-29 17:45:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,96,MUN,P001288,IN,"LUCIC, VLADIMIR",Vladimir Lucic,FC Bayern Munich,11,6,04:27,16,9,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+17,2,2026-09-29 17:45:00,TRUE,away,1,NA,NA,0,0,0,0,0,1,0,97,MUN,P013370,FTA,"WASHINGTON, DUANE",Duane Washington,FC Bayern Munich,4,6,04:27,16,9,,Missed Free Throw,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,-1
