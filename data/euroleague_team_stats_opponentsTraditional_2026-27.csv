@@ -1,6 +1,6 @@
 team_ranking,team_code,team_tv_codes,team_name,team_image_url,games_played,minutes_played,points_scored,two_pointers_made,two_pointers_attempted,two_pointers_percentage,three_pointers_made,three_pointers_attempted,three_pointers_percentage,free_throws_made,free_throws_attempted,free_throws_percentage,offensive_rebounds,defensive_rebounds,total_rebounds,assists,steals,turnovers,blocks,blocks_against,fouls_commited,fouls_drawn,pir
 1,BAS,KBA,Baskonia Vitoria-Gasteiz,https://media-cdn.cortextech.io/cbc49cb0-99ce-4462-bdb7-56983ee03cf4.png,2,40,108.5,27,45.5,59.3%,10.5,24.5,42.9%,23,26,88.5%,12.5,27.5,40,23.5,7.5,13,3.5,2.5,17,21.5,136.5
-2,PRS,PBB,Paris Basketball,https://media-cdn.incrowdsports.com/a033e5b3-0de7-48a3-98d9-d9a4b9df1f39.png,1,40,91,20,37,54.1%,10,29,34.5%,21,22,95.5%,15,30,45,16,10,17,8,2,17,22,119
+2,PRS,PBB,Paris Basketball,https://media-cdn.incrowdsports.com/a033e5b3-0de7-48a3-98d9-d9a4b9df1f39.png,2,40,91.5,22.5,39.5,57%,9,24,37.5%,19.5,23,84.8%,12,25,37,19,12,15,5,3,19,23.5,115.5
 3,MUN,BAY,FC Bayern Munich,https://media-cdn.incrowdsports.com/817b0e58-d595-4b09-ab0b-1e7cc26249ff.png,2,40,92,24,40,60%,11,28,39.3%,11,12,91.7%,13,23,36,19,7,12.5,3.5,2,18.5,19,109.5
 4,BES,BJK,Besiktas Istanbul,https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/b05e3c54-e672-4b31-9f86-c91e9de7715c.png,1,40,96,25,49,51%,9,21,42.9%,19,21,90.5%,16,24,40,18,6,13,0,3,24,26,108
 5,MIL,MIL,Armani Olimpia Milan,https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/5c2f0ab6-f86a-4df0-b2f3-f9ab92f7267b.png,2,40,88.5,23,40,57.5%,9.5,24,39.6%,14,18,77.8%,8.5,23.5,32,20.5,10,9.5,4,1.5,20.5,19.5,107.5
@@ -14,8 +14,8 @@ team_ranking,team_code,team_tv_codes,team_name,team_image_url,games_played,minut
 13,MAD,RMB,Real Madrid,https://media-cdn.incrowdsports.com/371b0d9b-9250-4c09-bda7-0686cf024657.png,2,40,86,19.5,42,46.4%,10,26.5,37.7%,17,20,85%,12.5,23,35.5,17.5,7,12.5,3.5,5,18,20.5,92.5
 14,ZAL,ZAL,Zalgiris Kaunas,https://media-cdn.incrowdsports.com/0aa09358-3847-4c4e-b228-3582ee4e536d.png,2,40,85,22.5,43,52.3%,7.5,24.5,30.6%,17.5,23.5,74.5%,13,21.5,34.5,21.5,8.5,14,2.5,4,20.5,22,92
 15,HTA,HTA,Hapoel Tel Aviv,https://media-cdn.incrowdsports.com/cbb1c3ad-03d5-426a-b5ef-2832a4eee484.png,2,40,83,20.5,40,51.2%,8.5,26,32.7%,16.5,19.5,84.6%,13,28,41,20.5,6,12.5,1.5,4.5,25.5,20,89.5
-16,DUB,DUB,Dubai Basketball,https://media-cdn.incrowdsports.com/1efae090-16e2-4963-ae47-4b94f249c244.png,2,40,82,24.5,44.5,55.1%,8.5,27,31.5%,7.5,9.5,78.9%,11,17.5,28.5,14,7,6.5,3,4.5,19.5,14.5,78
-17,ASV,ASV,LDLC ASVEL Villeurbanne,https://media-cdn.incrowdsports.com/e33c6d1a-95ca-4dbc-b8cb-0201812104cc.png,1,40,74,21,34,61.8%,7,29,24.1%,11,15,73.3%,10,28,38,19,10,20,0,3,25,20,74
-18,PAR,PAR,Partizan Mozzart Bet Belgrade,https://media-cdn.incrowdsports.com/2681304e-77dd-4331-88b1-683078c0fb49.png,1,40,76,17,34,50%,11,23,47.8%,9,11,81.8%,6,22,28,17,2,16,1,4,19,18,72
+16,PAR,PAR,Partizan Mozzart Bet Belgrade,https://media-cdn.incrowdsports.com/2681304e-77dd-4331-88b1-683078c0fb49.png,2,40,77.5,17.5,32,54.7%,11,26.5,41.5%,9.5,12,79.2%,9,21.5,30.5,19.5,6,18.5,2.5,3,22,19.5,79.5
+17,DUB,DUB,Dubai Basketball,https://media-cdn.incrowdsports.com/1efae090-16e2-4963-ae47-4b94f249c244.png,2,40,82,24.5,44.5,55.1%,8.5,27,31.5%,7.5,9.5,78.9%,11,17.5,28.5,14,7,6.5,3,4.5,19.5,14.5,78
+18,ASV,ASV,LDLC ASVEL Villeurbanne,https://media-cdn.incrowdsports.com/e33c6d1a-95ca-4dbc-b8cb-0201812104cc.png,1,40,74,21,34,61.8%,7,29,24.1%,11,15,73.3%,10,28,38,19,10,20,0,3,25,20,74
 19,ULK,FBT,Fenerbahce Istanbul,https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezrk/aa39750a-6203-49ee-a87d-edd0c6f0397d.png,2,40,72,21.5,35,61.4%,5.5,26.5,20.8%,12.5,15.5,80.6%,8.5,23,31.5,14.5,2.5,13.5,2.5,3,20.5,19,67.5
 20,PAN,PAO,Panathinaikos AKTOR Athens,https://media-cdn.incrowdsports.com/e3dff28a-9ec6-4faf-9d96-ecbc68f75780.png,1,40,72,12,27,44.4%,13,39,33.3%,9,15,60%,11,20,31,19,7,17,2,8,22,17,54
