@@ -98,6 +98,126 @@ gamecode,jornada,date,live,court,quarter,jugador_asiste,jugador_asistido,three_m
 12,1,2026-09-29 16:00:00,TRUE,away,1,NA,NA,0,1,0,0,0,0,0,109,TRN,P006724,3FGA,"BAYEHE, JORDAN",Jordan Bayehe,Dolomiti Energia Trento,26,7,03:35,13,9,,Missed Three Pointer,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
 12,1,2026-09-29 16:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,110,TRN,,O,NA,NA,Dolomiti Energia Trento,,7,03:35,13,9,,Off Rebound,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
 12,1,2026-09-29 16:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,111,KLA,P014907,CM,"FRIDRIKSSON, ELVAR",Elvar Fridriksson,Neptunas Klaipeda,10,7,03:35,13,9,,Foul,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-1
-12,1,2026-09-29 16:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,112,TRN,P013862,RV,"MEDINA BOUZA, JOSE",Jose Medina Bouza,Dolomiti Energia Trento,30,7,03:35,13,9,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+12,1,2026-09-29 16:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,112,TRN,P014857,RV,"BIGELOW, ISAIAH",Isaiah Bigelow,Dolomiti Energia Trento,24,7,03:35,13,9,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
 12,1,2026-09-29 16:00:00,TRUE,away,1,NA,NA,1,0,0,0,0,0,0,113,TRN,P010597,3FGM,"BERTINI, ALESSANDRO",Alessandro Bertini,Dolomiti Energia Trento,5,7,03:27,13,12,,Three Pointer,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3,3
-12,1,2026-09-29 16:00:00,TRUE,away,1,"BAYEHE, JORDAN","BERTINI, ALESSANDRO",0,0,0,0,0,0,0,114,TRN,P006724,AS,"BAYEHE, JORDAN",Jordan Bayehe,Dolomiti Energia Trento,26,7,03:25,13,12,,Assist,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+12,1,2026-09-29 16:00:00,TRUE,away,1,"BIGELOW, ISAIAH","BERTINI, ALESSANDRO",0,0,0,0,0,0,0,114,TRN,P014857,AS,"BIGELOW, ISAIAH",Isaiah Bigelow,Dolomiti Energia Trento,24,7,03:25,13,12,,Assist,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+12,1,2026-09-29 16:00:00,TRUE,home,1,NA,NA,0,0,1,0,0,0,0,115,KLA,P008260,2FGM,"DRELL, HENRI",Henri Drell,Neptunas Klaipeda,0,7,03:05,15,12,,Two Pointer,0,0,2,1,0,0,0,0,0,0,0,0,0,0,5,2
+12,1,2026-09-29 16:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,117,KLA,P014907,CM,"FRIDRIKSSON, ELVAR",Elvar Fridriksson,Neptunas Klaipeda,10,8,02:54,15,12,,Foul,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,-1
+12,1,2026-09-29 16:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,118,TRN,P014855,RV,"OLIVARI, QUINCY",Quincy Olivari,Dolomiti Energia Trento,8,8,02:54,15,12,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1
+12,1,2026-09-29 16:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,119,KLA,P005522,OUT,"ECHODAS, MARTYNAS",Martynas Echodas,Neptunas Klaipeda,14,8,02:54,15,12,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,1,2026-09-29 16:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,120,KLA,P014908,IN,"SOMERVILLE, RAYMOND",Raymond Somerville,Neptunas Klaipeda,17,8,02:54,15,12,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,1,2026-09-29 16:00:00,TRUE,away,1,NA,NA,0,0,0,0,1,0,0,121,TRN,P014855,FTM,"OLIVARI, QUINCY",Quincy Olivari,Dolomiti Energia Trento,8,8,02:54,15,13,,Free Throw In,0,0,0,0,3,3,0,0,0,0,0,0,0,0,5,1
+12,1,2026-09-29 16:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,1,0,122,TRN,P014855,FTA,"OLIVARI, QUINCY",Quincy Olivari,Dolomiti Energia Trento,8,8,02:54,15,13,,Missed Free Throw,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,-1
+12,1,2026-09-29 16:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,123,KLA,P006856,D,"TUBUTIS, EINARAS",Einaras Tubutis,Neptunas Klaipeda,37,8,02:54,15,13,,Def Rebound,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+12,1,2026-09-29 16:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,124,KLA,P014908,OF,"SOMERVILLE, RAYMOND",Raymond Somerville,Neptunas Klaipeda,17,8,02:38,15,13,,Offensive Foul,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+12,1,2026-09-29 16:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,125,KLA,P014908,TO,"SOMERVILLE, RAYMOND",Raymond Somerville,Neptunas Klaipeda,17,8,02:38,15,13,,Turnover,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-1
+12,1,2026-09-29 16:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,126,TRN,P010597,RV,"BERTINI, ALESSANDRO",Alessandro Bertini,Dolomiti Energia Trento,5,8,02:38,15,13,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+12,1,2026-09-29 16:00:00,TRUE,away,1,NA,NA,1,0,0,0,0,0,0,127,TRN,P014855,3FGM,"OLIVARI, QUINCY",Quincy Olivari,Dolomiti Energia Trento,8,8,02:23,15,16,,Three Pointer,3,1,0,0,0,0,0,0,0,0,0,0,0,0,8,3
+12,1,2026-09-29 16:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,128,KLA,P008260,TO,"DRELL, HENRI",Henri Drell,Neptunas Klaipeda,0,8,02:12,15,16,,Turnover,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-1
+12,1,2026-09-29 16:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,129,TRN,P014857,ST,"BIGELOW, ISAIAH",Isaiah Bigelow,Dolomiti Energia Trento,24,8,02:08,15,16,,Steal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+12,1,2026-09-29 16:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,130,TRN,P013862,TO,"MEDINA BOUZA, JOSE",Jose Medina Bouza,Dolomiti Energia Trento,30,8,02:10,15,16,,Turnover,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-1
+12,1,2026-09-29 16:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,131,KLA,P014906,IN,"SARAKAUSKAS, SIMAS",Simas Sarakauskas,Neptunas Klaipeda,7,8,02:10,15,16,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,1,2026-09-29 16:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,132,KLA,P014907,OUT,"FRIDRIKSSON, ELVAR",Elvar Fridriksson,Neptunas Klaipeda,10,8,02:10,15,16,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,1,2026-09-29 16:00:00,TRUE,home,1,NA,NA,0,1,0,0,0,0,0,134,KLA,P008260,3FGA,"DRELL, HENRI",Henri Drell,Neptunas Klaipeda,0,9,01:44,15,16,,Missed Three Pointer,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+12,1,2026-09-29 16:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,135,KLA,P014908,O,"SOMERVILLE, RAYMOND",Raymond Somerville,Neptunas Klaipeda,17,9,01:42,15,16,,Off Rebound,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+12,1,2026-09-29 16:00:00,TRUE,home,1,NA,NA,0,0,0,1,0,0,0,136,KLA,P014908,2FGA,"SOMERVILLE, RAYMOND",Raymond Somerville,Neptunas Klaipeda,17,9,01:38,15,16,,Missed Two Pointer,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,-1
+12,1,2026-09-29 16:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,137,KLA,P014908,AG,"SOMERVILLE, RAYMOND",Raymond Somerville,Neptunas Klaipeda,17,9,01:38,15,16,,Shot Rejected,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,-1
+12,1,2026-09-29 16:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,138,TRN,P006724,FV,"BAYEHE, JORDAN",Jordan Bayehe,Dolomiti Energia Trento,26,9,01:35,15,16,,Block,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+12,1,2026-09-29 16:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,139,TRN,P014855,D,"OLIVARI, QUINCY",Quincy Olivari,Dolomiti Energia Trento,8,9,01:33,15,16,,Def Rebound,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+12,1,2026-09-29 16:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,140,TRN,P014855,TO,"OLIVARI, QUINCY",Quincy Olivari,Dolomiti Energia Trento,8,9,01:31,15,16,,Turnover,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-1
+12,1,2026-09-29 16:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,141,KLA,P006856,ST,"TUBUTIS, EINARAS",Einaras Tubutis,Neptunas Klaipeda,37,9,01:29,15,16,,Steal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+12,1,2026-09-29 16:00:00,TRUE,home,1,NA,NA,0,1,0,0,0,0,0,142,KLA,P006856,3FGA,"TUBUTIS, EINARAS",Einaras Tubutis,Neptunas Klaipeda,37,9,01:15,15,16,,Missed Three Pointer,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+12,1,2026-09-29 16:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,143,TRN,P014857,D,"BIGELOW, ISAIAH",Isaiah Bigelow,Dolomiti Energia Trento,24,9,01:13,15,16,,Def Rebound,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+12,1,2026-09-29 16:00:00,TRUE,away,1,NA,NA,0,0,0,1,0,0,0,144,TRN,P014855,2FGA,"OLIVARI, QUINCY",Quincy Olivari,Dolomiti Energia Trento,8,9,01:03,15,16,,Missed Two Pointer,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,-1
+12,1,2026-09-29 16:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,145,TRN,P014855,AG,"OLIVARI, QUINCY",Quincy Olivari,Dolomiti Energia Trento,8,9,01:03,15,16,,Shot Rejected,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,-1
+12,1,2026-09-29 16:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,146,KLA,P014908,FV,"SOMERVILLE, RAYMOND",Raymond Somerville,Neptunas Klaipeda,17,9,01:03,15,16,,Block,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+12,1,2026-09-29 16:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,147,TRN,,O,NA,NA,Dolomiti Energia Trento,,9,01:03,15,16,,Off Rebound,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1
+12,1,2026-09-29 16:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,148,TRN,P014855,OUT,"OLIVARI, QUINCY",Quincy Olivari,Dolomiti Energia Trento,8,9,01:03,15,16,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,1,2026-09-29 16:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,149,TRN,P006382,IN,"FORRAY, TOTO",Toto Forray,Dolomiti Energia Trento,10,9,01:03,15,16,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,1,2026-09-29 16:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,150,TRN,P013271,IN,"MAWUGBE, SELOM",Selom Mawugbe,Dolomiti Energia Trento,21,9,01:03,15,16,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,1,2026-09-29 16:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,151,TRN,P006724,OUT,"BAYEHE, JORDAN",Jordan Bayehe,Dolomiti Energia Trento,26,9,01:03,15,16,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,1,2026-09-29 16:00:00,TRUE,away,1,NA,NA,0,1,0,0,0,0,0,153,TRN,P013862,3FGA,"MEDINA BOUZA, JOSE",Jose Medina Bouza,Dolomiti Energia Trento,30,10,00:55,15,16,,Missed Three Pointer,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+12,1,2026-09-29 16:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,154,TRN,P014857,O,"BIGELOW, ISAIAH",Isaiah Bigelow,Dolomiti Energia Trento,24,10,00:53,15,16,,Off Rebound,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+12,1,2026-09-29 16:00:00,TRUE,away,1,NA,NA,0,0,1,0,0,0,0,155,TRN,P014857,2FGM,"BIGELOW, ISAIAH",Isaiah Bigelow,Dolomiti Energia Trento,24,10,00:50,15,18,,Two Pointer,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2,2
+12,1,2026-09-29 16:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,156,KLA,P014906,TO,"SARAKAUSKAS, SIMAS",Simas Sarakauskas,Neptunas Klaipeda,7,10,00:38,15,18,,Turnover,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-1
+12,1,2026-09-29 16:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,157,TRN,P013271,ST,"MAWUGBE, SELOM",Selom Mawugbe,Dolomiti Energia Trento,21,10,00:36,15,18,,Steal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+12,1,2026-09-29 16:00:00,TRUE,away,1,NA,NA,1,0,0,0,0,0,0,158,TRN,P014857,3FGM,"BIGELOW, ISAIAH",Isaiah Bigelow,Dolomiti Energia Trento,24,10,00:31,15,21,,Three Pointer,2,1,0,0,0,0,0,0,0,0,0,0,0,0,5,3
+12,1,2026-09-29 16:00:00,TRUE,away,1,"MAWUGBE, SELOM","BIGELOW, ISAIAH",0,0,0,0,0,0,0,208,TRN,P013271,AS,"MAWUGBE, SELOM",Selom Mawugbe,Dolomiti Energia Trento,21,10,00:31,15,21,,Assist,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+12,1,2026-09-29 16:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,159,KLA,P014906,TO,"SARAKAUSKAS, SIMAS",Simas Sarakauskas,Neptunas Klaipeda,7,10,00:10,15,21,,Turnover,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,-1
+12,1,2026-09-29 16:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,160,TRN,P014853,IN,"BROWN II, DARIUS",Darius Brown II,Dolomiti Energia Trento,0,10,00:10,15,21,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,1,2026-09-29 16:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,161,TRN,P013862,OUT,"MEDINA BOUZA, JOSE",Jose Medina Bouza,Dolomiti Energia Trento,30,10,00:10,15,21,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,1,2026-09-29 16:00:00,TRUE,away,1,NA,NA,0,0,0,1,0,0,0,162,TRN,P014853,2FGA,"BROWN II, DARIUS",Darius Brown II,Dolomiti Energia Trento,0,10,00:00,15,21,,Missed Two Pointer,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,-1
+12,1,2026-09-29 16:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,163,KLA,P006856,D,"TUBUTIS, EINARAS",Einaras Tubutis,Neptunas Klaipeda,37,10,00:00,15,21,,Def Rebound,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+12,1,2026-09-29 16:00:00,TRUE,home,1,NA,NA,0,1,0,0,0,0,0,164,KLA,P006856,3FGA,"TUBUTIS, EINARAS",Einaras Tubutis,Neptunas Klaipeda,37,10,00:00,15,21,,Missed Three Pointer,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+12,1,2026-09-29 16:00:00,TRUE,NA,0,NA,NA,0,0,0,0,0,0,0,166,,,EP,NA,NA,NA,NA,11,00:00,15,21,,End Period,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,1,2026-09-29 16:00:00,TRUE,NA,2,NA,NA,0,0,0,0,0,0,0,167,,,BP,NA,NA,NA,NA,11,10:00,15,21,,Begin Period,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,1,2026-09-29 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,168,KLA,P005860,IN,"TAROLIS, DONATAS",Donatas Tarolis,Neptunas Klaipeda,1,11,09:59,15,21,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,1,2026-09-29 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,169,KLA,P014906,OUT,"SARAKAUSKAS, SIMAS",Simas Sarakauskas,Neptunas Klaipeda,7,11,09:59,15,21,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,1,2026-09-29 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,170,KLA,P005516,IN,"ZEMAITIS, KRISTUPAS",Kristupas Zemaitis,Neptunas Klaipeda,13,11,09:59,15,21,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,1,2026-09-29 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,171,KLA,P014908,OUT,"SOMERVILLE, RAYMOND",Raymond Somerville,Neptunas Klaipeda,17,11,09:59,15,21,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,1,2026-09-29 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,172,TRN,P014853,OUT,"BROWN II, DARIUS",Darius Brown II,Dolomiti Energia Trento,0,11,09:59,15,21,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,1,2026-09-29 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,173,TRN,P013862,IN,"MEDINA BOUZA, JOSE",Jose Medina Bouza,Dolomiti Energia Trento,30,11,09:59,15,21,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,1,2026-09-29 16:00:00,TRUE,away,2,NA,NA,0,0,0,1,0,0,0,174,TRN,P014857,2FGA,"BIGELOW, ISAIAH",Isaiah Bigelow,Dolomiti Energia Trento,24,11,09:39,15,21,,Missed Two Pointer,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,-1
+12,1,2026-09-29 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,175,KLA,P005024,D,"GIRDZIUNAS, MINDAUGAS",Mindaugas Girdziunas,Neptunas Klaipeda,8,11,09:36,15,21,,Def Rebound,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+12,1,2026-09-29 16:00:00,TRUE,home,2,NA,NA,0,1,0,0,0,0,0,176,KLA,P005024,3FGA,"GIRDZIUNAS, MINDAUGAS",Mindaugas Girdziunas,Neptunas Klaipeda,8,11,09:21,15,21,,Missed Three Pointer,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+12,1,2026-09-29 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,177,KLA,P005516,O,"ZEMAITIS, KRISTUPAS",Kristupas Zemaitis,Neptunas Klaipeda,13,11,09:18,15,21,,Off Rebound,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+12,1,2026-09-29 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,178,TRN,P006382,CMU_FL,"FORRAY, TOTO",Toto Forray,Dolomiti Energia Trento,10,11,09:08,15,21,,Flagrant Foul,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,1,2026-09-29 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,179,KLA,P005860,RV,"TAROLIS, DONATAS",Donatas Tarolis,Neptunas Klaipeda,1,11,09:08,15,21,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1
+12,1,2026-09-29 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,1,0,180,KLA,P005860,FTA,"TAROLIS, DONATAS",Donatas Tarolis,Neptunas Klaipeda,1,11,09:08,15,21,,Missed Free Throw,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,-1
+12,1,2026-09-29 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,1,0,0,181,KLA,P005860,FTM,"TAROLIS, DONATAS",Donatas Tarolis,Neptunas Klaipeda,1,11,09:08,16,21,,Free Throw In,0,0,0,0,2,1,0,0,0,0,0,0,0,0,1,1
+12,1,2026-09-29 16:00:00,TRUE,home,2,"ZEMAITIS, KRISTUPAS","TAROLIS, DONATAS",0,0,0,0,0,0,0,182,KLA,P005516,AS,"ZEMAITIS, KRISTUPAS",Kristupas Zemaitis,Neptunas Klaipeda,13,11,09:08,16,21,,Assist,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+12,1,2026-09-29 16:00:00,TRUE,home,2,NA,NA,1,0,0,0,0,0,0,183,KLA,P005024,3FGM,"GIRDZIUNAS, MINDAUGAS",Mindaugas Girdziunas,Neptunas Klaipeda,8,11,09:08,19,21,,Three Pointer,2,1,0,0,0,0,0,0,0,0,0,0,0,0,3,3
+12,1,2026-09-29 16:00:00,TRUE,home,2,"ZEMAITIS, KRISTUPAS","GIRDZIUNAS, MINDAUGAS",0,0,0,0,0,0,0,184,KLA,P005516,AS,"ZEMAITIS, KRISTUPAS",Kristupas Zemaitis,Neptunas Klaipeda,13,11,09:08,19,21,,Assist,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1
+12,1,2026-09-29 16:00:00,TRUE,away,2,NA,NA,0,1,0,0,0,0,0,186,TRN,P010597,3FGA,"BERTINI, ALESSANDRO",Alessandro Bertini,Dolomiti Energia Trento,5,12,08:40,19,21,,Missed Three Pointer,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+12,1,2026-09-29 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,187,KLA,P005024,D,"GIRDZIUNAS, MINDAUGAS",Mindaugas Girdziunas,Neptunas Klaipeda,8,12,08:38,19,21,,Def Rebound,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+12,1,2026-09-29 16:00:00,TRUE,home,2,NA,NA,0,0,0,1,0,0,0,188,KLA,P005860,2FGA,"TAROLIS, DONATAS",Donatas Tarolis,Neptunas Klaipeda,1,12,08:30,19,21,,Missed Two Pointer,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,-1
+12,1,2026-09-29 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,189,KLA,P005860,O,"TAROLIS, DONATAS",Donatas Tarolis,Neptunas Klaipeda,1,12,08:29,19,21,,Off Rebound,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1
+12,1,2026-09-29 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,190,TRN,P006382,CM,"FORRAY, TOTO",Toto Forray,Dolomiti Energia Trento,10,12,08:29,19,21,,Foul,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,-1
+12,1,2026-09-29 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,191,KLA,P005860,RV,"TAROLIS, DONATAS",Donatas Tarolis,Neptunas Klaipeda,1,12,08:29,19,21,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,1
+12,1,2026-09-29 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,192,TRN,P014853,IN,"BROWN II, DARIUS",Darius Brown II,Dolomiti Energia Trento,0,12,08:29,19,21,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,1,2026-09-29 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,193,TRN,P013862,OUT,"MEDINA BOUZA, JOSE",Jose Medina Bouza,Dolomiti Energia Trento,30,12,08:29,19,21,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,1,2026-09-29 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,1,0,0,194,KLA,P005860,FTM,"TAROLIS, DONATAS",Donatas Tarolis,Neptunas Klaipeda,1,12,08:29,20,21,,Free Throw In,0,0,0,0,3,2,0,0,0,0,0,0,0,0,2,1
+12,1,2026-09-29 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,1,0,195,KLA,P005860,FTA,"TAROLIS, DONATAS",Donatas Tarolis,Neptunas Klaipeda,1,12,08:29,20,21,,Missed Free Throw,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,-1
+12,1,2026-09-29 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,196,TRN,P013271,D,"MAWUGBE, SELOM",Selom Mawugbe,Dolomiti Energia Trento,21,12,08:24,20,21,,Def Rebound,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+12,1,2026-09-29 16:00:00,TRUE,away,2,NA,NA,0,1,0,0,0,0,0,197,TRN,P014857,3FGA,"BIGELOW, ISAIAH",Isaiah Bigelow,Dolomiti Energia Trento,24,12,08:17,20,21,,Missed Three Pointer,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+12,1,2026-09-29 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,198,KLA,P005516,D,"ZEMAITIS, KRISTUPAS",Kristupas Zemaitis,Neptunas Klaipeda,13,12,08:15,20,21,,Def Rebound,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+12,1,2026-09-29 16:00:00,TRUE,home,2,NA,NA,0,1,0,0,0,0,0,199,KLA,P008260,3FGA,"DRELL, HENRI",Henri Drell,Neptunas Klaipeda,0,12,08:07,20,21,,Missed Three Pointer,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+12,1,2026-09-29 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,200,TRN,,D,NA,NA,Dolomiti Energia Trento,,12,08:05,20,21,,Def Rebound,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+12,1,2026-09-29 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,202,TRN,P014853,TO,"BROWN II, DARIUS",Darius Brown II,Dolomiti Energia Trento,0,13,07:59,20,21,,Turnover,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,-1
+12,1,2026-09-29 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,203,KLA,P005024,ST,"GIRDZIUNAS, MINDAUGAS",Mindaugas Girdziunas,Neptunas Klaipeda,8,13,07:56,20,21,,Steal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+12,1,2026-09-29 16:00:00,TRUE,home,2,NA,NA,0,0,1,0,0,0,0,204,KLA,P006856,2FGM,"TUBUTIS, EINARAS",Einaras Tubutis,Neptunas Klaipeda,37,13,07:45,22,21,,Two Pointer,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2,2
+12,1,2026-09-29 16:00:00,TRUE,home,2,"ZEMAITIS, KRISTUPAS","TUBUTIS, EINARAS",0,0,0,0,0,0,0,205,KLA,P005516,AS,"ZEMAITIS, KRISTUPAS",Kristupas Zemaitis,Neptunas Klaipeda,13,13,07:45,22,21,,Assist,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,1
+12,1,2026-09-29 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,206,TRN,,TOUT,NA,NA,Dolomiti Energia Trento,,13,07:45,22,21,,Time Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,1,2026-09-29 16:00:00,TRUE,NA,2,NA,NA,0,0,0,0,0,0,0,207,,,TOUT_TV,NA,NA,NA,NA,13,07:45,22,21,,TV Time Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,1,2026-09-29 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,209,TRN,P014854,IN,"BROWN JR, CHARLIE",Charlie Brown Jr,Dolomiti Energia Trento,4,13,07:45,22,21,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,1,2026-09-29 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,210,TRN,P010597,OUT,"BERTINI, ALESSANDRO",Alessandro Bertini,Dolomiti Energia Trento,5,13,07:45,22,21,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,1,2026-09-29 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,211,KLA,P008260,CM,"DRELL, HENRI",Henri Drell,Neptunas Klaipeda,0,13,07:27,22,21,,Foul,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-1
+12,1,2026-09-29 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,212,TRN,P014853,RV,"BROWN II, DARIUS",Darius Brown II,Dolomiti Energia Trento,0,13,07:27,22,21,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+12,1,2026-09-29 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,1,0,0,213,TRN,P014853,FTM,"BROWN II, DARIUS",Darius Brown II,Dolomiti Energia Trento,0,13,07:27,22,22,,Free Throw In,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1
+12,1,2026-09-29 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,1,0,0,214,TRN,P014853,FTM,"BROWN II, DARIUS",Darius Brown II,Dolomiti Energia Trento,0,13,07:27,22,23,,Free Throw In,0,0,0,0,2,2,0,0,0,0,0,0,0,0,2,1
+12,1,2026-09-29 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,215,KLA,P006856,TO,"TUBUTIS, EINARAS",Einaras Tubutis,Neptunas Klaipeda,37,13,07:11,22,23,,Turnover,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-1
+12,1,2026-09-29 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,216,TRN,P013271,ST,"MAWUGBE, SELOM",Selom Mawugbe,Dolomiti Energia Trento,21,13,07:09,22,23,,Steal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+12,1,2026-09-29 16:00:00,TRUE,away,2,NA,NA,0,0,1,0,0,0,0,217,TRN,P013271,2FGM,"MAWUGBE, SELOM",Selom Mawugbe,Dolomiti Energia Trento,21,13,07:02,22,25,,Two Pointer,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2,2
+12,1,2026-09-29 16:00:00,TRUE,away,2,"BROWN JR, CHARLIE","MAWUGBE, SELOM",0,0,0,0,0,0,0,219,TRN,P014854,AS,"BROWN JR, CHARLIE",Charlie Brown Jr,Dolomiti Energia Trento,4,14,06:59,22,25,,Assist,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+12,1,2026-09-29 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,220,KLA,P008260,OUT,"DRELL, HENRI",Henri Drell,Neptunas Klaipeda,0,14,06:41,22,25,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,1,2026-09-29 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,221,KLA,P007830,IN,"FRANKE, YANNICK",Yannick Franke,Neptunas Klaipeda,5,14,06:41,22,25,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,1,2026-09-29 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,222,KLA,P005024,OUT,"GIRDZIUNAS, MINDAUGAS",Mindaugas Girdziunas,Neptunas Klaipeda,8,14,06:41,22,25,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,1,2026-09-29 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,223,KLA,P005522,IN,"ECHODAS, MARTYNAS",Martynas Echodas,Neptunas Klaipeda,14,14,06:41,22,25,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,1,2026-09-29 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,224,KLA,P006154,IN,"BERUCKA, ARNAS",Arnas Berucka,Neptunas Klaipeda,21,14,06:41,22,25,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,1,2026-09-29 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,225,KLA,P006856,OUT,"TUBUTIS, EINARAS",Einaras Tubutis,Neptunas Klaipeda,37,14,06:41,22,25,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,1,2026-09-29 16:00:00,TRUE,home,2,NA,NA,0,0,1,0,0,0,0,226,KLA,P006154,2FGM,"BERUCKA, ARNAS",Arnas Berucka,Neptunas Klaipeda,21,14,06:37,24,25,,Two Pointer,0,0,1,1,0,0,0,0,0,0,0,0,0,0,5,2
+12,1,2026-09-29 16:00:00,TRUE,home,2,"ZEMAITIS, KRISTUPAS","BERUCKA, ARNAS",0,0,0,0,0,0,0,227,KLA,P005516,AS,"ZEMAITIS, KRISTUPAS",Kristupas Zemaitis,Neptunas Klaipeda,13,14,06:34,24,25,,Assist,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,1
+12,1,2026-09-29 16:00:00,TRUE,away,2,NA,NA,0,0,0,1,0,0,0,228,TRN,P014854,2FGA,"BROWN JR, CHARLIE",Charlie Brown Jr,Dolomiti Energia Trento,4,14,06:26,24,25,,Missed Two Pointer,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,-1
+12,1,2026-09-29 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,229,KLA,P005516,D,"ZEMAITIS, KRISTUPAS",Kristupas Zemaitis,Neptunas Klaipeda,13,14,06:23,24,25,,Def Rebound,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+12,1,2026-09-29 16:00:00,TRUE,home,2,NA,NA,0,0,0,1,0,0,0,230,KLA,P006154,2FGA,"BERUCKA, ARNAS",Arnas Berucka,Neptunas Klaipeda,21,14,06:14,24,25,,Missed Two Pointer,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,-1
+12,1,2026-09-29 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,231,TRN,P014853,D,"BROWN II, DARIUS",Darius Brown II,Dolomiti Energia Trento,0,14,06:10,24,25,,Def Rebound,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+12,1,2026-09-29 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,232,KLA,P005516,CM,"ZEMAITIS, KRISTUPAS",Kristupas Zemaitis,Neptunas Klaipeda,13,14,06:06,24,25,,Foul,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,-1
+12,1,2026-09-29 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,233,TRN,P014853,RV,"BROWN II, DARIUS",Darius Brown II,Dolomiti Energia Trento,0,14,06:06,24,25,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1
+12,1,2026-09-29 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,234,TRN,P013756,IN,"NIANG, CHEICKH",Cheickh Niang,Dolomiti Energia Trento,7,14,06:06,24,25,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,1,2026-09-29 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,235,TRN,P006382,OUT,"FORRAY, TOTO",Toto Forray,Dolomiti Energia Trento,10,14,06:06,24,25,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+12,1,2026-09-29 16:00:00,TRUE,away,2,NA,NA,0,1,0,0,0,0,0,237,TRN,P014854,3FGA,"BROWN JR, CHARLIE",Charlie Brown Jr,Dolomiti Energia Trento,4,15,05:55,24,25,,Missed Three Pointer,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+12,1,2026-09-29 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,238,KLA,P006154,D,"BERUCKA, ARNAS",Arnas Berucka,Neptunas Klaipeda,21,15,05:54,24,25,,Def Rebound,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+12,1,2026-09-29 16:00:00,TRUE,home,2,NA,NA,0,1,0,0,0,0,0,239,KLA,P005860,3FGA,"TAROLIS, DONATAS",Donatas Tarolis,Neptunas Klaipeda,1,15,05:44,24,25,,Missed Three Pointer,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+12,1,2026-09-29 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,240,TRN,P014857,D,"BIGELOW, ISAIAH",Isaiah Bigelow,Dolomiti Energia Trento,24,15,05:42,24,25,,Def Rebound,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+12,1,2026-09-29 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,241,KLA,P006154,CM,"BERUCKA, ARNAS",Arnas Berucka,Neptunas Klaipeda,21,15,05:40,24,25,,Foul,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-1
+12,1,2026-09-29 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,242,TRN,P014857,RV,"BIGELOW, ISAIAH",Isaiah Bigelow,Dolomiti Energia Trento,24,15,05:40,24,25,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1
