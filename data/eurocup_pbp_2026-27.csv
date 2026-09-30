@@ -3148,9 +3148,9 @@ gamecode,jornada,date,live,court,quarter,jugador_asiste,jugador_asistido,three_m
 8,1,2026-09-30 15:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,53,LLI,P011218,RV,"EVANS, KEENAN",Keenan Evans,London Lions,12,4,06:00,9,6,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
 8,1,2026-09-30 15:30:00,TRUE,away,1,NA,NA,0,1,0,0,0,0,0,54,LLI,P011218,3FGA,"EVANS, KEENAN",Keenan Evans,London Lions,12,4,06:00,9,6,,Missed Three Pointer,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
 8,1,2026-09-30 15:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,55,LLI,P015122,O,"HORTON, LANDRIUS",Landrius Horton,London Lions,23,4,06:00,9,6,,Off Rebound,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
-8,1,2026-09-30 15:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,57,LLI,P013260,TO,"JONES, DEVANTE",Devante Jones,London Lions,3,5,05:48,9,6,,Turnover,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-1
-8,1,2026-09-30 15:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,58,SIA,P001487,IN,"JOGELA, TAURAS",Tauras Jogela,Siauliai Basketball,22,5,05:48,9,6,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
-8,1,2026-09-30 15:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,59,SIA,P015061,OUT,"ROMANCENKO, DOVYDAS",Dovydas Romancenko,Siauliai Basketball,25,5,05:48,9,6,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,1,2026-09-30 15:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,57,LLI,P013260,TO,"JONES, DEVANTE",Devante Jones,London Lions,3,5,05:41,9,6,,Turnover,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-1
+8,1,2026-09-30 15:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,58,SIA,P001487,IN,"JOGELA, TAURAS",Tauras Jogela,Siauliai Basketball,22,5,05:41,9,6,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,1,2026-09-30 15:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,59,SIA,P015061,OUT,"ROMANCENKO, DOVYDAS",Dovydas Romancenko,Siauliai Basketball,25,5,05:41,9,6,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 8,1,2026-09-30 15:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,61,LLI,P014135,IN,"PRICE, ETHAN",Ethan Price,London Lions,10,5,05:41,9,6,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 8,1,2026-09-30 15:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,62,LLI,P013973,OUT,"KENNEDY, THOMAS",Thomas Kennedy,London Lions,54,5,05:41,9,6,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 8,1,2026-09-30 15:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,63,SIA,P015064,TO,"CAFFEY, MICHAEL",Michael Caffey,Siauliai Basketball,55,5,05:28,9,6,,Turnover,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-1
@@ -3377,6 +3377,109 @@ gamecode,jornada,date,live,court,quarter,jugador_asiste,jugador_asistido,three_m
 8,1,2026-09-30 15:30:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,303,LLI,P014095,D,"SCOTT, JOEL",Joel Scott,London Lions,1,20,00:04,41,32,,Def Rebound,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
 8,1,2026-09-30 15:30:00,TRUE,away,2,NA,NA,0,1,0,0,0,0,0,304,LLI,P004479,3FGA,"SOLUADE, MO",Mo Soluade,London Lions,6,20,00:02,41,32,,Missed Three Pointer,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
 8,1,2026-09-30 15:30:00,TRUE,NA,0,NA,NA,0,0,0,0,0,0,0,308,,,EP,NA,NA,NA,NA,21,00:00,41,32,,End Period,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,1,2026-09-30 15:30:00,TRUE,NA,3,NA,NA,0,0,0,0,0,0,0,319,,,BP,NA,NA,NA,NA,21,10:00,41,32,,Begin Period,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,1,2026-09-30 15:30:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,309,SIA,P013883,IN,"PACEVICIUS, MARTYNAS",Martynas Pacevicius,Siauliai Basketball,9,21,10:00,41,32,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,1,2026-09-30 15:30:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,310,SIA,P015063,OUT,"REID, EFTON",Efton Reid,Siauliai Basketball,15,21,10:00,41,32,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,1,2026-09-30 15:30:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,311,SIA,P007524,OUT,"VENSKUS, ERIKAS",Erikas Venskus,Siauliai Basketball,21,21,10:00,41,32,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,1,2026-09-30 15:30:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,312,SIA,P015061,IN,"ROMANCENKO, DOVYDAS",Dovydas Romancenko,Siauliai Basketball,25,21,10:00,41,32,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,1,2026-09-30 15:30:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,313,LLI,P013260,IN,"JONES, DEVANTE",Devante Jones,London Lions,3,21,10:00,41,32,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,1,2026-09-30 15:30:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,314,LLI,P004479,OUT,"SOLUADE, MO",Mo Soluade,London Lions,6,21,10:00,41,32,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,1,2026-09-30 15:30:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,315,LLI,P011218,IN,"EVANS, KEENAN",Keenan Evans,London Lions,12,21,10:00,41,32,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,1,2026-09-30 15:30:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,316,LLI,P009649,OUT,"PHILLIP, TARIK",Tarik Phillip,London Lions,22,21,10:00,41,32,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,1,2026-09-30 15:30:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,317,LLI,P014098,OUT,"WILLIAMS, DEANE",Deane Williams,London Lions,31,21,10:00,41,32,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,1,2026-09-30 15:30:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,318,LLI,P013973,IN,"KENNEDY, THOMAS",Thomas Kennedy,London Lions,54,21,10:00,41,32,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,1,2026-09-30 15:30:00,TRUE,away,3,NA,NA,0,1,0,0,0,0,0,320,LLI,P015122,3FGA,"HORTON, LANDRIUS",Landrius Horton,London Lions,23,21,09:34,41,32,,Missed Three Pointer,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+8,1,2026-09-30 15:30:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,321,LLI,P014095,O,"SCOTT, JOEL",Joel Scott,London Lions,1,21,09:34,41,32,,Off Rebound,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,1
+8,1,2026-09-30 15:30:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,322,SIA,P006158,CM,"LUKOSIUNAS, KAROLIS",Karolis Lukosiunas,Siauliai Basketball,16,21,09:34,41,32,,Foul,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,-1
+8,1,2026-09-30 15:30:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,323,LLI,P014095,RV,"SCOTT, JOEL",Joel Scott,London Lions,1,21,09:34,41,32,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1
+8,1,2026-09-30 15:30:00,TRUE,away,3,NA,NA,1,0,0,0,0,0,0,324,LLI,P013260,3FGM,"JONES, DEVANTE",Devante Jones,London Lions,3,21,09:24,41,35,,Three Pointer,2,2,0,0,0,0,0,0,0,0,0,0,0,0,8,3
+8,1,2026-09-30 15:30:00,TRUE,away,3,"EVANS, KEENAN","JONES, DEVANTE",0,0,0,0,0,0,0,325,LLI,P011218,AS,"EVANS, KEENAN",Keenan Evans,London Lions,12,21,09:22,41,35,,Assist,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,1
+8,1,2026-09-30 15:30:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,326,SIA,P013883,TO,"PACEVICIUS, MARTYNAS",Martynas Pacevicius,Siauliai Basketball,9,21,09:09,41,35,,Turnover,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-1
+8,1,2026-09-30 15:30:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,327,LLI,P015122,ST,"HORTON, LANDRIUS",Landrius Horton,London Lions,23,21,09:07,41,35,,Steal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+8,1,2026-09-30 15:30:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,328,SIA,P015061,CM,"ROMANCENKO, DOVYDAS",Dovydas Romancenko,Siauliai Basketball,25,21,09:07,41,35,,Foul,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,-1
+8,1,2026-09-30 15:30:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,329,LLI,P011218,RV,"EVANS, KEENAN",Keenan Evans,London Lions,12,21,09:07,41,35,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1
+8,1,2026-09-30 15:30:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,330,SIA,P013883,CM,"PACEVICIUS, MARTYNAS",Martynas Pacevicius,Siauliai Basketball,9,21,09:02,41,35,,Foul,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,-1
+8,1,2026-09-30 15:30:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,331,LLI,P013973,RV,"KENNEDY, THOMAS",Thomas Kennedy,London Lions,54,21,09:02,41,35,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+8,1,2026-09-30 15:30:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,332,SIA,P001487,IN,"JOGELA, TAURAS",Tauras Jogela,Siauliai Basketball,22,21,09:02,41,35,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,1,2026-09-30 15:30:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,333,SIA,P015061,OUT,"ROMANCENKO, DOVYDAS",Dovydas Romancenko,Siauliai Basketball,25,21,09:02,41,35,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,1,2026-09-30 15:30:00,TRUE,away,3,NA,NA,0,0,0,0,0,1,0,334,LLI,P013973,FTA,"KENNEDY, THOMAS",Thomas Kennedy,London Lions,54,21,09:02,41,35,,Missed Free Throw,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,-1
+8,1,2026-09-30 15:30:00,TRUE,away,3,NA,NA,0,0,0,0,0,1,0,335,LLI,P013973,FTA,"KENNEDY, THOMAS",Thomas Kennedy,London Lions,54,21,09:02,41,35,,Missed Free Throw,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,-1
+8,1,2026-09-30 15:30:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,336,SIA,,D,NA,NA,Siauliai Basketball,,21,09:02,41,35,,Def Rebound,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+8,1,2026-09-30 15:30:00,TRUE,home,3,NA,NA,0,0,0,1,0,0,0,338,SIA,P015062,2FGA,"MCKNIGHT, DAYVION",Dayvion Mcknight,Siauliai Basketball,20,22,08:35,41,35,,Missed Two Pointer,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,-1
+8,1,2026-09-30 15:30:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,339,SIA,,O,NA,NA,Siauliai Basketball,,22,08:35,41,35,,Off Rebound,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,1
+8,1,2026-09-30 15:30:00,TRUE,home,3,NA,NA,0,0,1,0,0,0,0,340,SIA,P015060,2FGM,"HENDERSON JR, CEDRIC",Cedric Henderson Jr,Siauliai Basketball,2,22,08:25,43,35,,Two Pointer,0,0,6,3,0,0,0,0,0,0,0,0,0,0,12,2
+8,1,2026-09-30 15:30:00,TRUE,home,3,"MCKNIGHT, DAYVION","HENDERSON JR, CEDRIC",0,0,0,0,0,0,0,341,SIA,P015062,AS,"MCKNIGHT, DAYVION",Dayvion Mcknight,Siauliai Basketball,20,22,08:23,43,35,,Assist,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,1
+8,1,2026-09-30 15:30:00,TRUE,away,3,NA,NA,0,0,0,1,0,0,0,342,LLI,P013260,2FGA,"JONES, DEVANTE",Devante Jones,London Lions,3,22,08:13,43,35,,Missed Two Pointer,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,-1
+8,1,2026-09-30 15:30:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,343,SIA,P013883,D,"PACEVICIUS, MARTYNAS",Martynas Pacevicius,Siauliai Basketball,9,22,08:11,43,35,,Def Rebound,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+8,1,2026-09-30 15:30:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,344,LLI,P015122,CM,"HORTON, LANDRIUS",Landrius Horton,London Lions,23,22,08:03,43,35,,Foul,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,-1
+8,1,2026-09-30 15:30:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,358,SIA,P013883,RV,"PACEVICIUS, MARTYNAS",Martynas Pacevicius,Siauliai Basketball,9,22,08:03,43,35,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+8,1,2026-09-30 15:30:00,TRUE,home,3,NA,NA,0,0,0,1,0,0,0,346,SIA,P015062,2FGA,"MCKNIGHT, DAYVION",Dayvion Mcknight,Siauliai Basketball,20,23,07:48,43,35,,Missed Two Pointer,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,-1
+8,1,2026-09-30 15:30:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,347,LLI,P013973,D,"KENNEDY, THOMAS",Thomas Kennedy,London Lions,54,23,07:46,43,35,,Def Rebound,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+8,1,2026-09-30 15:30:00,TRUE,away,3,NA,NA,0,0,1,0,0,0,0,348,LLI,P013973,2FGM,"KENNEDY, THOMAS",Thomas Kennedy,London Lions,54,23,07:30,43,37,,Two Pointer,0,0,3,2,0,0,0,0,0,0,0,0,0,0,4,2
+8,1,2026-09-30 15:30:00,TRUE,away,3,"SCOTT, JOEL","KENNEDY, THOMAS",0,0,0,0,0,0,0,349,LLI,P014095,AS,"SCOTT, JOEL",Joel Scott,London Lions,1,23,07:27,43,37,,Assist,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+8,1,2026-09-30 15:30:00,TRUE,home,3,NA,NA,0,0,1,0,0,0,0,350,SIA,P015062,2FGM,"MCKNIGHT, DAYVION",Dayvion Mcknight,Siauliai Basketball,20,23,07:12,45,37,,Two Pointer,0,0,6,2,0,0,0,0,0,0,0,0,0,0,7,2
+8,1,2026-09-30 15:30:00,TRUE,home,3,"PACEVICIUS, MARTYNAS","MCKNIGHT, DAYVION",0,0,0,0,0,0,0,351,SIA,P013883,AS,"PACEVICIUS, MARTYNAS",Martynas Pacevicius,Siauliai Basketball,9,23,07:10,45,37,,Assist,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+8,1,2026-09-30 15:30:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,352,LLI,P015122,TO,"HORTON, LANDRIUS",Landrius Horton,London Lions,23,23,07:01,45,37,,Turnover,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-1
+8,1,2026-09-30 15:30:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,384,SIA,P015062,ST,"MCKNIGHT, DAYVION",Dayvion Mcknight,Siauliai Basketball,20,23,07:01,45,37,,Steal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+8,1,2026-09-30 15:30:00,TRUE,home,3,NA,NA,0,0,1,0,0,0,0,354,SIA,P015060,2FGM,"HENDERSON JR, CEDRIC",Cedric Henderson Jr,Siauliai Basketball,2,24,06:58,47,37,,Two Pointer,0,0,7,4,0,0,0,0,0,0,0,0,0,0,14,2
+8,1,2026-09-30 15:30:00,TRUE,home,3,"MCKNIGHT, DAYVION","HENDERSON JR, CEDRIC",0,0,0,0,0,0,0,355,SIA,P015062,AS,"MCKNIGHT, DAYVION",Dayvion Mcknight,Siauliai Basketball,20,24,06:58,47,37,,Assist,0,0,0,0,0,0,6,0,0,0,0,0,0,0,0,1
+8,1,2026-09-30 15:30:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,356,LLI,,TOUT,NA,NA,London Lions,,24,06:58,47,37,,Time Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,1,2026-09-30 15:30:00,TRUE,NA,3,NA,NA,0,0,0,0,0,0,0,357,,,TOUT_TV,NA,NA,NA,NA,24,06:58,47,37,,TV Time Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,1,2026-09-30 15:30:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,359,LLI,P013260,OUT,"JONES, DEVANTE",Devante Jones,London Lions,3,24,06:58,47,37,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,1,2026-09-30 15:30:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,360,LLI,P009649,IN,"PHILLIP, TARIK",Tarik Phillip,London Lions,22,24,06:58,47,37,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,1,2026-09-30 15:30:00,TRUE,away,3,NA,NA,0,0,0,1,0,0,0,361,LLI,P009649,2FGA,"PHILLIP, TARIK",Tarik Phillip,London Lions,22,24,06:41,47,37,,Missed Two Pointer,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,-1
+8,1,2026-09-30 15:30:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,362,SIA,P015062,D,"MCKNIGHT, DAYVION",Dayvion Mcknight,Siauliai Basketball,20,24,06:38,47,37,,Def Rebound,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+8,1,2026-09-30 15:30:00,TRUE,home,3,NA,NA,0,0,0,1,0,0,0,363,SIA,P015060,2FGA,"HENDERSON JR, CEDRIC",Cedric Henderson Jr,Siauliai Basketball,2,24,06:18,47,37,,Missed Two Pointer,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,-1
+8,1,2026-09-30 15:30:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,364,SIA,P013883,O,"PACEVICIUS, MARTYNAS",Martynas Pacevicius,Siauliai Basketball,9,24,06:15,47,37,,Off Rebound,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+8,1,2026-09-30 15:30:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,365,LLI,P014095,CM,"SCOTT, JOEL",Joel Scott,London Lions,1,24,06:15,47,37,,Foul,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,-1
+8,1,2026-09-30 15:30:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,366,SIA,P013883,RV,"PACEVICIUS, MARTYNAS",Martynas Pacevicius,Siauliai Basketball,9,24,06:15,47,37,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1
+8,1,2026-09-30 15:30:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,367,LLI,P015120,IN,"LEWIS III, MAXWELL",Maxwell Lewis III,London Lions,2,24,06:15,47,37,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,1,2026-09-30 15:30:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,368,LLI,P011218,OUT,"EVANS, KEENAN",Keenan Evans,London Lions,12,24,06:15,47,37,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,1,2026-09-30 15:30:00,TRUE,home,3,NA,NA,0,0,1,0,0,0,0,369,SIA,P001487,2FGM,"JOGELA, TAURAS",Tauras Jogela,Siauliai Basketball,22,24,06:07,49,37,,Two Pointer,0,0,1,1,0,0,0,0,0,0,0,0,0,0,9,2
+8,1,2026-09-30 15:30:00,TRUE,home,3,"PACEVICIUS, MARTYNAS","JOGELA, TAURAS",0,0,0,0,0,0,0,370,SIA,P013883,AS,"PACEVICIUS, MARTYNAS",Martynas Pacevicius,Siauliai Basketball,9,24,06:05,49,37,,Assist,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1
+8,1,2026-09-30 15:30:00,TRUE,away,3,NA,NA,0,0,1,0,0,0,0,372,LLI,P014095,2FGM,"SCOTT, JOEL",Joel Scott,London Lions,1,25,05:55,49,39,,Two Pointer,0,0,5,3,0,0,0,0,0,0,0,0,0,0,10,2
+8,1,2026-09-30 15:30:00,TRUE,away,3,"HORTON, LANDRIUS","SCOTT, JOEL",0,0,0,0,0,0,0,385,LLI,P015122,AS,"HORTON, LANDRIUS",Landrius Horton,London Lions,23,25,05:55,49,39,,Assist,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+8,1,2026-09-30 15:30:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,373,SIA,P006158,CM,"LUKOSIUNAS, KAROLIS",Karolis Lukosiunas,Siauliai Basketball,16,25,05:55,49,39,,Foul,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,-1
+8,1,2026-09-30 15:30:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,374,LLI,P014095,RV,"SCOTT, JOEL",Joel Scott,London Lions,1,25,05:55,49,39,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,1
+8,1,2026-09-30 15:30:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,375,SIA,P015059,IN,"FOFANA, SELIM",Selim Fofana,Siauliai Basketball,7,25,05:55,49,39,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,1,2026-09-30 15:30:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,376,SIA,P006158,OUT,"LUKOSIUNAS, KAROLIS",Karolis Lukosiunas,Siauliai Basketball,16,25,05:55,49,39,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,1,2026-09-30 15:30:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,377,SIA,P015062,OUT,"MCKNIGHT, DAYVION",Dayvion Mcknight,Siauliai Basketball,20,25,05:55,49,39,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,1,2026-09-30 15:30:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,378,SIA,P015064,IN,"CAFFEY, MICHAEL",Michael Caffey,Siauliai Basketball,55,25,05:55,49,39,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,1,2026-09-30 15:30:00,TRUE,away,3,NA,NA,0,0,0,0,1,0,0,379,LLI,P014095,FTM,"SCOTT, JOEL",Joel Scott,London Lions,1,25,05:55,49,40,,Free Throw In,0,0,0,0,5,5,0,0,0,0,0,0,0,0,11,1
+8,1,2026-09-30 15:30:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,380,SIA,P001487,TO,"JOGELA, TAURAS",Tauras Jogela,Siauliai Basketball,22,25,05:35,49,40,,Turnover,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-1
+8,1,2026-09-30 15:30:00,TRUE,away,3,NA,NA,0,0,1,0,0,0,0,381,LLI,P013973,2FGM,"KENNEDY, THOMAS",Thomas Kennedy,London Lions,54,25,05:27,49,42,,Two Pointer,0,0,4,3,0,0,0,0,0,0,0,0,0,0,6,2
+8,1,2026-09-30 15:30:00,TRUE,away,3,"PHILLIP, TARIK","KENNEDY, THOMAS",0,0,0,0,0,0,0,382,LLI,P009649,AS,"PHILLIP, TARIK",Tarik Phillip,London Lions,22,25,05:27,49,42,,Assist,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,1
+8,1,2026-09-30 15:30:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,383,SIA,,TOUT,NA,NA,Siauliai Basketball,,25,05:27,49,42,,Time Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,1,2026-09-30 15:30:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,386,SIA,P013883,OUT,"PACEVICIUS, MARTYNAS",Martynas Pacevicius,Siauliai Basketball,9,25,05:27,49,42,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,1,2026-09-30 15:30:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,387,SIA,P015063,IN,"REID, EFTON",Efton Reid,Siauliai Basketball,15,25,05:27,49,42,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,1,2026-09-30 15:30:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,388,SIA,P007524,IN,"VENSKUS, ERIKAS",Erikas Venskus,Siauliai Basketball,21,25,05:27,49,42,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,1,2026-09-30 15:30:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,389,SIA,P001487,OUT,"JOGELA, TAURAS",Tauras Jogela,Siauliai Basketball,22,25,05:27,49,42,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,1,2026-09-30 15:30:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,390,SIA,P015059,TO,"FOFANA, SELIM",Selim Fofana,Siauliai Basketball,7,25,05:07,49,42,,Turnover,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,-1
+8,1,2026-09-30 15:30:00,TRUE,away,3,NA,NA,0,0,0,1,0,0,0,392,LLI,P013973,2FGA,"KENNEDY, THOMAS",Thomas Kennedy,London Lions,54,26,04:53,49,42,,Missed Two Pointer,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,-1
+8,1,2026-09-30 15:30:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,393,SIA,P015060,D,"HENDERSON JR, CEDRIC",Cedric Henderson Jr,Siauliai Basketball,2,26,04:51,49,42,,Def Rebound,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,1
+8,1,2026-09-30 15:30:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,394,LLI,P014095,CM,"SCOTT, JOEL",Joel Scott,London Lions,1,26,04:36,49,42,,Foul,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,-1
+8,1,2026-09-30 15:30:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,395,SIA,P015063,RV,"REID, EFTON",Efton Reid,Siauliai Basketball,15,26,04:36,49,42,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1
+8,1,2026-09-30 15:30:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,396,LLI,P014095,OUT,"SCOTT, JOEL",Joel Scott,London Lions,1,26,04:36,49,42,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,1,2026-09-30 15:30:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,397,LLI,P014098,IN,"WILLIAMS, DEANE",Deane Williams,London Lions,31,26,04:36,49,42,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,1,2026-09-30 15:30:00,TRUE,home,3,NA,NA,0,0,0,0,1,0,0,398,SIA,P015063,FTM,"REID, EFTON",Efton Reid,Siauliai Basketball,15,26,04:36,50,42,,Free Throw In,0,0,0,0,3,3,0,0,0,0,0,0,0,0,3,1
+8,1,2026-09-30 15:30:00,TRUE,home,3,"CAFFEY, MICHAEL","REID, EFTON",0,0,0,0,0,0,0,399,SIA,P015064,AS,"CAFFEY, MICHAEL",Michael Caffey,Siauliai Basketball,55,26,04:36,50,42,,Assist,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1
+8,1,2026-09-30 15:30:00,TRUE,home,3,NA,NA,0,0,0,0,1,0,0,400,SIA,P015063,FTM,"REID, EFTON",Efton Reid,Siauliai Basketball,15,26,04:36,51,42,,Free Throw In,0,0,0,0,4,4,0,0,0,0,0,0,0,0,4,1
+8,1,2026-09-30 15:30:00,TRUE,away,3,NA,NA,0,1,0,0,0,0,0,401,LLI,P009649,3FGA,"PHILLIP, TARIK",Tarik Phillip,London Lions,22,26,04:14,51,42,,Missed Three Pointer,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+8,1,2026-09-30 15:30:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,402,LLI,P015122,O,"HORTON, LANDRIUS",Landrius Horton,London Lions,23,26,04:10,51,42,,Off Rebound,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,1
+8,1,2026-09-30 15:30:00,TRUE,away,3,NA,NA,0,0,0,1,0,0,0,403,LLI,P009649,2FGA,"PHILLIP, TARIK",Tarik Phillip,London Lions,22,26,04:06,51,42,,Missed Two Pointer,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,-1
+8,1,2026-09-30 15:30:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,404,LLI,P009649,AG,"PHILLIP, TARIK",Tarik Phillip,London Lions,22,26,04:06,51,42,,Shot Rejected,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,-1
+8,1,2026-09-30 15:30:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,406,SIA,P015060,FV,"HENDERSON JR, CEDRIC",Cedric Henderson Jr,Siauliai Basketball,2,27,03:58,51,42,,Block,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+8,1,2026-09-30 15:30:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,407,SIA,P015063,D,"REID, EFTON",Efton Reid,Siauliai Basketball,15,27,03:56,51,42,,Def Rebound,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+8,1,2026-09-30 15:30:00,TRUE,home,3,NA,NA,0,0,0,1,0,0,0,408,SIA,P015064,2FGA,"CAFFEY, MICHAEL",Michael Caffey,Siauliai Basketball,55,27,03:50,51,42,,Missed Two Pointer,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,-1
+8,1,2026-09-30 15:30:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,409,LLI,P015120,D,"LEWIS III, MAXWELL",Maxwell Lewis III,London Lions,2,27,03:48,51,42,,Def Rebound,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+8,1,2026-09-30 15:30:00,TRUE,away,3,NA,NA,1,0,0,0,0,0,0,410,LLI,P015120,3FGM,"LEWIS III, MAXWELL",Maxwell Lewis III,London Lions,2,27,03:43,51,45,,Three Pointer,2,1,0,0,0,0,0,0,0,0,0,0,0,0,3,3
+8,1,2026-09-30 15:30:00,TRUE,home,3,NA,NA,1,0,0,0,0,0,0,411,SIA,P015060,3FGM,"HENDERSON JR, CEDRIC",Cedric Henderson Jr,Siauliai Basketball,2,27,03:27,54,45,,Three Pointer,6,3,0,0,0,0,0,0,0,0,0,0,0,0,17,3
+8,1,2026-09-30 15:30:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,412,SIA,P015064,CM,"CAFFEY, MICHAEL",Michael Caffey,Siauliai Basketball,55,27,03:02,54,45,,Foul,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,-1
+8,1,2026-09-30 15:30:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,413,LLI,P009649,RV,"PHILLIP, TARIK",Tarik Phillip,London Lions,22,27,03:02,54,45,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,1
+8,1,2026-09-30 15:30:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,414,LLI,P004479,IN,"SOLUADE, MO",Mo Soluade,London Lions,6,27,03:02,54,45,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,1,2026-09-30 15:30:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,415,LLI,P014135,IN,"PRICE, ETHAN",Ethan Price,London Lions,10,27,03:02,54,45,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,1,2026-09-30 15:30:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,416,LLI,P015122,OUT,"HORTON, LANDRIUS",Landrius Horton,London Lions,23,27,03:02,54,45,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,1,2026-09-30 15:30:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,417,LLI,P013973,OUT,"KENNEDY, THOMAS",Thomas Kennedy,London Lions,54,27,03:02,54,45,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 16,1,2026-09-30 16:00:00,TRUE,NA,1,NA,NA,0,0,0,0,0,0,0,12,,,BP,NA,NA,NA,NA,1,10:00,0,0,,Begin Period,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 16,1,2026-09-30 16:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,13,BAH,,JB,NA,NA,Bahcesehir College Istanbul,,1,09:59,0,0,,Jump Ball,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 16,1,2026-09-30 16:00:00,TRUE,home,1,NA,NA,0,0,1,0,0,0,0,14,BAH,P013908,2FGM,"FLYNN, MALACHI",Malachi Flynn,Bahcesehir College Istanbul,22,1,09:50,2,0,,Two Pointer,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2,2
@@ -3584,6 +3687,51 @@ gamecode,jornada,date,live,court,quarter,jugador_asiste,jugador_asistido,three_m
 16,1,2026-09-30 16:00:00,TRUE,home,2,NA,NA,0,1,0,0,0,0,0,233,BAH,P009601,3FGA,"CAVANAUGH, TYLER",Tyler Cavanaugh,Bahcesehir College Istanbul,34,17,03:17,35,28,,Missed Three Pointer,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
 16,1,2026-09-30 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,234,BCR,P008442,D,"MEZZANOTTE, ANDREA",Andrea Mezzanotte,Roma Basketball,24,17,03:15,35,28,,Def Rebound,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
 16,1,2026-09-30 16:00:00,TRUE,away,2,NA,NA,1,0,0,0,0,0,0,235,BCR,P006609,3FGM,"STRAUTINS, ARTURS",Arturs Strautins,Roma Basketball,12,17,03:06,35,31,,Three Pointer,4,1,0,0,0,0,0,0,0,0,0,0,0,0,5,3
+16,1,2026-09-30 16:00:00,TRUE,away,2,"DAVIS JR., COREY","STRAUTINS, ARTURS",0,0,0,0,0,0,0,236,BCR,P013890,AS,"DAVIS JR., COREY",Corey Davis Jr.,Roma Basketball,5,17,03:06,35,31,,Assist,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1
+16,1,2026-09-30 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,237,BAH,,TOUT,NA,NA,Bahcesehir College Istanbul,,17,03:06,35,31,,Time Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,1,2026-09-30 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,238,BCR,P015023,IN,"WATSON JR, PAUL",Paul Watson Jr,Roma Basketball,3,17,03:06,35,31,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,1,2026-09-30 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,239,BCR,P008442,OUT,"MEZZANOTTE, ANDREA",Andrea Mezzanotte,Roma Basketball,24,17,03:06,35,31,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,1,2026-09-30 16:00:00,TRUE,home,2,NA,NA,1,0,0,0,0,0,0,241,BAH,P013908,3FGM,"FLYNN, MALACHI",Malachi Flynn,Bahcesehir College Istanbul,22,18,02:44,38,31,,Three Pointer,5,2,0,0,0,0,0,0,0,0,0,0,0,0,8,3
+16,1,2026-09-30 16:00:00,TRUE,home,2,"MIKE, ISIAHA","FLYNN, MALACHI",0,0,0,0,0,0,0,242,BAH,P011836,AS,"MIKE, ISIAHA",Isiaha Mike,Bahcesehir College Istanbul,24,18,02:43,38,31,,Assist,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+16,1,2026-09-30 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,243,BAH,P013908,CM,"FLYNN, MALACHI",Malachi Flynn,Bahcesehir College Istanbul,22,18,02:35,38,31,,Foul,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-1
+16,1,2026-09-30 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,244,BCR,P014889,RV,"STEVENSON, ERIK",Erik Stevenson,Roma Basketball,10,18,02:35,38,31,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+16,1,2026-09-30 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,245,BAH,P010769,OUT,"REED, MARCQUISE",Marcquise Reed,Bahcesehir College Istanbul,0,18,02:35,38,31,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,1,2026-09-30 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,246,BAH,P003983,IN,"AVRAMOVIC, ALEKSA",Aleksa Avramovic,Bahcesehir College Istanbul,4,18,02:35,38,31,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,1,2026-09-30 16:00:00,TRUE,away,2,NA,NA,1,0,0,0,0,0,0,247,BCR,P015023,3FGM,"WATSON JR, PAUL",Paul Watson Jr,Roma Basketball,3,18,02:24,38,34,,Three Pointer,3,1,0,0,0,0,0,0,0,0,0,0,0,0,3,3
+16,1,2026-09-30 16:00:00,TRUE,away,2,"STEVENSON, ERIK","WATSON JR, PAUL",0,0,0,0,0,0,0,248,BCR,P014889,AS,"STEVENSON, ERIK",Erik Stevenson,Roma Basketball,10,18,02:22,38,34,,Assist,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+16,1,2026-09-30 16:00:00,TRUE,home,2,NA,NA,1,0,0,0,0,0,0,249,BAH,P011836,3FGM,"MIKE, ISIAHA",Isiaha Mike,Bahcesehir College Istanbul,24,18,02:06,41,34,,Three Pointer,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3,3
+16,1,2026-09-30 16:00:00,TRUE,home,2,"WILLIAMS, TREVION","MIKE, ISIAHA",0,0,0,0,0,0,0,250,BAH,P012604,AS,"WILLIAMS, TREVION",Trevion Williams,Bahcesehir College Istanbul,50,18,02:05,41,34,,Assist,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1
+16,1,2026-09-30 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,252,BAH,P011836,CM,"MIKE, ISIAHA",Isiaha Mike,Bahcesehir College Istanbul,24,19,01:57,41,34,,Foul,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-1
+16,1,2026-09-30 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,253,BCR,P006609,RV,"STRAUTINS, ARTURS",Arturs Strautins,Roma Basketball,12,19,01:57,41,34,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+16,1,2026-09-30 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,1,0,254,BCR,P006609,FTA,"STRAUTINS, ARTURS",Arturs Strautins,Roma Basketball,12,19,01:57,41,34,,Missed Free Throw,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,-1
+16,1,2026-09-30 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,1,0,255,BCR,P006609,FTA,"STRAUTINS, ARTURS",Arturs Strautins,Roma Basketball,12,19,01:57,41,34,,Missed Free Throw,0,0,0,0,2,0,0,0,0,0,0,0,0,0,0,-1
+16,1,2026-09-30 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,256,BAH,P011836,D,"MIKE, ISIAHA",Isiaha Mike,Bahcesehir College Istanbul,24,19,01:56,41,34,,Def Rebound,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+16,1,2026-09-30 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,257,BAH,P003983,TO,"AVRAMOVIC, ALEKSA",Aleksa Avramovic,Bahcesehir College Istanbul,4,19,01:34,41,34,,Turnover,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-1
+16,1,2026-09-30 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,258,BCR,P014889,OUT,"STEVENSON, ERIK",Erik Stevenson,Roma Basketball,10,19,01:34,41,34,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,1,2026-09-30 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,259,BCR,P014890,IN,"AYAYI, GERALD",Gerald Ayayi,Roma Basketball,11,19,01:34,41,34,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,1,2026-09-30 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,260,BCR,P015023,OF,"WATSON JR, PAUL",Paul Watson Jr,Roma Basketball,3,19,01:26,41,34,,Offensive Foul,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+16,1,2026-09-30 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,261,BCR,P015023,TO,"WATSON JR, PAUL",Paul Watson Jr,Roma Basketball,3,19,01:26,41,34,,Turnover,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,-1
+16,1,2026-09-30 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,262,BAH,P013908,RV,"FLYNN, MALACHI",Malachi Flynn,Bahcesehir College Istanbul,22,19,01:26,41,34,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1
+16,1,2026-09-30 16:00:00,TRUE,home,2,NA,NA,0,1,0,0,0,0,0,263,BAH,P013908,3FGA,"FLYNN, MALACHI",Malachi Flynn,Bahcesehir College Istanbul,22,19,01:13,41,34,,Missed Three Pointer,6,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+16,1,2026-09-30 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,264,BCR,P014890,D,"AYAYI, GERALD",Gerald Ayayi,Roma Basketball,11,19,01:12,41,34,,Def Rebound,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+16,1,2026-09-30 16:00:00,TRUE,away,2,NA,NA,0,0,1,0,0,0,0,265,BCR,P013890,2FGM,"DAVIS JR., COREY",Corey Davis Jr.,Roma Basketball,5,19,01:01,41,36,,Two Pointer,0,0,2,1,0,0,0,0,0,0,0,0,0,0,2,2
+16,1,2026-09-30 16:00:00,TRUE,home,2,NA,NA,0,1,0,0,0,0,0,267,BAH,P003983,3FGA,"AVRAMOVIC, ALEKSA",Aleksa Avramovic,Bahcesehir College Istanbul,4,20,00:42,41,36,,Missed Three Pointer,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+16,1,2026-09-30 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,268,BCR,P012711,D,"SIMONOVIC, MARKO",Marko Simonovic,Roma Basketball,19,20,00:40,41,36,,Def Rebound,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,1
+16,1,2026-09-30 16:00:00,TRUE,away,2,NA,NA,0,1,0,0,0,0,0,269,BCR,P013890,3FGA,"DAVIS JR., COREY",Corey Davis Jr.,Roma Basketball,5,20,00:31,41,36,,Missed Three Pointer,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+16,1,2026-09-30 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,270,BAH,P003983,D,"AVRAMOVIC, ALEKSA",Aleksa Avramovic,Bahcesehir College Istanbul,4,20,00:30,41,36,,Def Rebound,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,1
+16,1,2026-09-30 16:00:00,TRUE,home,2,NA,NA,0,0,1,0,0,0,0,271,BAH,P013908,2FGM,"FLYNN, MALACHI",Malachi Flynn,Bahcesehir College Istanbul,22,20,00:24,43,36,,Two Pointer,0,0,2,2,0,0,0,0,0,0,0,0,0,0,10,2
+16,1,2026-09-30 16:00:00,TRUE,home,2,"AVRAMOVIC, ALEKSA","FLYNN, MALACHI",0,0,0,0,0,0,0,272,BAH,P003983,AS,"AVRAMOVIC, ALEKSA",Aleksa Avramovic,Bahcesehir College Istanbul,4,20,00:24,43,36,,Assist,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1
+16,1,2026-09-30 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,273,BCR,,TOUT,NA,NA,Roma Basketball,,20,00:24,43,36,,Time Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,1,2026-09-30 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,274,BCR,P011064,IN,"MANNION, NICCOLO",Niccolo Mannion,Roma Basketball,1,20,00:24,43,36,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,1,2026-09-30 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,275,BCR,P006609,OUT,"STRAUTINS, ARTURS",Arturs Strautins,Roma Basketball,12,20,00:24,43,36,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,1,2026-09-30 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,276,BAH,P012604,CM,"WILLIAMS, TREVION",Trevion Williams,Bahcesehir College Istanbul,50,20,00:13,43,36,,Foul,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-1
+16,1,2026-09-30 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,277,BCR,P011064,RV,"MANNION, NICCOLO",Niccolo Mannion,Roma Basketball,1,20,00:13,43,36,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1
+16,1,2026-09-30 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,1,0,0,278,BCR,P011064,FTM,"MANNION, NICCOLO",Niccolo Mannion,Roma Basketball,1,20,00:13,43,37,,Free Throw In,0,0,0,0,1,1,0,0,0,0,0,0,0,0,8,1
+16,1,2026-09-30 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,1,0,0,279,BCR,P011064,FTM,"MANNION, NICCOLO",Niccolo Mannion,Roma Basketball,1,20,00:13,43,38,,Free Throw In,0,0,0,0,2,2,0,0,0,0,0,0,0,0,9,1
+16,1,2026-09-30 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,280,BCR,P011064,OUT,"MANNION, NICCOLO",Niccolo Mannion,Roma Basketball,1,20,00:13,43,38,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,1,2026-09-30 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,281,BCR,P006609,IN,"STRAUTINS, ARTURS",Arturs Strautins,Roma Basketball,12,20,00:13,43,38,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+16,1,2026-09-30 16:00:00,TRUE,home,2,NA,NA,0,0,1,0,0,0,0,282,BAH,P013908,2FGM,"FLYNN, MALACHI",Malachi Flynn,Bahcesehir College Istanbul,22,20,00:02,45,38,,Two Pointer,0,0,3,3,0,0,0,0,0,0,0,0,0,0,12,2
+16,1,2026-09-30 16:00:00,TRUE,NA,0,NA,NA,0,0,0,0,0,0,0,284,,,EP,NA,NA,NA,NA,21,00:00,45,38,,End Period,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 3,1,2026-09-30 16:00:00,TRUE,NA,1,NA,NA,0,0,0,0,0,0,0,21,,,BP,NA,NA,NA,NA,1,10:00,0,0,,Begin Period,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 3,1,2026-09-30 16:00:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,22,RIG,,JB,NA,NA,Riga Zelli,,1,09:59,0,0,,Jump Ball,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 3,1,2026-09-30 16:00:00,TRUE,home,1,NA,NA,1,0,0,0,0,0,0,23,RIG,P015113,3FGM,"SHUNGU, BENJAMIN",Benjamin Shungu,Riga Zelli,2,1,09:59,3,0,,Three Pointer,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3,3
@@ -3712,6 +3860,7 @@ gamecode,jornada,date,live,court,quarter,jugador_asiste,jugador_asistido,three_m
 3,1,2026-09-30 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,156,TRT,P012582,O,"DURHAM, ALJAMI",Aljami Durham,Baglietto Derthona Tortona,42,11,09:29,31,23,,Off Rebound,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
 3,1,2026-09-30 16:00:00,TRUE,away,2,NA,NA,0,0,1,0,0,0,0,157,TRT,P006701,2FGM,"BORTOLANI, GIORDANO",Giordano Bortolani,Baglietto Derthona Tortona,12,11,09:27,31,25,,Two Pointer,0,0,2,2,0,0,0,0,0,0,0,0,0,0,4,2
 3,1,2026-09-30 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,158,RIG,,TOUT,NA,NA,Riga Zelli,,11,09:27,31,25,,Time Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,1,2026-09-30 16:00:00,TRUE,NA,2,NA,NA,0,0,0,0,0,0,0,261,,,TOUT_TV,NA,NA,NA,NA,11,09:27,31,25,,TV Time Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 3,1,2026-09-30 16:00:00,TRUE,home,2,NA,NA,1,0,0,0,0,0,0,159,RIG,P003398,3FGM,"BERZINS, JANIS",Janis Berzins,Riga Zelli,31,11,09:10,34,25,,Three Pointer,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3,3
 3,1,2026-09-30 16:00:00,TRUE,home,2,"PERKINS, TONY","BERZINS, JANIS",0,0,0,0,0,0,0,160,RIG,P015065,AS,"PERKINS, TONY",Tony Perkins,Riga Zelli,1,11,09:08,34,25,,Assist,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
 3,1,2026-09-30 16:00:00,TRUE,away,2,NA,NA,1,0,0,0,0,0,0,162,TRT,P012582,3FGM,"DURHAM, ALJAMI",Aljami Durham,Baglietto Derthona Tortona,42,12,08:47,34,28,,Three Pointer,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3,3
@@ -3782,6 +3931,60 @@ gamecode,jornada,date,live,court,quarter,jugador_asiste,jugador_asistido,three_m
 3,1,2026-09-30 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,231,RIG,P013912,CM,"WAHL, TYLER",Tyler Wahl,Riga Zelli,5,16,04:22,43,32,,Foul,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,-1
 3,1,2026-09-30 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,232,TRT,P014900,IN,"GORHAM, JUSTIN",Justin Gorham,Baglietto Derthona Tortona,4,16,04:22,43,32,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 3,1,2026-09-30 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,233,TRT,P004469,OUT,"ALIBEGOVIC, AMAR",Amar Alibegovic,Baglietto Derthona Tortona,7,16,04:22,43,32,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,1,2026-09-30 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,1,0,0,234,TRT,P012595,FTM,"HUBB, PRENTISS",Prentiss Hubb,Baglietto Derthona Tortona,3,16,04:22,43,33,,Free Throw In,0,0,0,0,1,1,0,0,0,0,0,0,0,0,7,1
+3,1,2026-09-30 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,1,0,0,235,TRT,P012595,FTM,"HUBB, PRENTISS",Prentiss Hubb,Baglietto Derthona Tortona,3,16,04:22,43,34,,Free Throw In,0,0,0,0,2,2,0,0,0,0,0,0,0,0,8,1
+3,1,2026-09-30 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,1,0,236,TRT,P012595,FTA,"HUBB, PRENTISS",Prentiss Hubb,Baglietto Derthona Tortona,3,16,04:22,43,34,,Missed Free Throw,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,-1
+3,1,2026-09-30 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,237,RIG,,D,NA,NA,Riga Zelli,,16,04:22,43,34,,Def Rebound,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,1
+3,1,2026-09-30 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,238,TRT,P006701,OUT,"BORTOLANI, GIORDANO",Giordano Bortolani,Baglietto Derthona Tortona,12,16,04:20,43,34,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,1,2026-09-30 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,239,TRT,P014902,IN,"MADDOX JR, DANTE",Dante Maddox Jr,Baglietto Derthona Tortona,21,16,04:20,43,34,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,1,2026-09-30 16:00:00,TRUE,home,2,NA,NA,0,0,1,0,0,0,0,240,RIG,P013912,2FGM,"WAHL, TYLER",Tyler Wahl,Riga Zelli,5,16,04:12,45,34,,Two Pointer,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2,2
+3,1,2026-09-30 16:00:00,TRUE,away,2,NA,NA,0,0,0,1,0,0,0,242,TRT,P005422,2FGA,"JALLOW, KARIM",Karim Jallow,Baglietto Derthona Tortona,35,17,03:48,45,34,,Missed Two Pointer,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,-1
+3,1,2026-09-30 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,243,TRT,P005422,O,"JALLOW, KARIM",Karim Jallow,Baglietto Derthona Tortona,35,17,03:47,45,34,,Off Rebound,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+3,1,2026-09-30 16:00:00,TRUE,away,2,NA,NA,0,0,1,0,0,0,0,244,TRT,P005422,2FGM,"JALLOW, KARIM",Karim Jallow,Baglietto Derthona Tortona,35,17,03:45,45,36,,Two Pointer,0,0,5,3,0,0,0,0,0,0,0,0,0,0,6,2
+3,1,2026-09-30 16:00:00,TRUE,home,2,NA,NA,0,0,0,1,0,0,0,245,RIG,P013912,2FGA,"WAHL, TYLER",Tyler Wahl,Riga Zelli,5,17,03:36,45,36,,Missed Two Pointer,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,-1
+3,1,2026-09-30 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,246,RIG,P013912,AG,"WAHL, TYLER",Tyler Wahl,Riga Zelli,5,17,03:36,45,36,,Shot Rejected,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,-1
+3,1,2026-09-30 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,247,TRT,P014902,FV,"MADDOX JR, DANTE",Dante Maddox Jr,Baglietto Derthona Tortona,21,17,03:33,45,36,,Block,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+3,1,2026-09-30 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,248,RIG,P015094,O,"SULCS, ROLANDS",Rolands Sulcs,Riga Zelli,10,17,03:31,45,36,,Off Rebound,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+3,1,2026-09-30 16:00:00,TRUE,home,2,NA,NA,0,1,0,0,0,0,0,249,RIG,P015065,3FGA,"PERKINS, TONY",Tony Perkins,Riga Zelli,1,17,03:27,45,36,,Missed Three Pointer,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+3,1,2026-09-30 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,250,TRT,P014900,D,"GORHAM, JUSTIN",Justin Gorham,Baglietto Derthona Tortona,4,17,03:24,45,36,,Def Rebound,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,1
+3,1,2026-09-30 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,251,TRT,P014902,RV,"MADDOX JR, DANTE",Dante Maddox Jr,Baglietto Derthona Tortona,21,17,03:14,45,36,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1
+3,1,2026-09-30 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,252,RIG,P015065,CM,"PERKINS, TONY",Tony Perkins,Riga Zelli,1,17,03:14,45,36,,Foul,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-1
+3,1,2026-09-30 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,1,0,0,253,TRT,P014902,FTM,"MADDOX JR, DANTE",Dante Maddox Jr,Baglietto Derthona Tortona,21,17,03:14,45,37,,Free Throw In,0,0,0,0,3,2,0,0,0,0,0,0,0,0,2,1
+3,1,2026-09-30 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,1,0,0,254,TRT,P014902,FTM,"MADDOX JR, DANTE",Dante Maddox Jr,Baglietto Derthona Tortona,21,17,03:14,45,38,,Free Throw In,0,0,0,0,4,3,0,0,0,0,0,0,0,0,3,1
+3,1,2026-09-30 16:00:00,TRUE,home,2,NA,NA,0,1,0,0,0,0,0,256,RIG,P011943,3FGA,"TKACHENKO, IVAN",Ivan Tkachenko,Riga Zelli,55,18,02:53,45,38,,Missed Three Pointer,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+3,1,2026-09-30 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,257,TRT,P005542,D,"OLEJNICZAK, DOMINIK",Dominik Olejniczak,Baglietto Derthona Tortona,17,18,02:50,45,38,,Def Rebound,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+3,1,2026-09-30 16:00:00,TRUE,away,2,NA,NA,0,0,1,0,0,0,0,258,TRT,P005542,2FGM,"OLEJNICZAK, DOMINIK",Dominik Olejniczak,Baglietto Derthona Tortona,17,18,02:40,45,40,,Two Pointer,0,0,4,4,0,0,0,0,0,0,0,0,0,0,8,2
+3,1,2026-09-30 16:00:00,TRUE,away,2,"HUBB, PRENTISS","OLEJNICZAK, DOMINIK",0,0,0,0,0,0,0,259,TRT,P012595,AS,"HUBB, PRENTISS",Prentiss Hubb,Baglietto Derthona Tortona,3,18,02:40,45,40,,Assist,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,1
+3,1,2026-09-30 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,260,RIG,,TOUT,NA,NA,Riga Zelli,,18,02:40,45,40,,Time Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,1,2026-09-30 16:00:00,TRUE,home,2,NA,NA,0,0,1,0,0,0,0,262,RIG,P013912,2FGM,"WAHL, TYLER",Tyler Wahl,Riga Zelli,5,18,02:17,47,40,,Two Pointer,0,0,3,2,0,0,0,0,0,0,0,0,0,0,4,2
+3,1,2026-09-30 16:00:00,TRUE,home,2,"TKACHENKO, IVAN","WAHL, TYLER",0,0,0,0,0,0,0,263,RIG,P011943,AS,"TKACHENKO, IVAN",Ivan Tkachenko,Riga Zelli,55,18,02:15,47,40,,Assist,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+3,1,2026-09-30 16:00:00,TRUE,away,2,NA,NA,0,1,0,0,0,0,0,265,TRT,P012595,3FGA,"HUBB, PRENTISS",Prentiss Hubb,Baglietto Derthona Tortona,3,19,01:50,47,40,,Missed Three Pointer,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+3,1,2026-09-30 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,266,RIG,P015113,D,"SHUNGU, BENJAMIN",Benjamin Shungu,Riga Zelli,2,19,01:47,47,40,,Def Rebound,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+3,1,2026-09-30 16:00:00,TRUE,home,2,NA,NA,0,0,0,1,0,0,0,267,RIG,P015065,2FGA,"PERKINS, TONY",Tony Perkins,Riga Zelli,1,19,01:43,47,40,,Missed Two Pointer,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,-1
+3,1,2026-09-30 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,268,TRT,P005542,D,"OLEJNICZAK, DOMINIK",Dominik Olejniczak,Baglietto Derthona Tortona,17,19,01:41,47,40,,Def Rebound,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,1
+3,1,2026-09-30 16:00:00,TRUE,away,2,NA,NA,0,0,1,0,0,0,0,269,TRT,P014902,2FGM,"MADDOX JR, DANTE",Dante Maddox Jr,Baglietto Derthona Tortona,21,19,01:34,47,42,,Two Pointer,0,0,2,1,0,0,0,0,0,0,0,0,0,0,5,2
+3,1,2026-09-30 16:00:00,TRUE,away,2,"HUBB, PRENTISS","MADDOX JR, DANTE",0,0,0,0,0,0,0,270,TRT,P012595,AS,"HUBB, PRENTISS",Prentiss Hubb,Baglietto Derthona Tortona,3,19,01:32,47,42,,Assist,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,1
+3,1,2026-09-30 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,271,RIG,P013912,TO,"WAHL, TYLER",Tyler Wahl,Riga Zelli,5,19,01:20,47,42,,Turnover,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-1
+3,1,2026-09-30 16:00:00,TRUE,away,2,NA,NA,0,0,1,0,0,0,0,272,TRT,P005542,2FGM,"OLEJNICZAK, DOMINIK",Dominik Olejniczak,Baglietto Derthona Tortona,17,19,01:02,47,44,,Two Pointer,0,0,5,5,0,0,0,0,0,0,0,0,0,0,10,2
+3,1,2026-09-30 16:00:00,TRUE,away,2,"HUBB, PRENTISS","OLEJNICZAK, DOMINIK",0,0,0,0,0,0,0,273,TRT,P012595,AS,"HUBB, PRENTISS",Prentiss Hubb,Baglietto Derthona Tortona,3,19,01:00,47,44,,Assist,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,1
+3,1,2026-09-30 16:00:00,TRUE,home,2,NA,NA,0,0,0,1,0,0,0,275,RIG,P015113,2FGA,"SHUNGU, BENJAMIN",Benjamin Shungu,Riga Zelli,2,20,00:53,47,44,,Missed Two Pointer,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,-1
+3,1,2026-09-30 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,276,TRT,P014900,D,"GORHAM, JUSTIN",Justin Gorham,Baglietto Derthona Tortona,4,20,00:51,47,44,,Def Rebound,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,1
+3,1,2026-09-30 16:00:00,TRUE,away,2,NA,NA,0,0,0,1,0,0,0,277,TRT,P014902,2FGA,"MADDOX JR, DANTE",Dante Maddox Jr,Baglietto Derthona Tortona,21,20,00:43,47,44,,Missed Two Pointer,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,-1
+3,1,2026-09-30 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,278,RIG,P011943,D,"TKACHENKO, IVAN",Ivan Tkachenko,Riga Zelli,55,20,00:43,47,44,,Def Rebound,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+3,1,2026-09-30 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,279,TRT,CO_B,C,NA,NA,Baglietto Derthona Tortona,NA,20,00:43,47,44,,Tech Foul Coach,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,1,2026-09-30 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,1,0,0,280,RIG,P015065,FTM,"PERKINS, TONY",Tony Perkins,Riga Zelli,1,20,00:43,48,44,,Free Throw In,0,0,0,0,5,5,0,0,0,0,0,0,0,0,5,1
+3,1,2026-09-30 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,281,RIG,P015113,RV,"SHUNGU, BENJAMIN",Benjamin Shungu,Riga Zelli,2,20,00:31,48,44,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+3,1,2026-09-30 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,282,TRT,P014902,CM,"MADDOX JR, DANTE",Dante Maddox Jr,Baglietto Derthona Tortona,21,20,00:31,48,44,,Foul,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-1
+3,1,2026-09-30 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,283,RIG,P015065,OUT,"PERKINS, TONY",Tony Perkins,Riga Zelli,1,20,00:31,48,44,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,1,2026-09-30 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,284,RIG,P005521,IN,"VARNAS, MARTYNAS",Martynas Varnas,Riga Zelli,13,20,00:31,48,44,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,1,2026-09-30 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,1,0,0,285,RIG,P015113,FTM,"SHUNGU, BENJAMIN",Benjamin Shungu,Riga Zelli,2,20,00:31,49,44,,Free Throw In,0,0,0,0,1,1,0,0,0,0,0,0,0,0,9,1
+3,1,2026-09-30 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,1,0,0,286,RIG,P015113,FTM,"SHUNGU, BENJAMIN",Benjamin Shungu,Riga Zelli,2,20,00:31,50,44,,Free Throw In,0,0,0,0,2,2,0,0,0,0,0,0,0,0,10,1
+3,1,2026-09-30 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,287,RIG,P015094,OUT,"SULCS, ROLANDS",Rolands Sulcs,Riga Zelli,10,20,00:31,50,44,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,1,2026-09-30 16:00:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,288,RIG,P015068,IN,"KIKUSTS, KRISTERS",Kristers Kikusts,Riga Zelli,12,20,00:31,50,44,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+3,1,2026-09-30 16:00:00,TRUE,away,2,NA,NA,0,0,0,1,0,0,0,289,TRT,P012595,2FGA,"HUBB, PRENTISS",Prentiss Hubb,Baglietto Derthona Tortona,3,20,00:12,50,44,,Missed Two Pointer,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,-1
+3,1,2026-09-30 16:00:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,290,TRT,P005542,O,"OLEJNICZAK, DOMINIK",Dominik Olejniczak,Baglietto Derthona Tortona,17,20,00:10,50,44,,Off Rebound,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+3,1,2026-09-30 16:00:00,TRUE,away,2,NA,NA,0,0,1,0,0,0,0,291,TRT,P014902,2FGM,"MADDOX JR, DANTE",Dante Maddox Jr,Baglietto Derthona Tortona,21,20,00:01,50,46,,Two Pointer,0,0,4,2,0,0,0,0,0,0,0,0,0,0,7,2
+3,1,2026-09-30 16:00:00,TRUE,NA,0,NA,NA,0,0,0,0,0,0,0,293,,,EP,NA,NA,NA,NA,21,00:00,50,46,,End Period,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 14,1,2026-09-30 16:30:00,TRUE,NA,1,NA,NA,0,0,0,0,0,0,0,6,,,BP,NA,NA,NA,NA,1,10:00,0,0,,Begin Period,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 14,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,7,MAN,,JB,NA,NA,Kids&Us Manresa,,1,09:59,0,0,,Jump Ball,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 14,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,8,MAN,P010035,TO,"VILLAR, RAFA",Rafa Villar,Kids&Us Manresa,44,1,09:48,0,0,,Turnover,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-1
@@ -3815,6 +4018,114 @@ gamecode,jornada,date,live,court,quarter,jugador_asiste,jugador_asistido,three_m
 14,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,39,MAN,P014859,OUT,"NOTAE, JD",Jd Notae,Kids&Us Manresa,13,4,06:37,7,7,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 14,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,40,MAN,P014862,OUT,"ONGENDA, NICK",Nick Ongenda,Kids&Us Manresa,14,4,06:37,7,7,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 14,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,41,MAN,P007423,IN,"MINCHEV, YORDAN",Yordan Minchev,Kids&Us Manresa,91,4,06:37,7,7,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,1,0,0,0,0,0,0,42,PAO,P004088,3FGM,"OSMAN, CEDI",Cedi Osman,PAOK Thessaloniki,6,4,06:15,10,7,,Three Pointer,2,1,0,0,0,0,0,0,0,0,0,0,0,0,5,3
+14,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,1,0,0,0,0,0,44,MAN,P007423,3FGA,"MINCHEV, YORDAN",Yordan Minchev,Kids&Us Manresa,91,5,05:54,10,7,,Missed Three Pointer,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+14,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,45,PAO,P001932,D,"CALATHES, NICK",Nick Calathes,PAOK Thessaloniki,33,5,05:52,10,7,,Def Rebound,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+14,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,46,PAO,P004088,TO,"OSMAN, CEDI",Cedi Osman,PAOK Thessaloniki,6,5,05:47,10,7,,Turnover,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-1
+14,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,47,MAN,P007423,ST,"MINCHEV, YORDAN",Yordan Minchev,Kids&Us Manresa,91,5,05:46,10,7,,Steal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+14,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,48,MAN,P007423,RV,"MINCHEV, YORDAN",Yordan Minchev,Kids&Us Manresa,91,5,05:43,10,7,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+14,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,49,PAO,P014885,CM,"GRAY, RAIQUAN",Raiquan Gray,PAOK Thessaloniki,0,5,05:43,10,7,,Foul,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-1
+14,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,50,PAO,P001932,OUT,"CALATHES, NICK",Nick Calathes,PAOK Thessaloniki,33,5,05:43,10,7,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,51,PAO,P009577,IN,"BAZINAS, ATHANASIOS",Athanasios Bazinas,PAOK Thessaloniki,77,5,05:43,10,7,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,52,MAN,P014858,OUT,"ALLEN, TIMMY",Timmy Allen,Kids&Us Manresa,0,5,05:43,10,7,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,53,MAN,P011165,IN,"KOLENDA, LUKASZ",Lukasz Kolenda,Kids&Us Manresa,1,5,05:43,10,7,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,54,MAN,P006082,IN,"VILA, ERIC",Eric Vila,Kids&Us Manresa,4,5,05:43,10,7,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,55,MAN,P014861,OUT,"AGBO, CHIBUZO",Chibuzo Agbo,Kids&Us Manresa,11,5,05:43,10,7,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,1,0,0,56,MAN,P007423,FTM,"MINCHEV, YORDAN",Yordan Minchev,Kids&Us Manresa,91,5,05:43,10,8,,Free Throw In,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1
+14,1,2026-09-30 16:30:00,TRUE,away,1,"BASSAS, FERRAN","MINCHEV, YORDAN",0,0,0,0,0,0,0,57,MAN,P001607,AS,"BASSAS, FERRAN",Ferran Bassas,Kids&Us Manresa,6,5,05:43,10,8,,Assist,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+14,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,1,0,0,58,MAN,P007423,FTM,"MINCHEV, YORDAN",Yordan Minchev,Kids&Us Manresa,91,5,05:43,10,9,,Free Throw In,0,0,0,0,2,2,0,0,0,0,0,0,0,0,2,1
+14,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,1,0,0,0,0,59,PAO,P009577,2FGM,"BAZINAS, ATHANASIOS",Athanasios Bazinas,PAOK Thessaloniki,77,5,05:24,12,9,,Two Pointer,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2,2
+14,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,60,MAN,P006082,RV,"VILA, ERIC",Eric Vila,Kids&Us Manresa,4,5,05:18,12,9,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+14,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,61,PAO,P014885,CM,"GRAY, RAIQUAN",Raiquan Gray,PAOK Thessaloniki,0,5,05:18,12,9,,Foul,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,-1
+14,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,1,0,0,62,MAN,P006082,FTM,"VILA, ERIC",Eric Vila,Kids&Us Manresa,4,5,05:18,12,10,,Free Throw In,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1
+14,1,2026-09-30 16:30:00,TRUE,away,1,"BASSAS, FERRAN","VILA, ERIC",0,0,0,0,0,0,0,63,MAN,P001607,AS,"BASSAS, FERRAN",Ferran Bassas,Kids&Us Manresa,6,5,05:18,12,10,,Assist,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1
+14,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,1,0,0,64,MAN,P006082,FTM,"VILA, ERIC",Eric Vila,Kids&Us Manresa,4,5,05:18,12,11,,Free Throw In,0,0,0,0,2,2,0,0,0,0,0,0,0,0,2,1
+14,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,65,MAN,P010020,IN,"TAMBA, PABLO",Pablo Tamba,Kids&Us Manresa,8,5,05:18,12,11,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,66,MAN,P010035,OUT,"VILLAR, RAFA",Rafa Villar,Kids&Us Manresa,44,5,05:18,12,11,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,67,PAO,P010386,RV,"FOSTER, MARCUS",Marcus Foster,PAOK Thessaloniki,17,5,05:08,12,11,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+14,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,68,MAN,P011165,CM,"KOLENDA, LUKASZ",Lukasz Kolenda,Kids&Us Manresa,1,5,05:08,12,11,,Foul,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-1
+14,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,1,0,0,0,70,PAO,P004088,2FGA,"OSMAN, CEDI",Cedi Osman,PAOK Thessaloniki,6,6,04:57,12,11,,Missed Two Pointer,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,-1
+14,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,71,MAN,P007423,D,"MINCHEV, YORDAN",Yordan Minchev,Kids&Us Manresa,91,6,04:56,12,11,,Def Rebound,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+14,1,2026-09-30 16:30:00,TRUE,NA,1,NA,NA,0,0,0,0,0,0,0,72,,,TOUT_TV,NA,NA,NA,NA,6,04:44,12,11,,TV Time Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,1,0,0,0,0,0,0,73,MAN,P001607,3FGM,"BASSAS, FERRAN",Ferran Bassas,Kids&Us Manresa,6,6,04:33,12,14,,Three Pointer,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3,3
+14,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,74,PAO,P009577,TO,"BAZINAS, ATHANASIOS",Athanasios Bazinas,PAOK Thessaloniki,77,6,04:26,12,14,,Turnover,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-1
+14,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,75,MAN,P010020,ST,"TAMBA, PABLO",Pablo Tamba,Kids&Us Manresa,8,6,04:25,12,14,,Steal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+14,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,1,0,0,0,0,0,76,MAN,P001607,3FGA,"BASSAS, FERRAN",Ferran Bassas,Kids&Us Manresa,6,6,04:15,12,14,,Missed Three Pointer,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+14,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,77,PAO,P011973,D,"ALEXANDER, KYLE",Kyle Alexander,PAOK Thessaloniki,8,6,04:13,12,14,,Def Rebound,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+14,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,78,PAO,P014885,RV,"GRAY, RAIQUAN",Raiquan Gray,PAOK Thessaloniki,0,6,04:04,12,14,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+14,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,79,MAN,P006082,CM,"VILA, ERIC",Eric Vila,Kids&Us Manresa,4,6,04:04,12,14,,Foul,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-1
+14,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,80,PAO,P014885,OUT,"GRAY, RAIQUAN",Raiquan Gray,PAOK Thessaloniki,0,6,04:04,12,14,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,81,PAO,P010387,IN,"PERSIDIS, NIKOLAOS",Nikolaos Persidis,PAOK Thessaloniki,18,6,04:04,12,14,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,1,0,0,0,83,PAO,P009577,2FGA,"BAZINAS, ATHANASIOS",Athanasios Bazinas,PAOK Thessaloniki,77,7,03:49,12,14,,Missed Two Pointer,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,-1
+14,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,84,PAO,P011973,O,"ALEXANDER, KYLE",Kyle Alexander,PAOK Thessaloniki,8,7,03:46,12,14,,Off Rebound,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+14,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,1,0,0,0,85,PAO,P011973,2FGA,"ALEXANDER, KYLE",Kyle Alexander,PAOK Thessaloniki,8,7,03:45,12,14,,Missed Two Pointer,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,-1
+14,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,86,PAO,P010387,O,"PERSIDIS, NIKOLAOS",Nikolaos Persidis,PAOK Thessaloniki,18,7,03:43,12,14,,Off Rebound,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+14,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,1,0,0,0,0,87,PAO,P011973,2FGM,"ALEXANDER, KYLE",Kyle Alexander,PAOK Thessaloniki,8,7,03:36,14,14,,Two Pointer,0,0,2,1,0,0,0,0,0,0,0,0,0,0,2,2
+14,1,2026-09-30 16:30:00,TRUE,home,1,"BAZINAS, ATHANASIOS","ALEXANDER, KYLE",0,0,0,0,0,0,0,88,PAO,P009577,AS,"BAZINAS, ATHANASIOS",Athanasios Bazinas,PAOK Thessaloniki,77,7,03:34,14,14,,Assist,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+14,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,1,0,0,0,89,MAN,P011165,2FGA,"KOLENDA, LUKASZ",Lukasz Kolenda,Kids&Us Manresa,1,7,03:18,14,14,,Missed Two Pointer,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,-1
+14,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,90,PAO,P011973,D,"ALEXANDER, KYLE",Kyle Alexander,PAOK Thessaloniki,8,7,03:16,14,14,,Def Rebound,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,1
+14,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,1,0,0,0,91,PAO,P010386,2FGA,"FOSTER, MARCUS",Marcus Foster,PAOK Thessaloniki,17,7,03:04,14,14,,Missed Two Pointer,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,-1
+14,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,92,MAN,P011165,D,"KOLENDA, LUKASZ",Lukasz Kolenda,Kids&Us Manresa,1,7,03:02,14,14,,Def Rebound,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+14,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,1,0,0,0,0,94,MAN,P007423,2FGM,"MINCHEV, YORDAN",Yordan Minchev,Kids&Us Manresa,91,8,02:45,14,16,,Two Pointer,0,0,1,1,0,0,0,0,0,0,0,0,0,0,4,2
+14,1,2026-09-30 16:30:00,TRUE,away,1,"BASSAS, FERRAN","MINCHEV, YORDAN",0,0,0,0,0,0,0,95,MAN,P001607,AS,"BASSAS, FERRAN",Ferran Bassas,Kids&Us Manresa,6,8,02:43,14,16,,Assist,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,1
+14,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,1,0,0,0,0,96,PAO,P004088,2FGM,"OSMAN, CEDI",Cedi Osman,PAOK Thessaloniki,6,8,02:33,16,16,,Two Pointer,0,0,3,2,0,0,0,0,0,0,0,0,0,0,7,2
+14,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,97,MAN,P011165,RV,"KOLENDA, LUKASZ",Lukasz Kolenda,Kids&Us Manresa,1,8,02:26,16,16,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+14,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,98,PAO,P009577,CM,"BAZINAS, ATHANASIOS",Athanasios Bazinas,PAOK Thessaloniki,77,8,02:26,16,16,,Foul,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-1
+14,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,100,PAO,P011965,IN,"MITROU LONG, NAZ",Naz Mitrou Long,PAOK Thessaloniki,1,8,02:26,16,16,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,101,PAO,P014886,IN,"TYREE, BREEIN",Breein Tyree,PAOK Thessaloniki,5,8,02:26,16,16,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,102,PAO,P004088,OUT,"OSMAN, CEDI",Cedi Osman,PAOK Thessaloniki,6,8,02:26,16,16,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,103,PAO,P011973,OUT,"ALEXANDER, KYLE",Kyle Alexander,PAOK Thessaloniki,8,8,02:26,16,16,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,104,PAO,P009869,IN,"MOORE, BEN",Ben Moore,PAOK Thessaloniki,26,8,02:26,16,16,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,105,PAO,P009577,OUT,"BAZINAS, ATHANASIOS",Athanasios Bazinas,PAOK Thessaloniki,77,8,02:26,16,16,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,106,MAN,P014858,IN,"ALLEN, TIMMY",Timmy Allen,Kids&Us Manresa,0,8,02:26,16,16,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,107,MAN,P011165,OUT,"KOLENDA, LUKASZ",Lukasz Kolenda,Kids&Us Manresa,1,8,02:26,16,16,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,108,MAN,P006082,OUT,"VILA, ERIC",Eric Vila,Kids&Us Manresa,4,8,02:26,16,16,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,109,MAN,P001607,OUT,"BASSAS, FERRAN",Ferran Bassas,Kids&Us Manresa,6,8,02:26,16,16,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,110,MAN,P014859,IN,"NOTAE, JD",Jd Notae,Kids&Us Manresa,13,8,02:26,16,16,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,111,MAN,P014862,IN,"ONGENDA, NICK",Nick Ongenda,Kids&Us Manresa,14,8,02:26,16,16,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,112,MAN,P010035,IN,"VILLAR, RAFA",Rafa Villar,Kids&Us Manresa,44,8,02:26,16,16,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,113,MAN,P007423,OUT,"MINCHEV, YORDAN",Yordan Minchev,Kids&Us Manresa,91,8,02:26,16,16,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,115,MAN,P014858,TO,"ALLEN, TIMMY",Timmy Allen,Kids&Us Manresa,0,8,02:18,16,16,,Turnover,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-1
+14,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,116,PAO,P010387,ST,"PERSIDIS, NIKOLAOS",Nikolaos Persidis,PAOK Thessaloniki,18,8,02:18,16,16,,Steal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+14,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,1,0,0,0,0,0,0,117,PAO,P011965,3FGM,"MITROU LONG, NAZ",Naz Mitrou Long,PAOK Thessaloniki,1,8,02:09,19,16,,Three Pointer,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3,3
+14,1,2026-09-30 16:30:00,TRUE,home,1,"FOSTER, MARCUS","MITROU LONG, NAZ",0,0,0,0,0,0,0,118,PAO,P010386,AS,"FOSTER, MARCUS",Marcus Foster,PAOK Thessaloniki,17,8,02:05,19,16,,Assist,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+14,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,1,0,0,0,120,MAN,P014862,2FGA,"ONGENDA, NICK",Nick Ongenda,Kids&Us Manresa,14,9,01:51,19,16,,Missed Two Pointer,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,-1
+14,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,121,PAO,P011965,D,"MITROU LONG, NAZ",Naz Mitrou Long,PAOK Thessaloniki,1,9,01:49,19,16,,Def Rebound,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+14,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,1,0,0,0,0,122,PAO,P011965,2FGM,"MITROU LONG, NAZ",Naz Mitrou Long,PAOK Thessaloniki,1,9,01:46,21,16,,Two Pointer,0,0,1,1,0,0,0,0,0,0,0,0,0,0,5,2
+14,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,123,MAN,,TOUT,NA,NA,Kids&Us Manresa,,9,01:46,21,16,,Time Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,1,0,0,0,0,124,MAN,P014862,2FGM,"ONGENDA, NICK",Nick Ongenda,Kids&Us Manresa,14,9,01:23,21,18,,Two Pointer,0,0,3,2,0,0,0,0,0,0,0,0,0,0,4,2
+14,1,2026-09-30 16:30:00,TRUE,away,1,"NOTAE, JD","ONGENDA, NICK",0,0,0,0,0,0,0,125,MAN,P014859,AS,"NOTAE, JD",Jd Notae,Kids&Us Manresa,13,9,01:21,21,18,,Assist,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+14,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,126,PAO,P010387,OF,"PERSIDIS, NIKOLAOS",Nikolaos Persidis,PAOK Thessaloniki,18,9,01:16,21,18,,Offensive Foul,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+14,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,127,PAO,P010387,TO,"PERSIDIS, NIKOLAOS",Nikolaos Persidis,PAOK Thessaloniki,18,9,01:16,21,18,,Turnover,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-1
+14,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,128,MAN,P010020,RV,"TAMBA, PABLO",Pablo Tamba,Kids&Us Manresa,8,9,01:16,21,18,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+14,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,129,MAN,P010020,OUT,"TAMBA, PABLO",Pablo Tamba,Kids&Us Manresa,8,9,01:16,21,18,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,130,MAN,P014861,IN,"AGBO, CHIBUZO",Chibuzo Agbo,Kids&Us Manresa,11,9,01:16,21,18,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,1,0,0,0,0,0,131,MAN,P014859,3FGA,"NOTAE, JD",Jd Notae,Kids&Us Manresa,13,9,01:13,21,18,,Missed Three Pointer,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+14,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,132,MAN,P014861,O,"AGBO, CHIBUZO",Chibuzo Agbo,Kids&Us Manresa,11,9,01:12,21,18,,Off Rebound,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+14,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,1,0,0,0,0,0,133,MAN,P014859,3FGA,"NOTAE, JD",Jd Notae,Kids&Us Manresa,13,9,01:09,21,18,,Missed Three Pointer,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+14,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,134,PAO,P010386,D,"FOSTER, MARCUS",Marcus Foster,PAOK Thessaloniki,17,9,01:07,21,18,,Def Rebound,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+14,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,1,0,0,0,0,0,136,PAO,P014886,3FGA,"TYREE, BREEIN",Breein Tyree,PAOK Thessaloniki,5,10,00:59,21,18,,Missed Three Pointer,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+14,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,137,PAO,P010387,O,"PERSIDIS, NIKOLAOS",Nikolaos Persidis,PAOK Thessaloniki,18,10,00:57,21,18,,Off Rebound,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1
+14,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,138,PAO,P014886,TO,"TYREE, BREEIN",Breein Tyree,PAOK Thessaloniki,5,10,00:44,21,18,,Turnover,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-1
+14,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,139,MAN,P014859,ST,"NOTAE, JD",Jd Notae,Kids&Us Manresa,13,10,00:44,21,18,,Steal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+14,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,1,0,0,0,0,0,140,MAN,P014861,3FGA,"AGBO, CHIBUZO",Chibuzo Agbo,Kids&Us Manresa,11,10,00:35,21,18,,Missed Three Pointer,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+14,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,142,PAO,,D,NA,NA,PAOK Thessaloniki,,10,00:31,21,18,,Def Rebound,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+14,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,143,PAO,P014886,OUT,"TYREE, BREEIN",Breein Tyree,PAOK Thessaloniki,5,10,00:31,21,18,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,144,PAO,P001932,IN,"CALATHES, NICK",Nick Calathes,PAOK Thessaloniki,33,10,00:31,21,18,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,145,MAN,P014860,IN,"BEAUFORT, LUCAS",Lucas Beaufort,Kids&Us Manresa,5,10,00:31,21,18,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,146,MAN,P014859,OUT,"NOTAE, JD",Jd Notae,Kids&Us Manresa,13,10,00:31,21,18,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,147,MAN,P010020,IN,"TAMBA, PABLO",Pablo Tamba,Kids&Us Manresa,8,10,00:31,21,18,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,148,MAN,P014861,OUT,"AGBO, CHIBUZO",Chibuzo Agbo,Kids&Us Manresa,11,10,00:31,21,18,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,149,PAO,P001932,TO,"CALATHES, NICK",Nick Calathes,PAOK Thessaloniki,33,10,00:16,21,18,,Turnover,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,-1
+14,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,150,MAN,P010035,ST,"VILLAR, RAFA",Rafa Villar,Kids&Us Manresa,44,10,00:15,21,18,,Steal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+14,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,1,0,0,0,0,151,MAN,P010020,2FGM,"TAMBA, PABLO",Pablo Tamba,Kids&Us Manresa,8,10,00:11,21,20,,Two Pointer,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2,2
+14,1,2026-09-30 16:30:00,TRUE,away,1,"VILLAR, RAFA","TAMBA, PABLO",0,0,0,0,0,0,0,152,MAN,P010035,AS,"VILLAR, RAFA",Rafa Villar,Kids&Us Manresa,44,10,00:10,21,20,,Assist,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+14,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,153,PAO,P009869,TO,"MOORE, BEN",Ben Moore,PAOK Thessaloniki,26,10,00:06,21,20,,Turnover,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-1
+14,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,154,MAN,P001607,IN,"BASSAS, FERRAN",Ferran Bassas,Kids&Us Manresa,6,10,00:06,21,20,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,155,MAN,P010020,OUT,"TAMBA, PABLO",Pablo Tamba,Kids&Us Manresa,8,10,00:06,21,20,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+14,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,156,MAN,P001607,TO,"BASSAS, FERRAN",Ferran Bassas,Kids&Us Manresa,6,10,00:02,21,20,,Turnover,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-1
+14,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,157,PAO,P009869,ST,"MOORE, BEN",Ben Moore,PAOK Thessaloniki,26,10,00:01,21,20,,Steal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+14,1,2026-09-30 16:30:00,TRUE,NA,0,NA,NA,0,0,0,0,0,0,0,160,,,EP,NA,NA,NA,NA,11,00:00,21,20,,End Period,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 13,1,2026-09-30 16:30:00,TRUE,NA,1,NA,NA,0,0,0,0,0,0,0,2,,,BP,NA,NA,NA,NA,1,10:00,0,0,,Begin Period,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 13,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,3,LKB,,JB,NA,NA,Lietkabelis Panevezys,,1,09:59,0,0,,Jump Ball,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 13,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,4,LKB,P014883,TO,"ILIC, MILOS",Milos Ilic,Lietkabelis Panevezys,11,1,09:48,0,0,,Turnover,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-1
@@ -3854,3 +4165,122 @@ gamecode,jornada,date,live,court,quarter,jugador_asiste,jugador_asistido,three_m
 13,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,1,0,0,0,0,43,BOS,P015047,2FGM,"PIPES JR, SHAWN",Shawn Pipes Jr,BOSNA BH Telecom Sarajevo,2,5,05:28,5,9,,Two Pointer,0,0,2,1,0,0,0,0,0,0,0,0,0,0,2,2
 13,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,44,LKB,P014883,CM,"ILIC, MILOS",Milos Ilic,Lietkabelis Panevezys,11,5,05:28,5,9,,Foul,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-1
 13,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,45,BOS,P015047,RV,"PIPES JR, SHAWN",Shawn Pipes Jr,BOSNA BH Telecom Sarajevo,2,5,05:28,5,9,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+13,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,1,0,0,46,BOS,P015047,FTM,"PIPES JR, SHAWN",Shawn Pipes Jr,BOSNA BH Telecom Sarajevo,2,5,05:28,5,10,,Free Throw In,0,0,0,0,1,1,0,0,0,0,0,0,0,0,3,1
+13,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,1,0,0,0,47,LKB,P009306,2FGA,"BASLYK, DANIEL",Daniel Baslyk,Lietkabelis Panevezys,9,5,05:02,5,10,,Missed Two Pointer,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,-1
+13,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,48,BOS,P015107,D,"GHOLSTON, DEANDRE",Deandre Gholston,BOSNA BH Telecom Sarajevo,4,5,05:03,5,10,,Def Rebound,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+13,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,49,LKB,P009306,CM,"BASLYK, DANIEL",Daniel Baslyk,Lietkabelis Panevezys,9,5,05:03,5,10,,Foul,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-1
+13,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,50,BOS,P015107,RV,"GHOLSTON, DEANDRE",Deandre Gholston,BOSNA BH Telecom Sarajevo,4,5,05:03,5,10,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1
+13,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,1,0,0,0,0,0,0,52,BOS,P015047,3FGM,"PIPES JR, SHAWN",Shawn Pipes Jr,BOSNA BH Telecom Sarajevo,2,6,04:48,5,13,,Three Pointer,1,1,0,0,0,0,0,0,0,0,0,0,0,0,6,3
+13,1,2026-09-30 16:30:00,TRUE,away,1,"TALIC, DARKO","PIPES JR, SHAWN",0,0,0,0,0,0,0,53,BOS,P015049,AS,"TALIC, DARKO",Darko Talic,BOSNA BH Telecom Sarajevo,19,6,04:45,5,13,,Assist,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+13,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,1,0,0,0,54,LKB,P009306,2FGA,"BASLYK, DANIEL",Daniel Baslyk,Lietkabelis Panevezys,9,6,04:31,5,13,,Missed Two Pointer,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,-1
+13,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,55,BOS,P015107,D,"GHOLSTON, DEANDRE",Deandre Gholston,BOSNA BH Telecom Sarajevo,4,6,04:29,5,13,,Def Rebound,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,1
+13,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,1,0,0,0,56,BOS,P015107,2FGA,"GHOLSTON, DEANDRE",Deandre Gholston,BOSNA BH Telecom Sarajevo,4,6,04:22,5,13,,Missed Two Pointer,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,-1
+13,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,57,BOS,P006230,O,"POPOVIC, NIKOLA",Nikola Popovic,BOSNA BH Telecom Sarajevo,21,6,04:18,5,13,,Off Rebound,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+13,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,1,0,0,0,58,BOS,P006230,2FGA,"POPOVIC, NIKOLA",Nikola Popovic,BOSNA BH Telecom Sarajevo,21,6,04:16,5,13,,Missed Two Pointer,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,-1
+13,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,59,LKB,P014883,D,"ILIC, MILOS",Milos Ilic,Lietkabelis Panevezys,11,6,04:14,5,13,,Def Rebound,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+13,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,1,0,0,0,0,0,60,LKB,P006831,3FGA,"FEVRIER, IVAN",Ivan Fevrier,Lietkabelis Panevezys,23,6,04:09,5,13,,Missed Three Pointer,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+13,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,61,BOS,P015047,D,"PIPES JR, SHAWN",Shawn Pipes Jr,BOSNA BH Telecom Sarajevo,2,6,04:06,5,13,,Def Rebound,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+13,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,1,0,0,0,0,0,62,BOS,P015049,3FGA,"TALIC, DARKO",Darko Talic,BOSNA BH Telecom Sarajevo,19,6,04:03,5,13,,Missed Three Pointer,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+13,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,63,LKB,P006831,D,"FEVRIER, IVAN",Ivan Fevrier,Lietkabelis Panevezys,23,6,04:03,5,13,,Def Rebound,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,1
+13,1,2026-09-30 16:30:00,TRUE,NA,1,NA,NA,0,0,0,0,0,0,0,64,,,TOUT_TV,NA,NA,NA,NA,6,04:03,5,13,,TV Time Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,65,LKB,P013311,IN,"KENNEDY, KEONDRE",Keondre Kennedy,Lietkabelis Panevezys,0,6,04:03,5,13,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,66,LKB,P009306,OUT,"BASLYK, DANIEL",Daniel Baslyk,Lietkabelis Panevezys,9,6,04:03,5,13,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,67,LKB,P014883,OUT,"ILIC, MILOS",Milos Ilic,Lietkabelis Panevezys,11,6,04:03,5,13,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,68,LKB,P010461,IN,"MALDUNAS, GABRIELIUS",Gabrielius Maldunas,Lietkabelis Panevezys,12,6,04:03,5,13,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,1,0,0,0,0,0,70,LKB,P013311,3FGA,"KENNEDY, KEONDRE",Keondre Kennedy,Lietkabelis Panevezys,0,7,03:39,5,13,,Missed Three Pointer,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+13,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,71,BOS,P015052,D,"HAWKINS, RYAN",Ryan Hawkins,BOSNA BH Telecom Sarajevo,44,7,03:37,5,13,,Def Rebound,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+13,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,1,0,0,0,72,BOS,P015047,2FGA,"PIPES JR, SHAWN",Shawn Pipes Jr,BOSNA BH Telecom Sarajevo,2,7,03:31,5,13,,Missed Two Pointer,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,-1
+13,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,73,LKB,P010461,D,"MALDUNAS, GABRIELIUS",Gabrielius Maldunas,Lietkabelis Panevezys,12,7,03:29,5,13,,Def Rebound,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+13,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,1,0,0,0,0,74,LKB,P014880,2FGM,"SCHUMACHER, ALEXANDER",Alexander Schumacher,Lietkabelis Panevezys,2,7,03:23,7,13,,Two Pointer,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2,2
+13,1,2026-09-30 16:30:00,TRUE,home,1,"FEVRIER, IVAN","SCHUMACHER, ALEXANDER",0,0,0,0,0,0,0,75,LKB,P006831,AS,"FEVRIER, IVAN",Ivan Fevrier,Lietkabelis Panevezys,23,7,03:21,7,13,,Assist,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+13,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,77,LKB,P013311,CM,"KENNEDY, KEONDRE",Keondre Kennedy,Lietkabelis Panevezys,0,8,02:59,7,13,,Foul,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-1
+13,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,78,BOS,P015107,RV,"GHOLSTON, DEANDRE",Deandre Gholston,BOSNA BH Telecom Sarajevo,4,8,02:59,7,13,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1
+13,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,79,LKB,P004058,OUT,"JARAMAZ, OGNJEN",Ognjen Jaramaz,Lietkabelis Panevezys,10,8,02:59,7,13,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,80,LKB,P007523,IN,"VALINSKAS, MARIUS",Marius Valinskas,Lietkabelis Panevezys,99,8,02:59,7,13,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,81,BOS,P015047,OUT,"PIPES JR, SHAWN",Shawn Pipes Jr,BOSNA BH Telecom Sarajevo,2,8,02:59,7,13,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,82,BOS,P015106,IN,"DOMASK, MARCUS",Marcus Domask,BOSNA BH Telecom Sarajevo,3,8,02:59,7,13,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,83,BOS,P015181,IN,"PERRY, REGINALD",Reginald Perry,BOSNA BH Telecom Sarajevo,11,8,02:59,7,13,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,84,BOS,P006230,OUT,"POPOVIC, NIKOLA",Nikola Popovic,BOSNA BH Telecom Sarajevo,21,8,02:59,7,13,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,1,0,0,85,BOS,P015107,FTM,"GHOLSTON, DEANDRE",Deandre Gholston,BOSNA BH Telecom Sarajevo,4,8,02:59,7,14,,Free Throw In,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1
+13,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,1,0,0,86,BOS,P015107,FTM,"GHOLSTON, DEANDRE",Deandre Gholston,BOSNA BH Telecom Sarajevo,4,8,02:59,7,15,,Free Throw In,0,0,0,0,2,2,0,0,0,0,0,0,0,0,2,1
+13,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,87,BOS,P015107,OUT,"GHOLSTON, DEANDRE",Deandre Gholston,BOSNA BH Telecom Sarajevo,4,8,02:59,7,15,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,88,BOS,P004716,IN,"ATIC, EDIN",Edin Atic,BOSNA BH Telecom Sarajevo,5,8,02:59,7,15,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,1,0,0,0,0,0,89,LKB,P006831,3FGA,"FEVRIER, IVAN",Ivan Fevrier,Lietkabelis Panevezys,23,8,02:40,7,15,,Missed Three Pointer,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+13,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,90,BOS,,D,NA,NA,BOSNA BH Telecom Sarajevo,,8,02:39,7,15,,Def Rebound,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+13,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,1,0,0,0,0,0,91,BOS,P015052,3FGA,"HAWKINS, RYAN",Ryan Hawkins,BOSNA BH Telecom Sarajevo,44,8,02:23,7,15,,Missed Three Pointer,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+13,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,92,LKB,P007523,D,"VALINSKAS, MARIUS",Marius Valinskas,Lietkabelis Panevezys,99,8,02:20,7,15,,Def Rebound,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+13,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,1,0,0,0,144,LKB,P014880,2FGA,"SCHUMACHER, ALEXANDER",Alexander Schumacher,Lietkabelis Panevezys,2,8,02:11,7,15,,Missed Two Pointer,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,-1
+13,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,145,BOS,,D,NA,NA,BOSNA BH Telecom Sarajevo,,8,02:11,7,15,,Def Rebound,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,1
+13,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,94,LKB,P014880,OUT,"SCHUMACHER, ALEXANDER",Alexander Schumacher,Lietkabelis Panevezys,2,8,02:11,7,15,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,95,LKB,P013863,IN,"RADZIUS, NOJUS",Nojus Radzius,Lietkabelis Panevezys,5,8,02:11,7,15,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,1,0,0,0,98,BOS,P015181,2FGA,"PERRY, REGINALD",Reginald Perry,BOSNA BH Telecom Sarajevo,11,9,01:50,7,15,,Missed Two Pointer,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,-1
+13,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,99,LKB,P006831,D,"FEVRIER, IVAN",Ivan Fevrier,Lietkabelis Panevezys,23,9,01:48,7,15,,Def Rebound,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,1
+13,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,100,BOS,P015106,CM,"DOMASK, MARCUS",Marcus Domask,BOSNA BH Telecom Sarajevo,3,9,01:38,7,15,,Foul,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-1
+13,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,101,LKB,P006831,RV,"FEVRIER, IVAN",Ivan Fevrier,Lietkabelis Panevezys,23,9,01:38,7,15,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+13,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,102,BOS,P015182,IN,"BROWNE, GARY",Gary Browne,BOSNA BH Telecom Sarajevo,14,9,01:38,7,15,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,103,BOS,P015049,OUT,"TALIC, DARKO",Darko Talic,BOSNA BH Telecom Sarajevo,19,9,01:38,7,15,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,0,1,0,0,104,LKB,P006831,FTM,"FEVRIER, IVAN",Ivan Fevrier,Lietkabelis Panevezys,23,9,01:38,8,15,,Free Throw In,0,0,0,0,1,1,0,0,0,0,0,0,0,0,6,1
+13,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,0,1,0,0,105,LKB,P006831,FTM,"FEVRIER, IVAN",Ivan Fevrier,Lietkabelis Panevezys,23,9,01:38,9,15,,Free Throw In,0,0,0,0,2,2,0,0,0,0,0,0,0,0,7,1
+13,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,106,LKB,P006831,OUT,"FEVRIER, IVAN",Ivan Fevrier,Lietkabelis Panevezys,23,9,01:38,9,15,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,107,LKB,P014884,IN,"NEMEIKSA, GYTIS",Gytis Nemeiksa,Lietkabelis Panevezys,50,9,01:38,9,15,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,108,BOS,P015181,TO,"PERRY, REGINALD",Reginald Perry,BOSNA BH Telecom Sarajevo,11,9,01:13,9,15,,Turnover,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-1
+13,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,109,LKB,P010461,ST,"MALDUNAS, GABRIELIUS",Gabrielius Maldunas,Lietkabelis Panevezys,12,9,01:12,9,15,,Steal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+13,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,110,LKB,P013311,TO,"KENNEDY, KEONDRE",Keondre Kennedy,Lietkabelis Panevezys,0,9,01:00,9,15,,Turnover,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-1
+13,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,112,BOS,P015182,ST,"BROWNE, GARY",Gary Browne,BOSNA BH Telecom Sarajevo,14,10,00:59,9,15,,Steal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+13,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,1,0,0,0,113,BOS,P004716,2FGA,"ATIC, EDIN",Edin Atic,BOSNA BH Telecom Sarajevo,5,10,00:56,9,15,,Missed Two Pointer,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,-1
+13,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,114,BOS,P015106,O,"DOMASK, MARCUS",Marcus Domask,BOSNA BH Telecom Sarajevo,3,10,00:52,9,15,,Off Rebound,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+13,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,1,0,0,0,0,115,BOS,P015106,2FGM,"DOMASK, MARCUS",Marcus Domask,BOSNA BH Telecom Sarajevo,3,10,00:52,9,17,,Two Pointer,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2,2
+13,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,1,0,0,0,0,0,0,116,LKB,P014884,3FGM,"NEMEIKSA, GYTIS",Gytis Nemeiksa,Lietkabelis Panevezys,50,10,00:35,12,17,,Three Pointer,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3,3
+13,1,2026-09-30 16:30:00,TRUE,home,1,"RADZIUS, NOJUS","NEMEIKSA, GYTIS",0,0,0,0,0,0,0,117,LKB,P013863,AS,"RADZIUS, NOJUS",Nojus Radzius,Lietkabelis Panevezys,5,10,00:33,12,17,,Assist,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+13,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,118,BOS,P004716,TO,"ATIC, EDIN",Edin Atic,BOSNA BH Telecom Sarajevo,5,10,00:11,12,17,,Turnover,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-1
+13,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,119,LKB,P013311,ST,"KENNEDY, KEONDRE",Keondre Kennedy,Lietkabelis Panevezys,0,10,00:10,12,17,,Steal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+13,1,2026-09-30 16:30:00,TRUE,home,1,NA,NA,0,1,0,0,0,0,0,120,LKB,P007523,3FGA,"VALINSKAS, MARIUS",Marius Valinskas,Lietkabelis Panevezys,99,10,00:00,12,17,,Missed Three Pointer,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+13,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,121,BOS,P004716,D,"ATIC, EDIN",Edin Atic,BOSNA BH Telecom Sarajevo,5,10,00:00,12,17,,Def Rebound,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+13,1,2026-09-30 16:30:00,TRUE,away,1,NA,NA,1,0,0,0,0,0,0,122,BOS,P004716,3FGM,"ATIC, EDIN",Edin Atic,BOSNA BH Telecom Sarajevo,5,10,00:00,12,20,,Three Pointer,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3,3
+13,1,2026-09-30 16:30:00,TRUE,NA,0,NA,NA,0,0,0,0,0,0,0,124,,,EP,NA,NA,NA,NA,11,00:00,12,20,,End Period,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,1,2026-09-30 16:30:00,TRUE,NA,2,NA,NA,0,0,0,0,0,0,0,125,,,BP,NA,NA,NA,NA,11,10:00,12,20,,Begin Period,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,1,2026-09-30 16:30:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,126,BOS,P003704,IN,"VRABAC, ADIN",Adin Vrabac,BOSNA BH Telecom Sarajevo,7,11,09:59,12,20,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,1,2026-09-30 16:30:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,127,BOS,P015052,OUT,"HAWKINS, RYAN",Ryan Hawkins,BOSNA BH Telecom Sarajevo,44,11,09:59,12,20,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,1,2026-09-30 16:30:00,TRUE,away,2,NA,NA,0,0,0,1,0,0,0,128,BOS,P015181,2FGA,"PERRY, REGINALD",Reginald Perry,BOSNA BH Telecom Sarajevo,11,11,09:44,12,20,,Missed Two Pointer,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,-1
+13,1,2026-09-30 16:30:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,129,BOS,P015181,O,"PERRY, REGINALD",Reginald Perry,BOSNA BH Telecom Sarajevo,11,11,09:45,12,20,,Off Rebound,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+13,1,2026-09-30 16:30:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,130,LKB,P010461,CM,"MALDUNAS, GABRIELIUS",Gabrielius Maldunas,Lietkabelis Panevezys,12,11,09:45,12,20,,Foul,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-1
+13,1,2026-09-30 16:30:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,131,BOS,P015181,RV,"PERRY, REGINALD",Reginald Perry,BOSNA BH Telecom Sarajevo,11,11,09:45,12,20,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+13,1,2026-09-30 16:30:00,TRUE,away,2,NA,NA,0,0,0,0,1,0,0,132,BOS,P015181,FTM,"PERRY, REGINALD",Reginald Perry,BOSNA BH Telecom Sarajevo,11,11,09:45,12,21,,Free Throw In,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1
+13,1,2026-09-30 16:30:00,TRUE,away,2,NA,NA,0,0,0,0,1,0,0,133,BOS,P015181,FTM,"PERRY, REGINALD",Reginald Perry,BOSNA BH Telecom Sarajevo,11,11,09:45,12,22,,Free Throw In,0,0,0,0,2,2,0,0,0,0,0,0,0,0,2,1
+13,1,2026-09-30 16:30:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,134,BOS,P015182,CM,"BROWNE, GARY",Gary Browne,BOSNA BH Telecom Sarajevo,14,11,09:34,12,22,,Foul,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-1
+13,1,2026-09-30 16:30:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,135,LKB,P013311,RV,"KENNEDY, KEONDRE",Keondre Kennedy,Lietkabelis Panevezys,0,11,09:34,12,22,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+13,1,2026-09-30 16:30:00,TRUE,home,2,NA,NA,0,0,0,1,0,0,0,136,LKB,P007523,2FGA,"VALINSKAS, MARIUS",Marius Valinskas,Lietkabelis Panevezys,99,11,09:22,12,22,,Missed Two Pointer,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,-1
+13,1,2026-09-30 16:30:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,137,BOS,P015181,D,"PERRY, REGINALD",Reginald Perry,BOSNA BH Telecom Sarajevo,11,11,09:19,12,22,,Def Rebound,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+13,1,2026-09-30 16:30:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,138,LKB,P013311,CM,"KENNEDY, KEONDRE",Keondre Kennedy,Lietkabelis Panevezys,0,11,09:17,12,22,,Foul,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,-1
+13,1,2026-09-30 16:30:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,139,BOS,P015182,RV,"BROWNE, GARY",Gary Browne,BOSNA BH Telecom Sarajevo,14,11,09:17,12,22,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+13,1,2026-09-30 16:30:00,TRUE,away,2,NA,NA,0,0,1,0,0,0,0,140,BOS,P003704,2FGM,"VRABAC, ADIN",Adin Vrabac,BOSNA BH Telecom Sarajevo,7,11,09:09,12,24,,Two Pointer,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2,2
+13,1,2026-09-30 16:30:00,TRUE,away,2,"DOMASK, MARCUS","VRABAC, ADIN",0,0,0,0,0,0,0,141,BOS,P015106,AS,"DOMASK, MARCUS",Marcus Domask,BOSNA BH Telecom Sarajevo,3,11,09:09,12,24,,Assist,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+13,1,2026-09-30 16:30:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,142,LKB,,TOUT,NA,NA,Lietkabelis Panevezys,,11,09:09,12,24,,Time Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,1,2026-09-30 16:30:00,TRUE,NA,2,NA,NA,0,0,0,0,0,0,0,143,,,TOUT_TV,NA,NA,NA,NA,11,09:09,12,24,,TV Time Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,1,2026-09-30 16:30:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,147,BOS,P015182,CM,"BROWNE, GARY",Gary Browne,BOSNA BH Telecom Sarajevo,14,12,08:50,12,24,,Foul,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,-1
+13,1,2026-09-30 16:30:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,148,LKB,P013863,RV,"RADZIUS, NOJUS",Nojus Radzius,Lietkabelis Panevezys,5,12,08:50,12,24,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+13,1,2026-09-30 16:30:00,TRUE,home,2,NA,NA,0,0,0,0,0,1,0,149,LKB,P013863,FTA,"RADZIUS, NOJUS",Nojus Radzius,Lietkabelis Panevezys,5,12,08:50,12,24,,Missed Free Throw,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,-1
+13,1,2026-09-30 16:30:00,TRUE,home,2,NA,NA,0,0,0,0,1,0,0,150,LKB,P013863,FTM,"RADZIUS, NOJUS",Nojus Radzius,Lietkabelis Panevezys,5,12,08:50,13,24,,Free Throw In,0,0,0,0,2,1,0,0,0,0,0,0,0,0,1,1
+13,1,2026-09-30 16:30:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,151,BOS,P015182,TO,"BROWNE, GARY",Gary Browne,BOSNA BH Telecom Sarajevo,14,12,08:40,13,24,,Turnover,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-1
+13,1,2026-09-30 16:30:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,152,LKB,P013863,ST,"RADZIUS, NOJUS",Nojus Radzius,Lietkabelis Panevezys,5,12,08:38,13,24,,Steal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+13,1,2026-09-30 16:30:00,TRUE,home,2,NA,NA,0,0,1,0,0,0,0,153,LKB,P007523,2FGM,"VALINSKAS, MARIUS",Marius Valinskas,Lietkabelis Panevezys,99,12,08:35,15,24,,Two Pointer,0,0,2,1,0,0,0,0,0,0,0,0,0,0,2,2
+13,1,2026-09-30 16:30:00,TRUE,home,2,"RADZIUS, NOJUS","VALINSKAS, MARIUS",0,0,0,0,0,0,0,154,LKB,P013863,AS,"RADZIUS, NOJUS",Nojus Radzius,Lietkabelis Panevezys,5,12,08:33,15,24,,Assist,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1
+13,1,2026-09-30 16:30:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,155,BOS,P015182,TO,"BROWNE, GARY",Gary Browne,BOSNA BH Telecom Sarajevo,14,12,08:30,15,24,,Turnover,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,-1
+13,1,2026-09-30 16:30:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,156,BOS,P004716,CM,"ATIC, EDIN",Edin Atic,BOSNA BH Telecom Sarajevo,5,12,08:30,15,24,,Foul,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-1
+13,1,2026-09-30 16:30:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,157,LKB,P007523,RV,"VALINSKAS, MARIUS",Marius Valinskas,Lietkabelis Panevezys,99,12,08:30,15,24,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+13,1,2026-09-30 16:30:00,TRUE,home,2,NA,NA,0,0,0,1,0,0,0,158,LKB,P013863,2FGA,"RADZIUS, NOJUS",Nojus Radzius,Lietkabelis Panevezys,5,12,08:20,15,24,,Missed Two Pointer,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,-1
+13,1,2026-09-30 16:30:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,159,BOS,P015182,D,"BROWNE, GARY",Gary Browne,BOSNA BH Telecom Sarajevo,14,12,08:18,15,24,,Def Rebound,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+13,1,2026-09-30 16:30:00,TRUE,away,2,NA,NA,0,0,1,0,0,0,0,160,BOS,P015181,2FGM,"PERRY, REGINALD",Reginald Perry,BOSNA BH Telecom Sarajevo,11,12,08:12,15,26,,Two Pointer,0,0,3,1,0,0,0,0,0,0,0,0,0,0,4,2
+13,1,2026-09-30 16:30:00,TRUE,away,2,"BROWNE, GARY","PERRY, REGINALD",0,0,0,0,0,0,0,161,BOS,P015182,AS,"BROWNE, GARY",Gary Browne,BOSNA BH Telecom Sarajevo,14,12,08:11,15,26,,Assist,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+13,1,2026-09-30 16:30:00,TRUE,home,2,NA,NA,0,0,0,1,0,0,0,163,LKB,P013311,2FGA,"KENNEDY, KEONDRE",Keondre Kennedy,Lietkabelis Panevezys,0,13,07:52,15,26,,Missed Two Pointer,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,-1
+13,1,2026-09-30 16:30:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,164,LKB,P014884,O,"NEMEIKSA, GYTIS",Gytis Nemeiksa,Lietkabelis Panevezys,50,13,07:50,15,26,,Off Rebound,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+13,1,2026-09-30 16:30:00,TRUE,home,2,NA,NA,0,0,0,1,0,0,0,165,LKB,P014884,2FGA,"NEMEIKSA, GYTIS",Gytis Nemeiksa,Lietkabelis Panevezys,50,13,07:48,15,26,,Missed Two Pointer,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,-1
+13,1,2026-09-30 16:30:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,166,LKB,P014884,O,"NEMEIKSA, GYTIS",Gytis Nemeiksa,Lietkabelis Panevezys,50,13,07:47,15,26,,Off Rebound,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1
+13,1,2026-09-30 16:30:00,TRUE,home,2,NA,NA,0,0,1,0,0,0,0,167,LKB,P014884,2FGM,"NEMEIKSA, GYTIS",Gytis Nemeiksa,Lietkabelis Panevezys,50,13,07:45,17,26,,Two Pointer,0,0,2,1,0,0,0,0,0,0,0,0,0,0,5,2
+13,1,2026-09-30 16:30:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,168,BOS,P015182,TO,"BROWNE, GARY",Gary Browne,BOSNA BH Telecom Sarajevo,14,13,07:39,17,26,,Turnover,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,-1
+13,1,2026-09-30 16:30:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,169,BOS,P015182,OUT,"BROWNE, GARY",Gary Browne,BOSNA BH Telecom Sarajevo,14,13,07:39,17,26,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,1,2026-09-30 16:30:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,170,BOS,P015049,IN,"TALIC, DARKO",Darko Talic,BOSNA BH Telecom Sarajevo,19,13,07:39,17,26,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+13,1,2026-09-30 16:30:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,171,BOS,P015049,CM,"TALIC, DARKO",Darko Talic,BOSNA BH Telecom Sarajevo,19,13,07:31,17,26,,Foul,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-1
+13,1,2026-09-30 16:30:00,TRUE,home,2,NA,NA,0,0,0,0,0,0,0,172,LKB,P013863,RV,"RADZIUS, NOJUS",Nojus Radzius,Lietkabelis Panevezys,5,13,07:31,17,26,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1
+13,1,2026-09-30 16:30:00,TRUE,home,2,NA,NA,0,0,1,0,0,0,0,173,LKB,P007523,2FGM,"VALINSKAS, MARIUS",Marius Valinskas,Lietkabelis Panevezys,99,13,07:26,19,26,,Two Pointer,0,0,3,2,0,0,0,0,0,0,0,0,0,0,4,2
+13,1,2026-09-30 16:30:00,TRUE,away,2,NA,NA,0,0,0,0,0,0,0,174,BOS,,TOUT,NA,NA,BOSNA BH Telecom Sarajevo,,13,07:26,19,26,,Time Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
