@@ -7568,6 +7568,7 @@ gamecode,jornada,date,live,court,quarter,jugador_asiste,jugador_asistido,three_m
 10,1,2026-09-30 18:00:00,TRUE,away,4,NA,NA,0,0,0,0,0,0,0,704,BOU,P014922,OUT,"WALKER, TYSON",Tyson Walker,Cosea JL Bourg-en-Bresse,12,40,00:07,84,76,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 10,1,2026-09-30 18:00:00,TRUE,home,4,NA,NA,0,1,0,0,0,0,0,705,NAP,P009429,3FGA,"JAKIMOVSKI, ANDREJ",Andrej Jakimovski,Napoli Basketball,23,40,00:07,84,76,,Missed Three Pointer,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
 10,1,2026-09-30 18:00:00,TRUE,away,4,NA,NA,0,0,0,0,0,0,0,706,BOU,P013061,D,"SOLIMAN, NATHAN",Nathan Soliman,Cosea JL Bourg-en-Bresse,14,40,00:07,84,76,,Def Rebound,0,0,0,0,0,0,0,6,0,0,0,0,0,0,0,1
+10,1,2026-09-30 18:00:00,TRUE,NA,0,NA,NA,0,0,0,0,0,0,0,709,,,EG,NA,NA,NA,NA,41,00:00,84,76,,End Game,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 1,1,2026-09-30 18:30:00,TRUE,NA,1,NA,NA,0,0,0,0,0,0,0,51,,,BP,NA,NA,NA,NA,1,10:00,0,0,,Begin Period,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 1,1,2026-09-30 18:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,52,LJU,,JB,NA,NA,Cedevita Olimpija Ljubljana,,1,09:59,0,0,,Jump Ball,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 1,1,2026-09-30 18:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,53,BGS,P015095,CM,"AUDIGE, CHASE",Chase Audige,Recoletas Salud San Pablo Burgos,1,1,09:43,0,0,,Foul,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-1
@@ -7915,6 +7916,7 @@ gamecode,jornada,date,live,court,quarter,jugador_asiste,jugador_asistido,three_m
 1,1,2026-09-30 18:30:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,426,LJU,P012003,AG,"COWAN JR, ANTHONY",Anthony Cowan Jr,Cedevita Olimpija Ljubljana,1,26,04:18,49,46,,Shot Rejected,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,-1
 1,1,2026-09-30 18:30:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,427,BGS,P013861,FV,"STEWARD, DJ",Dj Steward,Recoletas Salud San Pablo Burgos,4,26,04:13,49,46,,Block,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
 1,1,2026-09-30 18:30:00,TRUE,away,3,NA,NA,0,0,0,1,0,0,0,500,LJU,P004639,2FGA,"SKARA, DAVID",David Skara,Cedevita Olimpija Ljubljana,24,26,04:13,49,46,,Missed Two Pointer,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,-1
+1,1,2026-09-30 18:30:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,579,LJU,,O,NA,NA,Cedevita Olimpija Ljubljana,,26,04:13,49,46,,Off Rebound,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,1
 1,1,2026-09-30 18:30:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,428,BGS,P015095,OUT,"AUDIGE, CHASE",Chase Audige,Recoletas Salud San Pablo Burgos,1,26,04:13,49,46,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 1,1,2026-09-30 18:30:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,429,BGS,P015096,IN,"LOBACO, RAUL",Raul Lobaco,Recoletas Salud San Pablo Burgos,55,26,04:13,49,46,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 1,1,2026-09-30 18:30:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,430,LJU,P013920,TO,"KIRKWOOD, NOAH",Noah Kirkwood,Cedevita Olimpija Ljubljana,22,26,04:13,49,46,,Turnover,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,-1
@@ -7928,8 +7930,6 @@ gamecode,jornada,date,live,court,quarter,jugador_asiste,jugador_asistido,three_m
 1,1,2026-09-30 18:30:00,TRUE,home,3,NA,NA,0,0,0,0,1,0,0,439,BGS,P013861,FTM,"STEWARD, DJ",Dj Steward,Recoletas Salud San Pablo Burgos,4,27,03:57,51,46,,Free Throw In,0,0,0,0,3,3,0,0,0,0,0,0,0,0,13,1
 1,1,2026-09-30 18:30:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,440,LJU,P012003,TO,"COWAN JR, ANTHONY",Anthony Cowan Jr,Cedevita Olimpija Ljubljana,1,27,03:42,51,46,,Turnover,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,-1
 1,1,2026-09-30 18:30:00,TRUE,home,3,NA,NA,0,0,0,1,0,0,0,441,BGS,P013917,2FGA,"SENGFELDER, CHRISTIAN",Christian Sengfelder,Recoletas Salud San Pablo Burgos,43,27,03:27,51,46,,Missed Two Pointer,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,-1
-1,1,2026-09-30 18:30:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,442,BGS,P013917,AG,"SENGFELDER, CHRISTIAN",Christian Sengfelder,Recoletas Salud San Pablo Burgos,43,27,03:27,51,46,,Shot Rejected,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,-1
-1,1,2026-09-30 18:30:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,443,LJU,P015207,FV,"OSIFO, OSAYI",Osayi Osifo,Cedevita Olimpija Ljubljana,14,27,03:27,51,46,,Block,0,0,0,0,0,0,0,0,0,0,0,0,2,0,0,1
 1,1,2026-09-30 18:30:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,444,LJU,,D,NA,NA,Cedevita Olimpija Ljubljana,,27,03:27,51,46,,Def Rebound,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,1
 1,1,2026-09-30 18:30:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,445,LJU,P009392,OUT,"RADOVIC, ROK",Rok Radovic,Cedevita Olimpija Ljubljana,3,27,03:27,51,46,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 1,1,2026-09-30 18:30:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,446,LJU,P005553,IN,"LOMAZS, RIHARDS",Rihards Lomazs,Cedevita Olimpija Ljubljana,6,27,03:27,51,46,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -7970,7 +7970,7 @@ gamecode,jornada,date,live,court,quarter,jugador_asiste,jugador_asistido,three_m
 1,1,2026-09-30 18:30:00,TRUE,away,3,NA,NA,1,0,0,0,0,0,0,485,LJU,P014222,3FGM,"HURT, MATTHEW",Matthew Hurt,Cedevita Olimpija Ljubljana,21,30,00:41,60,59,,Three Pointer,2,1,0,0,0,0,0,0,0,0,0,0,0,0,20,3
 1,1,2026-09-30 18:30:00,TRUE,away,3,"KIRKWOOD, NOAH","HURT, MATTHEW",0,0,0,0,0,0,0,486,LJU,P013920,AS,"KIRKWOOD, NOAH",Noah Kirkwood,Cedevita Olimpija Ljubljana,22,30,00:39,60,59,,Assist,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
 1,1,2026-09-30 18:30:00,TRUE,home,3,NA,NA,0,0,0,1,0,0,0,487,BGS,P013861,2FGA,"STEWARD, DJ",Dj Steward,Recoletas Salud San Pablo Burgos,4,30,00:19,60,59,,Missed Two Pointer,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,-1
-1,1,2026-09-30 18:30:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,488,BGS,,O,NA,NA,Recoletas Salud San Pablo Burgos,,30,00:19,60,59,,Off Rebound,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,1
+1,1,2026-09-30 18:30:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,488,BGS,,O,NA,NA,Recoletas Salud San Pablo Burgos,,30,00:19,60,59,,Off Rebound,0,0,0,0,0,0,0,0,4,0,0,0,0,0,0,1
 1,1,2026-09-30 18:30:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,489,BGS,P007550,IN,"SAMAR, ZIGA",Ziga Samar,Recoletas Salud San Pablo Burgos,5,30,00:19,60,59,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 1,1,2026-09-30 18:30:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,490,BGS,P002810,OUT,"ALMAZAN, PABLO",Pablo Almazan,Recoletas Salud San Pablo Burgos,8,30,00:19,60,59,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 1,1,2026-09-30 18:30:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,491,LJU,P005553,OUT,"LOMAZS, RIHARDS",Rihards Lomazs,Cedevita Olimpija Ljubljana,6,30,00:19,60,59,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -8017,6 +8017,65 @@ gamecode,jornada,date,live,court,quarter,jugador_asiste,jugador_asistido,three_m
 1,1,2026-09-30 18:30:00,TRUE,away,4,NA,NA,0,0,0,0,0,0,0,535,LJU,P004639,RV,"SKARA, DAVID",David Skara,Cedevita Olimpija Ljubljana,24,32,08:10,65,61,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
 1,1,2026-09-30 18:30:00,TRUE,away,4,NA,NA,0,0,0,0,0,0,0,536,LJU,P003452,IN,"BLAZIC, JAKA",Jaka Blazic,Cedevita Olimpija Ljubljana,11,32,08:10,65,61,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 1,1,2026-09-30 18:30:00,TRUE,away,4,NA,NA,0,0,0,0,0,0,0,537,LJU,P013920,OUT,"KIRKWOOD, NOAH",Noah Kirkwood,Cedevita Olimpija Ljubljana,22,32,08:10,65,61,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,1,2026-09-30 18:30:00,TRUE,home,4,NA,NA,0,0,0,0,0,0,0,539,BGS,P013461,CM,"TABOADA, JOAQUIN",Joaquin Taboada,Recoletas Salud San Pablo Burgos,59,33,07:58,65,61,,Foul,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,-1
+1,1,2026-09-30 18:30:00,TRUE,away,4,NA,NA,0,0,0,0,0,0,0,540,LJU,P011688,RV,"KROFLIC, URBAN",Urban Kroflic,Cedevita Olimpija Ljubljana,23,33,07:58,65,61,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,4,0,0,0,1
+1,1,2026-09-30 18:30:00,TRUE,away,4,NA,NA,0,0,0,0,1,0,0,541,LJU,P011688,FTM,"KROFLIC, URBAN",Urban Kroflic,Cedevita Olimpija Ljubljana,23,33,07:58,65,62,,Free Throw In,0,0,0,0,3,2,0,0,0,0,0,0,0,0,4,1
+1,1,2026-09-30 18:30:00,TRUE,away,4,"BLAZIC, JAKA","KROFLIC, URBAN",0,0,0,0,0,0,0,580,LJU,P003452,AS,"BLAZIC, JAKA",Jaka Blazic,Cedevita Olimpija Ljubljana,11,33,07:58,65,62,,Assist,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,1
+1,1,2026-09-30 18:30:00,TRUE,away,4,NA,NA,0,0,0,0,1,0,0,542,LJU,P011688,FTM,"KROFLIC, URBAN",Urban Kroflic,Cedevita Olimpija Ljubljana,23,33,07:36,65,63,,Free Throw In,0,0,0,0,4,3,0,0,0,0,0,0,0,0,5,1
+1,1,2026-09-30 18:30:00,TRUE,home,4,NA,NA,0,0,0,0,0,0,0,543,BGS,P007550,TO,"SAMAR, ZIGA",Ziga Samar,Recoletas Salud San Pablo Burgos,5,33,07:34,65,63,,Turnover,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,-1
+1,1,2026-09-30 18:30:00,TRUE,home,4,NA,NA,0,0,0,0,0,0,0,544,BGS,P015095,IN,"AUDIGE, CHASE",Chase Audige,Recoletas Salud San Pablo Burgos,1,33,07:34,65,63,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,1,2026-09-30 18:30:00,TRUE,home,4,NA,NA,0,0,0,0,0,0,0,545,BGS,P015096,OUT,"LOBACO, RAUL",Raul Lobaco,Recoletas Salud San Pablo Burgos,55,33,07:34,65,63,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,1,2026-09-30 18:30:00,TRUE,away,4,NA,NA,1,0,0,0,0,0,0,546,LJU,P009392,3FGM,"RADOVIC, ROK",Rok Radovic,Cedevita Olimpija Ljubljana,3,33,07:34,65,66,,Three Pointer,2,1,0,0,0,0,0,0,0,0,0,0,0,0,3,3
+1,1,2026-09-30 18:30:00,TRUE,away,4,"COWAN JR, ANTHONY","RADOVIC, ROK",0,0,0,0,0,0,0,547,LJU,P012003,AS,"COWAN JR, ANTHONY",Anthony Cowan Jr,Cedevita Olimpija Ljubljana,1,33,07:34,65,66,,Assist,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,1
+1,1,2026-09-30 18:30:00,TRUE,home,4,NA,NA,0,0,1,0,0,0,0,549,BGS,P007550,2FGM,"SAMAR, ZIGA",Ziga Samar,Recoletas Salud San Pablo Burgos,5,34,06:57,67,66,,Two Pointer,0,0,2,1,0,0,0,0,0,0,0,0,0,0,2,2
+1,1,2026-09-30 18:30:00,TRUE,away,4,NA,NA,0,1,0,0,0,0,0,550,LJU,P011688,3FGA,"KROFLIC, URBAN",Urban Kroflic,Cedevita Olimpija Ljubljana,23,34,06:32,67,66,,Missed Three Pointer,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+1,1,2026-09-30 18:30:00,TRUE,home,4,NA,NA,0,0,0,0,0,0,0,551,BGS,P006834,D,"DOUMBOUYA, SEKOU",Sekou Doumbouya,Recoletas Salud San Pablo Burgos,45,34,06:28,67,66,,Def Rebound,0,0,0,0,0,0,0,7,0,0,0,0,0,0,0,1
+1,1,2026-09-30 18:30:00,TRUE,away,4,NA,NA,0,0,0,0,0,0,0,552,LJU,P009392,CM,"RADOVIC, ROK",Rok Radovic,Cedevita Olimpija Ljubljana,3,34,06:29,67,66,,Foul,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,-1
+1,1,2026-09-30 18:30:00,TRUE,home,4,NA,NA,0,0,0,0,0,0,0,553,BGS,P006834,RV,"DOUMBOUYA, SEKOU",Sekou Doumbouya,Recoletas Salud San Pablo Burgos,45,34,06:29,67,66,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1
+1,1,2026-09-30 18:30:00,TRUE,home,4,NA,NA,0,0,0,0,0,0,0,554,BGS,P003198,IN,"DIEZ, DANIEL",Daniel Diez,Recoletas Salud San Pablo Burgos,11,34,06:29,67,66,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,1,2026-09-30 18:30:00,TRUE,home,4,NA,NA,0,0,0,0,0,0,0,555,BGS,P013917,OUT,"SENGFELDER, CHRISTIAN",Christian Sengfelder,Recoletas Salud San Pablo Burgos,43,34,06:29,67,66,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,1,2026-09-30 18:30:00,TRUE,away,4,NA,NA,0,0,0,0,0,0,0,556,LJU,P005553,IN,"LOMAZS, RIHARDS",Rihards Lomazs,Cedevita Olimpija Ljubljana,6,34,06:29,67,66,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,1,2026-09-30 18:30:00,TRUE,away,4,NA,NA,0,0,0,0,0,0,0,557,LJU,P003452,OUT,"BLAZIC, JAKA",Jaka Blazic,Cedevita Olimpija Ljubljana,11,34,06:29,67,66,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,1,2026-09-30 18:30:00,TRUE,away,4,NA,NA,0,0,0,0,0,0,0,558,LJU,P014222,IN,"HURT, MATTHEW",Matthew Hurt,Cedevita Olimpija Ljubljana,21,34,06:29,67,66,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,1,2026-09-30 18:30:00,TRUE,away,4,NA,NA,0,0,0,0,0,0,0,559,LJU,P004639,OUT,"SKARA, DAVID",David Skara,Cedevita Olimpija Ljubljana,24,34,06:29,67,66,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,1,2026-09-30 18:30:00,TRUE,home,4,NA,NA,0,1,0,0,0,0,0,560,BGS,P015095,3FGA,"AUDIGE, CHASE",Chase Audige,Recoletas Salud San Pablo Burgos,1,34,06:12,67,66,,Missed Three Pointer,4,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+1,1,2026-09-30 18:30:00,TRUE,away,4,NA,NA,0,0,0,0,0,0,0,561,LJU,P012003,D,"COWAN JR, ANTHONY",Anthony Cowan Jr,Cedevita Olimpija Ljubljana,1,34,06:10,67,66,,Def Rebound,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+1,1,2026-09-30 18:30:00,TRUE,away,4,NA,NA,0,0,1,0,0,0,0,562,LJU,P005553,2FGM,"LOMAZS, RIHARDS",Rihards Lomazs,Cedevita Olimpija Ljubljana,6,34,06:00,67,68,,Two Pointer,0,0,5,4,0,0,0,0,0,0,0,0,0,0,15,2
+1,1,2026-09-30 18:30:00,TRUE,away,4,NA,NA,0,0,0,0,0,0,0,564,LJU,P009392,CM,"RADOVIC, ROK",Rok Radovic,Cedevita Olimpija Ljubljana,3,35,05:50,67,68,,Foul,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,-1
+1,1,2026-09-30 18:30:00,TRUE,home,4,NA,NA,0,0,0,0,0,0,0,565,BGS,P003198,RV,"DIEZ, DANIEL",Daniel Diez,Recoletas Salud San Pablo Burgos,11,35,05:50,67,68,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+1,1,2026-09-30 18:30:00,TRUE,home,4,NA,NA,0,0,0,0,0,0,0,566,BGS,P013861,IN,"STEWARD, DJ",Dj Steward,Recoletas Salud San Pablo Burgos,4,35,05:50,67,68,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,1,2026-09-30 18:30:00,TRUE,home,4,NA,NA,0,0,0,0,0,0,0,567,BGS,P013461,OUT,"TABOADA, JOAQUIN",Joaquin Taboada,Recoletas Salud San Pablo Burgos,59,35,05:50,67,68,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,1,2026-09-30 18:30:00,TRUE,away,4,NA,NA,0,0,0,0,0,0,0,570,LJU,P012003,OUT,"COWAN JR, ANTHONY",Anthony Cowan Jr,Cedevita Olimpija Ljubljana,1,35,05:50,67,68,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,1,2026-09-30 18:30:00,TRUE,away,4,NA,NA,0,0,0,0,0,0,0,571,LJU,P009392,IN,"RADOVIC, ROK",Rok Radovic,Cedevita Olimpija Ljubljana,3,35,05:50,67,68,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,1,2026-09-30 18:30:00,TRUE,home,4,NA,NA,0,0,1,0,0,0,0,572,BGS,P006834,2FGM,"DOUMBOUYA, SEKOU",Sekou Doumbouya,Recoletas Salud San Pablo Burgos,45,35,05:46,69,68,,Two Pointer,0,0,6,2,0,0,0,0,0,0,0,0,0,0,7,2
+1,1,2026-09-30 18:30:00,TRUE,home,4,"SAMAR, ZIGA","DOUMBOUYA, SEKOU",0,0,0,0,0,0,0,573,BGS,P007550,AS,"SAMAR, ZIGA",Ziga Samar,Recoletas Salud San Pablo Burgos,5,35,05:43,69,68,,Assist,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,1
+1,1,2026-09-30 18:30:00,TRUE,away,4,NA,NA,0,1,0,0,0,0,0,574,LJU,P014222,3FGA,"HURT, MATTHEW",Matthew Hurt,Cedevita Olimpija Ljubljana,21,35,05:28,69,68,,Missed Three Pointer,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+1,1,2026-09-30 18:30:00,TRUE,home,4,NA,NA,0,0,0,0,0,0,0,575,BGS,P003198,D,"DIEZ, DANIEL",Daniel Diez,Recoletas Salud San Pablo Burgos,11,35,05:26,69,68,,Def Rebound,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,1
+1,1,2026-09-30 18:30:00,TRUE,home,4,NA,NA,0,0,1,0,0,0,0,576,BGS,P006834,2FGM,"DOUMBOUYA, SEKOU",Sekou Doumbouya,Recoletas Salud San Pablo Burgos,45,35,05:12,71,68,,Two Pointer,0,0,7,3,0,0,0,0,0,0,0,0,0,0,9,2
+1,1,2026-09-30 18:30:00,TRUE,home,4,"STEWARD, DJ","DOUMBOUYA, SEKOU",0,0,0,0,0,0,0,577,BGS,P013861,AS,"STEWARD, DJ",Dj Steward,Recoletas Salud San Pablo Burgos,4,35,05:12,71,68,,Assist,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,1
+1,1,2026-09-30 18:30:00,TRUE,away,4,NA,NA,0,0,0,0,0,0,0,578,LJU,,TOUT,NA,NA,Cedevita Olimpija Ljubljana,,35,05:12,71,68,,Time Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,1,2026-09-30 18:30:00,TRUE,NA,4,NA,NA,0,0,0,0,0,0,0,581,,,TOUT_TV,NA,NA,NA,NA,35,05:12,71,68,,TV Time Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,1,2026-09-30 18:30:00,TRUE,away,4,NA,NA,0,0,0,0,0,0,0,582,LJU,P009392,OUT,"RADOVIC, ROK",Rok Radovic,Cedevita Olimpija Ljubljana,3,35,05:12,71,68,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,1,2026-09-30 18:30:00,TRUE,away,4,NA,NA,0,0,0,0,0,0,0,583,LJU,P004639,IN,"SKARA, DAVID",David Skara,Cedevita Olimpija Ljubljana,24,35,05:12,71,68,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,1,2026-09-30 18:30:00,TRUE,away,4,NA,NA,0,0,1,0,0,0,0,585,LJU,P005553,2FGM,"LOMAZS, RIHARDS",Rihards Lomazs,Cedevita Olimpija Ljubljana,6,36,04:51,71,70,,Two Pointer,0,0,6,5,0,0,0,0,0,0,0,0,0,0,17,2
+1,1,2026-09-30 18:30:00,TRUE,home,4,NA,NA,0,0,1,0,0,0,0,586,BGS,P013861,2FGM,"STEWARD, DJ",Dj Steward,Recoletas Salud San Pablo Burgos,4,36,04:27,73,70,,Two Pointer,0,0,5,3,0,0,0,0,0,0,0,0,0,0,16,2
+1,1,2026-09-30 18:30:00,TRUE,away,4,NA,NA,0,0,0,0,0,0,0,587,LJU,P012003,IN,"COWAN JR, ANTHONY",Anthony Cowan Jr,Cedevita Olimpija Ljubljana,1,36,04:17,73,70,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,1,2026-09-30 18:30:00,TRUE,away,4,NA,NA,0,0,0,0,0,0,0,588,LJU,P011688,OUT,"KROFLIC, URBAN",Urban Kroflic,Cedevita Olimpija Ljubljana,23,36,04:17,73,70,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,1,2026-09-30 18:30:00,TRUE,home,4,NA,NA,0,0,0,0,0,0,0,589,BGS,P015095,CM,"AUDIGE, CHASE",Chase Audige,Recoletas Salud San Pablo Burgos,1,36,04:15,73,70,,Foul,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,-1
+1,1,2026-09-30 18:30:00,TRUE,away,4,NA,NA,0,0,0,0,0,0,0,590,LJU,P005553,RV,"LOMAZS, RIHARDS",Rihards Lomazs,Cedevita Olimpija Ljubljana,6,36,04:15,73,70,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1
+1,1,2026-09-30 18:30:00,TRUE,away,4,NA,NA,0,0,0,0,1,0,0,591,LJU,P005553,FTM,"LOMAZS, RIHARDS",Rihards Lomazs,Cedevita Olimpija Ljubljana,6,36,04:15,73,71,,Free Throw In,0,0,0,0,5,5,0,0,0,0,0,0,0,0,18,1
+1,1,2026-09-30 18:30:00,TRUE,away,4,NA,NA,0,0,0,0,1,0,0,592,LJU,P005553,FTM,"LOMAZS, RIHARDS",Rihards Lomazs,Cedevita Olimpija Ljubljana,6,36,04:15,73,72,,Free Throw In,0,0,0,0,6,6,0,0,0,0,0,0,0,0,19,1
+1,1,2026-09-30 18:30:00,TRUE,home,4,NA,NA,0,0,0,1,0,0,0,594,BGS,P013861,2FGA,"STEWARD, DJ",Dj Steward,Recoletas Salud San Pablo Burgos,4,37,03:51,73,72,,Missed Two Pointer,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,-1
+1,1,2026-09-30 18:30:00,TRUE,home,4,NA,NA,0,0,0,0,0,0,0,595,BGS,,O,NA,NA,Recoletas Salud San Pablo Burgos,,37,03:50,73,72,,Off Rebound,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,1
+1,1,2026-09-30 18:30:00,TRUE,home,4,NA,NA,0,0,0,0,0,0,0,596,BGS,,TOUT,NA,NA,Recoletas Salud San Pablo Burgos,,37,03:50,73,72,,Time Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,1,2026-09-30 18:30:00,TRUE,home,4,NA,NA,0,0,0,0,0,0,0,597,BGS,P003198,OUT,"DIEZ, DANIEL",Daniel Diez,Recoletas Salud San Pablo Burgos,11,37,03:50,73,72,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,1,2026-09-30 18:30:00,TRUE,home,4,NA,NA,0,0,0,0,0,0,0,598,BGS,P013917,IN,"SENGFELDER, CHRISTIAN",Christian Sengfelder,Recoletas Salud San Pablo Burgos,43,37,03:50,73,72,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,1,2026-09-30 18:30:00,TRUE,away,4,NA,NA,0,0,0,0,0,0,0,599,LJU,P013920,IN,"KIRKWOOD, NOAH",Noah Kirkwood,Cedevita Olimpija Ljubljana,22,37,03:50,73,72,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+1,1,2026-09-30 18:30:00,TRUE,home,4,NA,NA,1,0,0,0,0,0,0,600,BGS,P013861,3FGM,"STEWARD, DJ",Dj Steward,Recoletas Salud San Pablo Burgos,4,37,03:46,76,72,,Three Pointer,3,3,0,0,0,0,0,0,0,0,0,0,0,0,19,3
+1,1,2026-09-30 18:30:00,TRUE,home,4,"SAMAR, ZIGA","STEWARD, DJ",0,0,0,0,0,0,0,601,BGS,P007550,AS,"SAMAR, ZIGA",Ziga Samar,Recoletas Salud San Pablo Burgos,5,37,03:43,76,72,,Assist,0,0,0,0,0,0,5,0,0,0,0,0,0,0,0,1
+1,1,2026-09-30 18:30:00,TRUE,away,4,NA,NA,0,0,1,0,0,0,0,602,LJU,P012003,2FGM,"COWAN JR, ANTHONY",Anthony Cowan Jr,Cedevita Olimpija Ljubljana,1,37,03:25,76,74,,Two Pointer,0,0,1,1,0,0,0,0,0,0,0,0,0,0,11,2
+1,1,2026-09-30 18:30:00,TRUE,home,4,NA,NA,0,0,0,1,0,0,0,603,BGS,P013861,2FGA,"STEWARD, DJ",Dj Steward,Recoletas Salud San Pablo Burgos,4,37,03:08,76,74,,Missed Two Pointer,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,-1
+1,1,2026-09-30 18:30:00,TRUE,away,4,NA,NA,0,0,0,0,0,0,0,604,LJU,P013920,D,"KIRKWOOD, NOAH",Noah Kirkwood,Cedevita Olimpija Ljubljana,22,37,03:05,76,74,,Def Rebound,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,1
 6,1,2026-09-30 19:00:00,TRUE,NA,1,NA,NA,0,0,0,0,0,0,0,11,,,BP,NA,NA,NA,NA,1,10:00,0,0,,Begin Period,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 6,1,2026-09-30 19:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,321,CLU,,JB,NA,NA,U-BT Cluj-Napoca,,1,09:59,0,0,,Jump Ball,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 6,1,2026-09-30 19:00:00,TRUE,home,1,NA,NA,1,0,0,0,0,0,0,13,MRO,P014177,3FGM,"RYAN, MATT",Matt Ryan,Maxima Roma,32,1,09:59,3,0,,Three Pointer,1,1,0,0,0,0,0,0,0,0,0,0,0,0,3,3
@@ -8327,7 +8386,7 @@ gamecode,jornada,date,live,court,quarter,jugador_asiste,jugador_asistido,three_m
 6,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,1,0,0,0,348,MRO,P003622,2FGA,"BILAN, MIRO",Miro Bilan,Maxima Roma,2,23,07:55,62,33,,Missed Two Pointer,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,-1
 6,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,349,CLU,P014840,D,"BESLAC, DUSAN",Dusan Beslac,U-BT Cluj-Napoca,3,23,07:53,62,33,,Def Rebound,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,1
 6,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,1,0,0,0,350,CLU,P007729,2FGA,"KULLAMAE, KRISTIAN",Kristian Kullamae,U-BT Cluj-Napoca,77,23,07:38,62,33,,Missed Two Pointer,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,-1
-6,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,351,CLU,P014845,O,"NICOLESCU, BOBE",Bobe Nicolescu,U-BT Cluj-Napoca,24,23,07:34,62,33,,Off Rebound,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1
+6,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,351,CLU,P014840,O,"BESLAC, DUSAN",Dusan Beslac,U-BT Cluj-Napoca,3,23,07:34,62,33,,Off Rebound,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
 6,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,352,CLU,P014845,TO,"NICOLESCU, BOBE",Bobe Nicolescu,U-BT Cluj-Napoca,24,23,07:34,62,33,,Turnover,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-1
 6,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,353,CLU,P014845,CMU_DI,"NICOLESCU, BOBE",Bobe Nicolescu,U-BT Cluj-Napoca,24,23,07:34,62,33,,Disruptive Foul,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 6,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,354,MRO,,CCH,NA,NA,Maxima Roma,,23,07:34,62,33,,Coach Challenge,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -8338,6 +8397,101 @@ gamecode,jornada,date,live,court,quarter,jugador_asiste,jugador_asistido,three_m
 6,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,1,0,360,MRO,P013305,FTA,"WHEATLE, CARL",Carl Wheatle,Maxima Roma,24,23,07:34,63,33,,Missed Free Throw,0,0,0,0,4,0,0,0,0,0,0,0,0,0,0,-1
 6,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,361,CLU,P014840,CM,"BESLAC, DUSAN",Dusan Beslac,U-BT Cluj-Napoca,3,23,07:34,63,33,,Foul,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,-1
 6,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,362,MRO,P015010,RV,"HOLIDAY, AARON",Aaron Holiday,Maxima Roma,3,23,07:34,63,33,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+6,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,1,0,0,0,0,0,363,MRO,P013305,3FGA,"WHEATLE, CARL",Carl Wheatle,Maxima Roma,24,23,07:14,63,33,,Missed Three Pointer,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+6,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,364,MRO,P013305,O,"WHEATLE, CARL",Carl Wheatle,Maxima Roma,24,23,07:12,63,33,,Off Rebound,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+6,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,1,0,0,0,0,0,0,365,MRO,P015012,3FGM,"VERONESI, GIOVANNI",Giovanni Veronesi,Maxima Roma,16,23,07:07,66,33,,Three Pointer,5,2,0,0,0,0,0,0,0,0,0,0,0,0,11,3
+6,1,2026-09-30 19:00:00,TRUE,home,3,"HOLIDAY, AARON","VERONESI, GIOVANNI",0,0,0,0,0,0,0,366,MRO,P015010,AS,"HOLIDAY, AARON",Aaron Holiday,Maxima Roma,3,23,07:04,66,33,,Assist,0,0,0,0,0,0,7,0,0,0,0,0,0,0,0,1
+6,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,1,0,0,0,0,0,368,CLU,P014840,3FGA,"BESLAC, DUSAN",Dusan Beslac,U-BT Cluj-Napoca,3,24,06:47,66,33,,Missed Three Pointer,5,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+6,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,369,CLU,P014845,O,"NICOLESCU, BOBE",Bobe Nicolescu,U-BT Cluj-Napoca,24,24,06:43,66,33,,Off Rebound,0,0,0,0,0,0,0,0,2,0,0,0,0,0,0,1
+6,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,1,0,0,0,0,0,370,CLU,P013300,3FGA,"BESS, JAVON",Javon Bess,U-BT Cluj-Napoca,20,24,06:38,66,33,,Missed Three Pointer,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+6,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,371,MRO,,D,NA,NA,Maxima Roma,,24,06:38,66,33,,Def Rebound,0,0,0,0,0,0,0,5,0,0,0,0,0,0,0,1
+6,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,372,CLU,P014840,OUT,"BESLAC, DUSAN",Dusan Beslac,U-BT Cluj-Napoca,3,24,06:38,66,33,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,373,CLU,P014843,IN,"BISHOP, CHRISTIAN",Christian Bishop,U-BT Cluj-Napoca,13,24,06:38,66,33,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,1,0,0,0,0,374,MRO,P003622,2FGM,"BILAN, MIRO",Miro Bilan,Maxima Roma,2,24,06:14,68,33,,Two Pointer,0,0,4,3,0,0,0,0,0,0,0,0,0,0,8,2
+6,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,376,CLU,P013300,TO,"BESS, JAVON",Javon Bess,U-BT Cluj-Napoca,20,25,05:59,68,33,,Turnover,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-1
+6,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,377,MRO,P003622,ST,"BILAN, MIRO",Miro Bilan,Maxima Roma,2,25,05:57,68,33,,Steal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+6,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,1,0,0,0,0,378,MRO,P013305,2FGM,"WHEATLE, CARL",Carl Wheatle,Maxima Roma,24,25,05:53,70,33,,Two Pointer,0,0,3,3,0,0,0,0,0,0,0,0,0,0,8,2
+6,1,2026-09-30 19:00:00,TRUE,home,3,"BILAN, MIRO","WHEATLE, CARL",0,0,0,0,0,0,0,379,MRO,P003622,AS,"BILAN, MIRO",Miro Bilan,Maxima Roma,2,25,05:53,70,33,,Assist,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1
+6,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,380,CLU,,TOUT,NA,NA,U-BT Cluj-Napoca,,25,05:53,70,33,,Time Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,381,MRO,P015012,CM,"VERONESI, GIOVANNI",Giovanni Veronesi,Maxima Roma,16,25,05:53,70,33,,Foul,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,-1
+6,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,382,CLU,P014845,RV,"NICOLESCU, BOBE",Bobe Nicolescu,U-BT Cluj-Napoca,24,25,05:53,70,33,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+6,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,1,0,0,0,383,CLU,P012801,2FGA,"SMART, JAVONTE",Javonte Smart,U-BT Cluj-Napoca,1,25,05:22,70,33,,Missed Two Pointer,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,-1
+6,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,384,MRO,P003622,D,"BILAN, MIRO",Miro Bilan,Maxima Roma,2,25,05:20,70,33,,Def Rebound,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,1
+6,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,1,0,0,0,386,MRO,P003622,2FGA,"BILAN, MIRO",Miro Bilan,Maxima Roma,2,26,04:56,70,33,,Missed Two Pointer,0,0,5,0,0,0,0,0,0,0,0,0,0,0,0,-1
+6,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,387,MRO,P003622,O,"BILAN, MIRO",Miro Bilan,Maxima Roma,2,26,04:53,70,33,,Off Rebound,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+6,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,1,0,0,0,388,MRO,P003622,2FGA,"BILAN, MIRO",Miro Bilan,Maxima Roma,2,26,04:51,70,33,,Missed Two Pointer,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,-1
+6,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,389,CLU,P012801,D,"SMART, JAVONTE",Javonte Smart,U-BT Cluj-Napoca,1,26,04:44,70,33,,Def Rebound,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+6,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,1,0,0,0,0,390,CLU,P014843,2FGM,"BISHOP, CHRISTIAN",Christian Bishop,U-BT Cluj-Napoca,13,26,04:40,70,35,,Two Pointer,0,0,2,2,0,0,0,0,0,0,0,0,0,0,4,2
+6,1,2026-09-30 19:00:00,TRUE,away,3,"BESS, JAVON","BISHOP, CHRISTIAN",0,0,0,0,0,0,0,391,CLU,P013300,AS,"BESS, JAVON",Javon Bess,U-BT Cluj-Napoca,20,26,04:37,70,35,,Assist,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+6,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,1,0,0,0,0,392,MRO,P003622,2FGM,"BILAN, MIRO",Miro Bilan,Maxima Roma,2,26,04:19,72,35,,Two Pointer,0,0,7,4,0,0,0,0,0,0,0,0,0,0,10,2
+6,1,2026-09-30 19:00:00,TRUE,home,3,"RYAN, MATT","BILAN, MIRO",0,0,0,0,0,0,0,393,MRO,P014177,AS,"RYAN, MATT",Matt Ryan,Maxima Roma,32,26,04:17,72,35,,Assist,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,1
+6,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,394,MRO,P015012,CM,"VERONESI, GIOVANNI",Giovanni Veronesi,Maxima Roma,16,26,04:08,72,35,,Foul,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,-1
+6,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,395,CLU,P012801,RV,"SMART, JAVONTE",Javonte Smart,U-BT Cluj-Napoca,1,26,04:08,72,35,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1
+6,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,396,MRO,P010588,IN,"BROWN III, JOHN",John Brown III,Maxima Roma,00,26,04:08,72,35,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,397,MRO,P003622,OUT,"BILAN, MIRO",Miro Bilan,Maxima Roma,2,26,04:08,72,35,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,398,MRO,P015010,OUT,"HOLIDAY, AARON",Aaron Holiday,Maxima Roma,3,26,04:08,72,35,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,399,MRO,P015235,IN,"TYSON, HUNTER",Hunter Tyson,Maxima Roma,4,26,04:08,72,35,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,400,MRO,P015011,IN,"ALIBEGOVIC, MIRZA",Mirza Alibegovic,Maxima Roma,5,26,04:08,72,35,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,401,MRO,P013261,IN,"LEMAR, BRYNTON",Brynton Lemar,Maxima Roma,11,26,04:08,72,35,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,402,MRO,P015012,OUT,"VERONESI, GIOVANNI",Giovanni Veronesi,Maxima Roma,16,26,04:08,72,35,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,403,MRO,P014177,OUT,"RYAN, MATT",Matt Ryan,Maxima Roma,32,26,04:08,72,35,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,404,CLU,P014841,IN,"MC CREARY, JALYN",Jalyn Mc Creary,U-BT Cluj-Napoca,8,26,04:08,72,35,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,405,CLU,P014845,OUT,"NICOLESCU, BOBE",Bobe Nicolescu,U-BT Cluj-Napoca,24,26,04:08,72,35,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,1,0,0,0,407,CLU,P014841,2FGA,"MC CREARY, JALYN",Jalyn Mc Creary,U-BT Cluj-Napoca,8,27,03:55,72,35,,Missed Two Pointer,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,-1
+6,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,408,MRO,P013305,D,"WHEATLE, CARL",Carl Wheatle,Maxima Roma,24,27,03:46,72,35,,Def Rebound,0,0,0,0,0,0,0,8,0,0,0,0,0,0,0,1
+6,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,409,MRO,P013305,OUT,"WHEATLE, CARL",Carl Wheatle,Maxima Roma,24,27,03:40,72,35,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,410,MRO,P014177,IN,"RYAN, MATT",Matt Ryan,Maxima Roma,32,27,03:40,72,35,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,1,0,0,0,0,0,411,MRO,P015235,3FGA,"TYSON, HUNTER",Hunter Tyson,Maxima Roma,4,27,03:39,72,35,,Missed Three Pointer,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+6,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,412,CLU,P012801,D,"SMART, JAVONTE",Javonte Smart,U-BT Cluj-Napoca,1,27,03:39,72,35,,Def Rebound,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,1
+6,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,413,CLU,P014841,TO,"MC CREARY, JALYN",Jalyn Mc Creary,U-BT Cluj-Napoca,8,27,03:39,72,35,,Turnover,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,-1
+6,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,414,CLU,P014843,CM,"BISHOP, CHRISTIAN",Christian Bishop,U-BT Cluj-Napoca,13,27,03:39,72,35,,Foul,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,-1
+6,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,415,MRO,P010588,RV,"BROWN III, JOHN",John Brown III,Maxima Roma,00,27,03:39,72,35,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1
+6,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,416,CLU,P012801,OUT,"SMART, JAVONTE",Javonte Smart,U-BT Cluj-Napoca,1,27,03:39,72,35,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,417,CLU,P007729,IN,"KULLAMAE, KRISTIAN",Kristian Kullamae,U-BT Cluj-Napoca,77,27,03:39,72,35,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,1,0,0,0,0,0,0,418,MRO,P015011,3FGM,"ALIBEGOVIC, MIRZA",Mirza Alibegovic,Maxima Roma,5,27,03:14,75,35,,Three Pointer,5,3,0,0,0,0,0,0,0,0,0,0,0,0,11,3
+6,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,419,CLU,P014841,TO,"MC CREARY, JALYN",Jalyn Mc Creary,U-BT Cluj-Napoca,8,27,03:01,75,35,,Turnover,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,-1
+6,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,421,MRO,P015011,ST,"ALIBEGOVIC, MIRZA",Mirza Alibegovic,Maxima Roma,5,28,03:00,75,35,,Steal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+6,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,1,0,0,0,422,MRO,P013261,2FGA,"LEMAR, BRYNTON",Brynton Lemar,Maxima Roma,11,28,02:53,75,35,,Missed Two Pointer,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,-1
+6,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,423,CLU,P014843,D,"BISHOP, CHRISTIAN",Christian Bishop,U-BT Cluj-Napoca,13,28,02:50,75,35,,Def Rebound,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+6,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,424,MRO,P014177,CM,"RYAN, MATT",Matt Ryan,Maxima Roma,32,28,02:50,75,35,,Foul,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-1
+6,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,425,MRO,P008031,IN,"BONACINI, FEDERICO",Federico Bonacini,Maxima Roma,23,28,02:50,75,35,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,426,MRO,P014177,OUT,"RYAN, MATT",Matt Ryan,Maxima Roma,32,28,02:50,75,35,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,427,CLU,P014843,OUT,"BISHOP, CHRISTIAN",Christian Bishop,U-BT Cluj-Napoca,13,28,02:50,75,35,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,428,CLU,P014845,IN,"NICOLESCU, BOBE",Bobe Nicolescu,U-BT Cluj-Napoca,24,28,02:50,75,35,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,429,CLU,P014844,RV,"HILL, MALCOLM",Malcolm Hill,U-BT Cluj-Napoca,21,28,02:50,75,35,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1
+6,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,1,0,0,430,CLU,P014844,FTM,"HILL, MALCOLM",Malcolm Hill,U-BT Cluj-Napoca,21,28,02:50,75,36,,Free Throw In,0,0,0,0,4,3,0,0,0,0,0,0,0,0,7,1
+6,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,1,0,0,431,CLU,P014844,FTM,"HILL, MALCOLM",Malcolm Hill,U-BT Cluj-Napoca,21,28,02:50,75,37,,Free Throw In,0,0,0,0,5,4,0,0,0,0,0,0,0,0,8,1
+6,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,1,0,0,0,432,MRO,P010588,2FGA,"BROWN III, JOHN",John Brown III,Maxima Roma,00,28,02:50,75,37,,Missed Two Pointer,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,-1
+6,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,433,CLU,P013300,D,"BESS, JAVON",Javon Bess,U-BT Cluj-Napoca,20,28,02:50,75,37,,Def Rebound,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+6,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,1,0,0,0,434,CLU,P013300,2FGA,"BESS, JAVON",Javon Bess,U-BT Cluj-Napoca,20,28,02:50,75,37,,Missed Two Pointer,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,-1
+6,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,435,CLU,P014841,O,"MC CREARY, JALYN",Jalyn Mc Creary,U-BT Cluj-Napoca,8,28,02:50,75,37,,Off Rebound,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+6,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,1,0,0,0,436,CLU,P014841,2FGA,"MC CREARY, JALYN",Jalyn Mc Creary,U-BT Cluj-Napoca,8,28,02:50,75,37,,Missed Two Pointer,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,-1
+6,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,437,MRO,P010588,D,"BROWN III, JOHN",John Brown III,Maxima Roma,00,28,02:50,75,37,,Def Rebound,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+6,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,1,0,0,0,438,MRO,P015235,2FGA,"TYSON, HUNTER",Hunter Tyson,Maxima Roma,4,28,02:50,75,37,,Missed Two Pointer,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,-1
+6,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,439,CLU,P013300,D,"BESS, JAVON",Javon Bess,U-BT Cluj-Napoca,20,28,02:50,75,37,,Def Rebound,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+6,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,1,0,0,0,440,CLU,P007729,2FGA,"KULLAMAE, KRISTIAN",Kristian Kullamae,U-BT Cluj-Napoca,77,28,02:50,75,37,,Missed Two Pointer,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,-1
+6,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,441,MRO,P015235,D,"TYSON, HUNTER",Hunter Tyson,Maxima Roma,4,28,02:50,75,37,,Def Rebound,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+6,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,443,CLU,P007729,CM,"KULLAMAE, KRISTIAN",Kristian Kullamae,U-BT Cluj-Napoca,77,29,01:32,75,37,,Foul,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,-1
+6,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,444,MRO,P013261,RV,"LEMAR, BRYNTON",Brynton Lemar,Maxima Roma,11,29,01:32,75,37,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1
+6,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,1,0,0,0,0,445,MRO,P013261,2FGM,"LEMAR, BRYNTON",Brynton Lemar,Maxima Roma,11,29,01:28,77,37,,Two Pointer,0,0,4,3,0,0,0,0,0,0,0,0,0,0,11,2
+6,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,446,CLU,P014841,CM,"MC CREARY, JALYN",Jalyn Mc Creary,U-BT Cluj-Napoca,8,29,01:28,77,37,,Foul,0,0,0,0,0,0,0,0,0,0,4,0,0,0,0,-1
+6,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,447,MRO,P013261,RV,"LEMAR, BRYNTON",Brynton Lemar,Maxima Roma,11,29,01:28,77,37,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1
+6,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,448,CLU,P014840,IN,"BESLAC, DUSAN",Dusan Beslac,U-BT Cluj-Napoca,3,29,01:28,77,37,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,449,CLU,P014841,OUT,"MC CREARY, JALYN",Jalyn Mc Creary,U-BT Cluj-Napoca,8,29,01:28,77,37,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,1,0,0,450,MRO,P013261,FTM,"LEMAR, BRYNTON",Brynton Lemar,Maxima Roma,11,29,01:28,78,37,,Free Throw In,0,0,0,0,3,3,0,0,0,0,0,0,0,0,12,1
+6,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,451,CLU,P014844,TO,"HILL, MALCOLM",Malcolm Hill,U-BT Cluj-Napoca,21,29,01:17,78,37,,Turnover,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-1
+6,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,452,MRO,P010588,ST,"BROWN III, JOHN",John Brown III,Maxima Roma,00,29,01:18,78,37,,Steal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+6,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,453,CLU,P014844,CM,"HILL, MALCOLM",Malcolm Hill,U-BT Cluj-Napoca,21,29,01:18,78,37,,Foul,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,-1
+6,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,454,MRO,P010588,RV,"BROWN III, JOHN",John Brown III,Maxima Roma,00,29,01:18,78,37,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,3,0,0,0,1
+6,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,455,CLU,P013300,OUT,"BESS, JAVON",Javon Bess,U-BT Cluj-Napoca,20,29,01:18,78,37,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,456,CLU,P012461,IN,"ILLES, LUCA-IONUT",Luca-Ionut Illes,U-BT Cluj-Napoca,88,29,01:18,78,37,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+6,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,1,0,457,MRO,P010588,FTA,"BROWN III, JOHN",John Brown III,Maxima Roma,00,29,01:18,78,37,,Missed Free Throw,0,0,0,0,1,0,0,0,0,0,0,0,0,0,0,-1
+6,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,1,0,0,458,MRO,P010588,FTM,"BROWN III, JOHN",John Brown III,Maxima Roma,00,29,01:18,79,37,,Free Throw In,0,0,0,0,2,1,0,0,0,0,0,0,0,0,1,1
+6,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,1,0,0,0,0,459,CLU,P014840,2FGM,"BESLAC, DUSAN",Dusan Beslac,U-BT Cluj-Napoca,3,29,01:04,79,39,,Two Pointer,0,0,4,3,0,0,0,0,0,0,0,0,0,0,7,2
+6,1,2026-09-30 19:00:00,TRUE,away,3,"KULLAMAE, KRISTIAN","BESLAC, DUSAN",0,0,0,0,0,0,0,460,CLU,P007729,AS,"KULLAMAE, KRISTIAN",Kristian Kullamae,U-BT Cluj-Napoca,77,29,01:04,79,39,,Assist,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1
+6,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,461,MRO,P015235,CM,"TYSON, HUNTER",Hunter Tyson,Maxima Roma,4,29,01:04,79,39,,Foul,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-1
+6,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,462,CLU,P014840,RV,"BESLAC, DUSAN",Dusan Beslac,U-BT Cluj-Napoca,3,29,01:04,79,39,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1
+6,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,1,0,0,463,CLU,P014840,FTM,"BESLAC, DUSAN",Dusan Beslac,U-BT Cluj-Napoca,3,29,01:04,79,40,,Free Throw In,0,0,0,0,2,2,0,0,0,0,0,0,0,0,8,1
 5,1,2026-09-30 19:00:00,TRUE,NA,1,NA,NA,0,0,0,0,0,0,0,11,,,BP,NA,NA,NA,NA,1,10:00,0,0,,Begin Period,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 5,1,2026-09-30 19:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,12,TTK,,JB,NA,NA,Turk Telekom Ankara,,1,09:59,0,0,,Jump Ball,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
 5,1,2026-09-30 19:00:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,13,TTK,P013272,TO,"LAMB, ANTHONY",Anthony Lamb,Turk Telekom Ankara,22,1,09:34,0,0,,Turnover,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-1
@@ -8695,10 +8849,11 @@ gamecode,jornada,date,live,court,quarter,jugador_asiste,jugador_asistido,three_m
 5,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,1,0,0,396,TTK,P004655,FTM,"BAKO, ISMAEL",Ismael Bako,Turk Telekom Ankara,28,23,07:42,49,44,,Free Throw In,0,0,0,0,1,1,0,0,0,0,0,0,0,0,11,1
 5,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,1,0,0,397,TTK,P004655,FTM,"BAKO, ISMAEL",Ismael Bako,Turk Telekom Ankara,28,23,07:42,49,45,,Free Throw In,0,0,0,0,2,2,0,0,0,0,0,0,0,0,12,1
 5,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,1,0,0,0,398,TNF,P014863,2FGA,"CISSE, BAMBA",Bamba Cisse,La Laguna Tenerife,1,23,07:18,49,45,,Missed Two Pointer,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,-1
-5,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,399,TNF,P009864,O,"HAPP, ETHAN",Ethan Happ,La Laguna Tenerife,22,23,07:13,49,45,,Off Rebound,0,0,0,0,0,0,0,0,3,0,0,0,0,0,0,1
-5,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,400,TNF,P009864,TO,"HAPP, ETHAN",Ethan Happ,La Laguna Tenerife,22,23,07:11,49,45,,Turnover,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,-1
+5,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,399,TTK,P013272,D,"LAMB, ANTHONY",Anthony Lamb,Turk Telekom Ankara,22,23,07:13,49,45,,Def Rebound,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+5,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,492,TTK,P013272,TO,"LAMB, ANTHONY",Anthony Lamb,Turk Telekom Ankara,22,23,07:13,49,45,,Turnover,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,-1
+5,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,493,TNF,P011826,ST,"GUY, KYLE",Kyle Guy,La Laguna Tenerife,2,23,07:13,49,45,,Steal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
 5,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,1,0,0,0,0,0,401,TNF,P011826,3FGA,"GUY, KYLE",Kyle Guy,La Laguna Tenerife,2,23,07:02,49,45,,Missed Three Pointer,2,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
-5,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,402,TTK,P006640,D,"OZDEMIROGLU, DOGUS",Dogus Ozdemiroglu,Turk Telekom Ankara,18,23,07:02,49,45,,Def Rebound,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+5,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,402,TTK,P004655,D,"BAKO, ISMAEL",Ismael Bako,Turk Telekom Ankara,28,23,07:02,49,45,,Def Rebound,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
 5,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,403,TNF,P005199,CM,"ABROMAITIS, TIM",Tim Abromaitis,La Laguna Tenerife,21,23,07:02,49,45,,Foul,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,-1
 5,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,404,TTK,P004655,RV,"BAKO, ISMAEL",Ismael Bako,Turk Telekom Ankara,28,23,07:02,49,45,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
 5,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,405,TTK,P015097,OUT,"HARDING, JERRICK",Jerrick Harding,Turk Telekom Ankara,7,23,07:02,49,45,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -8707,7 +8862,7 @@ gamecode,jornada,date,live,court,quarter,jugador_asiste,jugador_asistido,three_m
 5,1,2026-09-30 19:00:00,TRUE,away,3,"OZDEMIROGLU, DOGUS","BAKO, ISMAEL",0,0,0,0,0,0,0,408,TTK,P006640,AS,"OZDEMIROGLU, DOGUS",Dogus Ozdemiroglu,Turk Telekom Ankara,18,23,07:02,49,46,,Assist,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,1
 5,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,1,0,0,409,TTK,P004655,FTM,"BAKO, ISMAEL",Ismael Bako,Turk Telekom Ankara,28,23,07:02,49,47,,Free Throw In,0,0,0,0,4,4,0,0,0,0,0,0,0,0,14,1
 5,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,1,0,0,0,411,TNF,P014863,2FGA,"CISSE, BAMBA",Bamba Cisse,La Laguna Tenerife,1,24,06:45,49,47,,Missed Two Pointer,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,-1
-5,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,412,TTK,P013272,D,"LAMB, ANTHONY",Anthony Lamb,Turk Telekom Ankara,22,24,06:43,49,47,,Def Rebound,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+5,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,412,TTK,P013272,D,"LAMB, ANTHONY",Anthony Lamb,Turk Telekom Ankara,22,24,06:43,49,47,,Def Rebound,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,1
 5,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,413,TNF,P005199,CM,"ABROMAITIS, TIM",Tim Abromaitis,La Laguna Tenerife,21,24,06:42,49,47,,Foul,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,-1
 5,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,414,TTK,P006251,RV,"SCHNEIDER, TIM",Tim Schneider,Turk Telekom Ankara,3,24,06:42,49,47,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1
 5,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,415,TNF,P005199,OUT,"ABROMAITIS, TIM",Tim Abromaitis,La Laguna Tenerife,21,24,06:42,49,47,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -8723,7 +8878,7 @@ gamecode,jornada,date,live,court,quarter,jugador_asiste,jugador_asistido,three_m
 5,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,425,TNF,P002763,D,"DOORNEKAMP, AARON",Aaron Doornekamp,La Laguna Tenerife,42,24,06:10,49,47,,Def Rebound,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
 5,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,427,TTK,P004655,FV,"BAKO, ISMAEL",Ismael Bako,Turk Telekom Ankara,28,25,05:52,49,47,,Block,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
 5,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,428,TNF,P014863,D,"CISSE, BAMBA",Bamba Cisse,La Laguna Tenerife,1,25,05:52,49,47,,Def Rebound,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
-5,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,429,TTK,P004655,D,"BAKO, ISMAEL",Ismael Bako,Turk Telekom Ankara,28,25,05:52,49,47,,Def Rebound,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+5,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,429,TTK,P004655,D,"BAKO, ISMAEL",Ismael Bako,Turk Telekom Ankara,28,25,05:52,49,47,,Def Rebound,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
 5,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,430,TNF,P002763,CM,"DOORNEKAMP, AARON",Aaron Doornekamp,La Laguna Tenerife,42,25,05:52,49,47,,Foul,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,-1
 5,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,431,TTK,P004655,RV,"BAKO, ISMAEL",Ismael Bako,Turk Telekom Ankara,28,25,05:52,49,47,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1
 5,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,432,TNF,P014863,OUT,"CISSE, BAMBA",Bamba Cisse,La Laguna Tenerife,1,25,05:52,49,47,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
@@ -8758,3 +8913,75 @@ gamecode,jornada,date,live,court,quarter,jugador_asiste,jugador_asistido,three_m
 5,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,462,TNF,P007595,CM,"FITIPALDO , BRUNO",Bruno Fitipaldo,La Laguna Tenerife,6,26,04:20,54,49,,Foul,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,-1
 5,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,463,TTK,P012760,RV,"BANKSTON, KRIS",Kris Bankston,Turk Telekom Ankara,30,26,04:20,54,49,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
 5,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,1,0,0,464,TTK,P012760,FTM,"BANKSTON, KRIS",Kris Bankston,Turk Telekom Ankara,30,26,04:20,54,50,,Free Throw In,0,0,0,0,1,1,0,0,0,0,0,0,0,0,3,1
+5,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,1,0,0,465,TTK,P012760,FTM,"BANKSTON, KRIS",Kris Bankston,Turk Telekom Ankara,30,26,04:20,54,51,,Free Throw In,0,0,0,0,2,2,0,0,0,0,0,0,0,0,4,1
+5,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,466,TNF,P007595,TO,"FITIPALDO , BRUNO",Bruno Fitipaldo,La Laguna Tenerife,6,26,04:20,54,51,,Turnover,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,-1
+5,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,467,TTK,P006640,ST,"OZDEMIROGLU, DOGUS",Dogus Ozdemiroglu,Turk Telekom Ankara,18,26,04:20,54,51,,Steal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+5,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,468,TTK,P006640,TO,"OZDEMIROGLU, DOGUS",Dogus Ozdemiroglu,Turk Telekom Ankara,18,26,04:20,54,51,,Turnover,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,-1
+5,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,469,TNF,P014864,ST,"VAN BECK , WESLEY",Wesley Van Beck,La Laguna Tenerife,4,26,04:20,54,51,,Steal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+5,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,1,0,0,0,0,0,471,TNF,P002763,3FGA,"DOORNEKAMP, AARON",Aaron Doornekamp,La Laguna Tenerife,42,27,03:52,54,51,,Missed Three Pointer,3,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+5,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,472,TTK,P013272,D,"LAMB, ANTHONY",Anthony Lamb,Turk Telekom Ankara,22,27,03:50,54,51,,Def Rebound,0,0,0,0,0,0,0,4,0,0,0,0,0,0,0,1
+5,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,473,TTK,P013272,TO,"LAMB, ANTHONY",Anthony Lamb,Turk Telekom Ankara,22,27,03:38,54,51,,Turnover,0,0,0,0,0,0,0,0,0,3,0,0,0,0,0,-1
+5,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,474,TNF,P002763,ST,"DOORNEKAMP, AARON",Aaron Doornekamp,La Laguna Tenerife,42,27,03:38,54,51,,Steal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+5,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,475,TNF,P007595,OUT,"FITIPALDO , BRUNO",Bruno Fitipaldo,La Laguna Tenerife,6,27,03:38,54,51,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,476,TNF,PJUJ,IN,"HUERTAS, MARCELINHO",Marcelinho Huertas,La Laguna Tenerife,9,27,03:38,54,51,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,477,TTK,P006251,IN,"SCHNEIDER, TIM",Tim Schneider,Turk Telekom Ankara,3,27,03:38,54,51,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,478,TTK,P013272,OUT,"LAMB, ANTHONY",Anthony Lamb,Turk Telekom Ankara,22,27,03:38,54,51,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,479,TTK,P006251,CM,"SCHNEIDER, TIM",Tim Schneider,Turk Telekom Ankara,3,27,03:21,54,51,,Foul,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,-1
+5,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,480,TNF,P007018,RV,"HUNTER, VINCE",Vince Hunter,La Laguna Tenerife,32,27,03:21,54,51,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,5,0,0,0,1
+5,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,481,TNF,P002364,IN,"FERNANDEZ, JAIME",Jaime Fernandez,La Laguna Tenerife,3,27,03:21,54,51,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,482,TNF,P014864,OUT,"VAN BECK , WESLEY",Wesley Van Beck,La Laguna Tenerife,4,27,03:21,54,51,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,1,0,483,TNF,P007018,FTA,"HUNTER, VINCE",Vince Hunter,La Laguna Tenerife,32,27,03:21,54,51,,Missed Free Throw,0,0,0,0,6,0,0,0,0,0,0,0,0,0,0,-1
+5,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,1,0,0,484,TNF,P007018,FTM,"HUNTER, VINCE",Vince Hunter,La Laguna Tenerife,32,27,03:21,55,51,,Free Throw In,0,0,0,0,7,5,0,0,0,0,0,0,0,0,11,1
+5,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,485,TTK,P006251,OUT,"SCHNEIDER, TIM",Tim Schneider,Turk Telekom Ankara,3,27,03:21,55,51,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,486,TTK,P013923,IN,"KAHRAMAN, ATA",Ata Kahraman,Turk Telekom Ankara,6,27,03:21,55,51,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,1,0,0,0,487,TTK,P015097,2FGA,"HARDING, JERRICK",Jerrick Harding,Turk Telekom Ankara,7,27,03:00,55,51,,Missed Two Pointer,0,0,7,0,0,0,0,0,0,0,0,0,0,0,0,-1
+5,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,489,TNF,P007018,D,"HUNTER, VINCE",Vince Hunter,La Laguna Tenerife,32,28,02:56,55,51,,Def Rebound,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+5,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,1,0,0,0,0,490,TNF,P002364,2FGM,"FERNANDEZ, JAIME",Jaime Fernandez,La Laguna Tenerife,3,28,02:51,57,51,,Two Pointer,0,0,2,2,0,0,0,0,0,0,0,0,0,0,4,2
+5,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,491,TTK,,TOUT,NA,NA,Turk Telekom Ankara,,28,02:51,57,51,,Time Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,494,TNF,P014863,IN,"CISSE, BAMBA",Bamba Cisse,La Laguna Tenerife,1,28,02:51,57,51,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,495,TNF,P007723,OUT,"ALDERETE, HECTOR",Hector Alderete,La Laguna Tenerife,33,28,02:51,57,51,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,496,TTK,P004655,IN,"BAKO, ISMAEL",Ismael Bako,Turk Telekom Ankara,28,28,02:51,57,51,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,497,TTK,P012760,OUT,"BANKSTON, KRIS",Kris Bankston,Turk Telekom Ankara,30,28,02:51,57,51,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,498,TTK,P015097,TO,"HARDING, JERRICK",Jerrick Harding,Turk Telekom Ankara,7,28,02:42,57,51,,Turnover,0,0,0,0,0,0,0,0,0,4,0,0,0,0,0,-1
+5,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,499,TNF,P002364,ST,"FERNANDEZ, JAIME",Jaime Fernandez,La Laguna Tenerife,3,28,02:39,57,51,,Steal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
+5,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,1,0,0,0,0,500,TNF,P014863,2FGM,"CISSE, BAMBA",Bamba Cisse,La Laguna Tenerife,1,28,02:35,59,51,,Two Pointer,0,0,4,1,0,0,0,0,0,0,0,0,0,0,6,2
+5,1,2026-09-30 19:00:00,TRUE,home,3,"FERNANDEZ, JAIME","CISSE, BAMBA",0,0,0,0,0,0,0,501,TNF,P002364,AS,"FERNANDEZ, JAIME",Jaime Fernandez,La Laguna Tenerife,3,28,02:32,59,51,,Assist,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+5,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,1,0,0,0,0,502,TTK,P006640,2FGM,"OZDEMIROGLU, DOGUS",Dogus Ozdemiroglu,Turk Telekom Ankara,18,28,02:26,59,53,,Two Pointer,0,0,3,1,0,0,0,0,0,0,0,0,0,0,4,2
+5,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,1,0,0,0,0,503,TNF,PJUJ,2FGM,"HUERTAS, MARCELINHO",Marcelinho Huertas,La Laguna Tenerife,9,28,02:11,61,53,,Two Pointer,0,0,3,3,0,0,0,0,0,0,0,0,0,0,6,2
+5,1,2026-09-30 19:00:00,TRUE,home,3,"DOORNEKAMP, AARON","HUERTAS, MARCELINHO",0,0,0,0,0,0,0,504,TNF,P002763,AS,"DOORNEKAMP, AARON",Aaron Doornekamp,La Laguna Tenerife,42,28,02:06,61,53,,Assist,0,0,0,0,0,0,3,0,0,0,0,0,0,0,0,1
+5,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,1,0,0,0,506,TTK,P007673,2FGA,"TRIFUNOVIC, UROS",Uros Trifunovic,Turk Telekom Ankara,10,29,01:42,61,53,,Missed Two Pointer,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,-1
+5,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,507,TNF,P007018,D,"HUNTER, VINCE",Vince Hunter,La Laguna Tenerife,32,29,01:39,61,53,,Def Rebound,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,1
+5,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,1,0,0,0,0,508,TNF,P007018,2FGM,"HUNTER, VINCE",Vince Hunter,La Laguna Tenerife,32,29,01:31,63,53,,Two Pointer,0,0,5,4,0,0,0,0,0,0,0,0,0,0,13,2
+5,1,2026-09-30 19:00:00,TRUE,home,3,"HUERTAS, MARCELINHO","HUNTER, VINCE",0,0,0,0,0,0,0,509,TNF,PJUJ,AS,"HUERTAS, MARCELINHO",Marcelinho Huertas,La Laguna Tenerife,9,29,01:29,63,53,,Assist,0,0,0,0,0,0,4,0,0,0,0,0,0,0,0,1
+5,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,1,0,0,0,0,0,0,510,TTK,P007673,3FGM,"TRIFUNOVIC, UROS",Uros Trifunovic,Turk Telekom Ankara,10,29,01:10,63,56,,Three Pointer,6,4,0,0,0,0,0,0,0,0,0,0,0,0,12,3
+5,1,2026-09-30 19:00:00,TRUE,away,3,"KAHRAMAN, ATA","TRIFUNOVIC, UROS",0,0,0,0,0,0,0,511,TTK,P013923,AS,"KAHRAMAN, ATA",Ata Kahraman,Turk Telekom Ankara,6,29,01:07,63,56,,Assist,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+5,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,513,TTK,P004655,CM,"BAKO, ISMAEL",Ismael Bako,Turk Telekom Ankara,28,30,00:50,63,56,,Foul,0,0,0,0,0,0,0,0,0,0,2,0,0,0,0,-1
+5,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,514,TNF,P007018,RV,"HUNTER, VINCE",Vince Hunter,La Laguna Tenerife,32,30,00:50,63,56,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,6,0,0,0,1
+5,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,515,TTK,P006640,OUT,"OZDEMIROGLU, DOGUS",Dogus Ozdemiroglu,Turk Telekom Ankara,18,30,00:50,63,56,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,516,TTK,P013272,IN,"LAMB, ANTHONY",Anthony Lamb,Turk Telekom Ankara,22,30,00:50,63,56,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,1,0,0,0,517,TNF,P002364,2FGA,"FERNANDEZ, JAIME",Jaime Fernandez,La Laguna Tenerife,3,30,00:35,63,56,,Missed Two Pointer,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,-1
+5,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,518,TNF,,O,NA,NA,La Laguna Tenerife,,30,00:36,63,56,,Off Rebound,0,0,0,0,0,0,0,0,5,0,0,0,0,0,0,1
+5,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,519,TTK,P013272,CM,"LAMB, ANTHONY",Anthony Lamb,Turk Telekom Ankara,22,30,00:36,63,56,,Foul,0,0,0,0,0,0,0,0,0,0,3,0,0,0,0,-1
+5,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,520,TNF,P002763,RV,"DOORNEKAMP, AARON",Aaron Doornekamp,La Laguna Tenerife,42,30,00:36,63,56,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,2,0,0,0,1
+5,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,521,TTK,CO_B,C,NA,NA,Turk Telekom Ankara,NA,30,00:36,63,56,,Tech Foul Coach,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,1,0,0,522,TNF,PJUJ,FTM,"HUERTAS, MARCELINHO",Marcelinho Huertas,La Laguna Tenerife,9,30,00:36,64,56,,Free Throw In,0,0,0,0,1,1,0,0,0,0,0,0,0,0,7,1
+5,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,523,TTK,,TO,NA,NA,Turk Telekom Ankara,,30,00:36,64,56,,Turnover,0,0,0,0,0,0,0,0,0,2,0,0,0,0,0,-1
+5,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,1,0,524,TNF,P002763,FTA,"DOORNEKAMP, AARON",Aaron Doornekamp,La Laguna Tenerife,42,30,00:36,64,56,,Missed Free Throw,0,0,0,0,3,0,0,0,0,0,0,0,0,0,0,-1
+5,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,1,0,0,525,TNF,P002763,FTM,"DOORNEKAMP, AARON",Aaron Doornekamp,La Laguna Tenerife,42,30,00:36,65,56,,Free Throw In,0,0,0,0,4,3,0,0,0,0,0,0,0,0,8,1
+5,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,526,TNF,P007723,IN,"ALDERETE, HECTOR",Hector Alderete,La Laguna Tenerife,33,30,00:36,65,56,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,527,TNF,P002763,OUT,"DOORNEKAMP, AARON",Aaron Doornekamp,La Laguna Tenerife,42,30,00:36,65,56,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,1,0,0,0,528,TTK,P015097,2FGA,"HARDING, JERRICK",Jerrick Harding,Turk Telekom Ankara,7,30,00:22,65,56,,Missed Two Pointer,0,0,8,0,0,0,0,0,0,0,0,0,0,0,0,-1
+5,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,0,0,0,0,529,TNF,PJUJ,D,"HUERTAS, MARCELINHO",Marcelinho Huertas,La Laguna Tenerife,9,30,00:19,65,56,,Def Rebound,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+5,1,2026-09-30 19:00:00,TRUE,home,3,NA,NA,0,0,0,1,0,0,0,530,TNF,P007018,2FGA,"HUNTER, VINCE",Vince Hunter,La Laguna Tenerife,32,30,00:02,65,56,,Missed Two Pointer,0,0,6,0,0,0,0,0,0,0,0,0,0,0,0,-1
+5,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,0,0,0,0,0,0,531,TTK,P004655,D,"BAKO, ISMAEL",Ismael Bako,Turk Telekom Ankara,28,30,00:02,65,56,,Def Rebound,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,1
+5,1,2026-09-30 19:00:00,TRUE,away,3,NA,NA,0,1,0,0,0,0,0,532,TTK,P013923,3FGA,"KAHRAMAN, ATA",Ata Kahraman,Turk Telekom Ankara,6,30,00:00,65,56,,Missed Three Pointer,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+5,1,2026-09-30 19:00:00,TRUE,NA,0,NA,NA,0,0,0,0,0,0,0,534,,,EP,NA,NA,NA,NA,31,00:00,65,56,,End Period,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,1,2026-09-30 19:00:00,TRUE,NA,4,NA,NA,0,0,0,0,0,0,0,537,,,BP,NA,NA,NA,NA,31,10:00,65,56,,Begin Period,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,1,2026-09-30 19:00:00,TRUE,away,4,NA,NA,0,0,0,0,0,0,0,535,TTK,P015097,OUT,"HARDING, JERRICK",Jerrick Harding,Turk Telekom Ankara,7,31,10:00,65,56,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,1,2026-09-30 19:00:00,TRUE,away,4,NA,NA,0,0,0,0,0,0,0,536,TTK,P006640,IN,"OZDEMIROGLU, DOGUS",Dogus Ozdemiroglu,Turk Telekom Ankara,18,31,10:00,65,56,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,1,2026-09-30 19:00:00,TRUE,home,4,NA,NA,0,0,0,0,0,0,0,538,TNF,P007018,FV,"HUNTER, VINCE",Vince Hunter,La Laguna Tenerife,32,31,09:50,65,56,,Block,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+5,1,2026-09-30 19:00:00,TRUE,away,4,NA,NA,0,0,0,1,0,0,0,539,TTK,P006640,2FGA,"OZDEMIROGLU, DOGUS",Dogus Ozdemiroglu,Turk Telekom Ankara,18,31,09:50,65,56,,Missed Two Pointer,0,0,4,0,0,0,0,0,0,0,0,0,0,0,0,-1
+5,1,2026-09-30 19:00:00,TRUE,away,4,NA,NA,0,0,0,0,0,0,0,540,TTK,P006640,AG,"OZDEMIROGLU, DOGUS",Dogus Ozdemiroglu,Turk Telekom Ankara,18,31,09:50,65,56,,Shot Rejected,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,-1
+5,1,2026-09-30 19:00:00,TRUE,away,4,NA,NA,0,0,0,0,0,0,0,543,TTK,,O,NA,NA,Turk Telekom Ankara,,31,09:50,65,56,,Off Rebound,0,0,0,0,0,0,0,0,6,0,0,0,0,0,0,1
+5,1,2026-09-30 19:00:00,TRUE,away,4,NA,NA,0,0,0,0,0,0,0,541,TTK,P006640,CMT1,"OZDEMIROGLU, DOGUS",Dogus Ozdemiroglu,Turk Telekom Ankara,18,31,09:50,65,56,,Technical Foul 1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+5,1,2026-09-30 19:00:00,TRUE,home,4,NA,NA,0,0,0,0,1,0,0,542,TNF,PJUJ,FTM,"HUERTAS, MARCELINHO",Marcelinho Huertas,La Laguna Tenerife,9,31,09:50,66,56,,Free Throw In,0,0,0,0,2,2,0,0,0,0,0,0,0,0,8,1
