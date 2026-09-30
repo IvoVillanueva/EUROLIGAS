@@ -3117,3 +3117,48 @@ gamecode,jornada,date,live,court,quarter,jugador_asiste,jugador_asistido,three_m
 8,1,2026-09-30 15:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,20,LLI,P015120,ST,"LEWIS III, MAXWELL",Maxwell Lewis III,London Lions,2,3,07:52,2,4,,Steal,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,1
 8,1,2026-09-30 15:30:00,TRUE,away,1,NA,NA,0,1,0,0,0,0,0,21,LLI,P015120,3FGA,"LEWIS III, MAXWELL",Maxwell Lewis III,London Lions,2,3,07:40,2,4,,Missed Three Pointer,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
 8,1,2026-09-30 15:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,22,SIA,P015060,D,"HENDERSON JR, CEDRIC",Cedric Henderson Jr,Siauliai Basketball,2,3,07:37,2,4,,Def Rebound,0,0,0,0,0,0,0,2,0,0,0,0,0,0,0,1
+8,1,2026-09-30 15:30:00,TRUE,home,1,NA,NA,0,0,1,0,0,0,0,23,SIA,P013883,2FGM,"PACEVICIUS, MARTYNAS",Martynas Pacevicius,Siauliai Basketball,9,3,07:33,4,4,,Two Pointer,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2,2
+8,1,2026-09-30 15:30:00,TRUE,home,1,"HENDERSON JR, CEDRIC","PACEVICIUS, MARTYNAS",0,0,0,0,0,0,0,24,SIA,P015060,AS,"HENDERSON JR, CEDRIC",Cedric Henderson Jr,Siauliai Basketball,2,3,07:29,4,4,,Assist,0,0,0,0,0,0,1,0,0,0,0,0,0,0,0,1
+8,1,2026-09-30 15:30:00,TRUE,away,1,NA,NA,0,0,0,1,0,0,0,25,LLI,P014095,2FGA,"SCOTT, JOEL",Joel Scott,London Lions,1,3,07:29,4,4,,Missed Two Pointer,0,0,1,0,0,0,0,0,0,0,0,0,0,0,0,-1
+8,1,2026-09-30 15:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,26,SIA,P015061,D,"ROMANCENKO, DOVYDAS",Dovydas Romancenko,Siauliai Basketball,25,3,07:29,4,4,,Def Rebound,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+8,1,2026-09-30 15:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,27,LLI,P013260,CM,"JONES, DEVANTE",Devante Jones,London Lions,3,3,07:00,4,4,,Foul,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-1
+8,1,2026-09-30 15:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,28,SIA,P015062,RV,"MCKNIGHT, DAYVION",Dayvion Mcknight,Siauliai Basketball,20,3,07:00,4,4,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+8,1,2026-09-30 15:30:00,TRUE,home,1,NA,NA,0,0,1,0,0,0,0,30,SIA,P015060,2FGM,"HENDERSON JR, CEDRIC",Cedric Henderson Jr,Siauliai Basketball,2,4,06:57,6,4,,Two Pointer,0,0,2,2,0,0,0,0,0,0,0,0,0,0,4,2
+8,1,2026-09-30 15:30:00,TRUE,home,1,"MCKNIGHT, DAYVION","HENDERSON JR, CEDRIC",0,0,0,0,0,0,0,31,SIA,P015062,AS,"MCKNIGHT, DAYVION",Dayvion Mcknight,Siauliai Basketball,20,4,06:54,6,4,,Assist,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1
+8,1,2026-09-30 15:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,32,SIA,P015062,CM,"MCKNIGHT, DAYVION",Dayvion Mcknight,Siauliai Basketball,20,4,06:41,6,4,,Foul,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-1
+8,1,2026-09-30 15:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,33,LLI,P013260,RV,"JONES, DEVANTE",Devante Jones,London Lions,3,4,06:41,6,4,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+8,1,2026-09-30 15:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,34,SIA,P015059,IN,"FOFANA, SELIM",Selim Fofana,Siauliai Basketball,7,4,06:41,6,4,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,1,2026-09-30 15:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,35,SIA,P006158,OUT,"LUKOSIUNAS, KAROLIS",Karolis Lukosiunas,Siauliai Basketball,16,4,06:41,6,4,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,1,2026-09-30 15:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,36,SIA,P015062,OUT,"MCKNIGHT, DAYVION",Dayvion Mcknight,Siauliai Basketball,20,4,06:41,6,4,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,1,2026-09-30 15:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,37,SIA,P015064,IN,"CAFFEY, MICHAEL",Michael Caffey,Siauliai Basketball,55,4,06:41,6,4,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,1,2026-09-30 15:30:00,TRUE,away,1,NA,NA,0,0,0,0,1,0,0,38,LLI,P013260,FTM,"JONES, DEVANTE",Devante Jones,London Lions,3,4,06:41,6,5,,Free Throw In,0,0,0,0,1,1,0,0,0,0,0,0,0,0,1,1
+8,1,2026-09-30 15:30:00,TRUE,away,1,NA,NA,0,0,0,0,1,0,0,39,LLI,P013260,FTM,"JONES, DEVANTE",Devante Jones,London Lions,3,4,06:41,6,6,,Free Throw In,0,0,0,0,2,2,0,0,0,0,0,0,0,0,2,1
+8,1,2026-09-30 15:30:00,TRUE,home,1,NA,NA,0,0,1,0,0,0,0,40,SIA,P015064,2FGM,"CAFFEY, MICHAEL",Michael Caffey,Siauliai Basketball,55,4,06:24,8,6,,Two Pointer,0,0,1,1,0,0,0,0,0,0,0,0,0,0,2,2
+8,1,2026-09-30 15:30:00,TRUE,home,1,"HENDERSON JR, CEDRIC","CAFFEY, MICHAEL",0,0,0,0,0,0,0,41,SIA,P015060,AS,"HENDERSON JR, CEDRIC",Cedric Henderson Jr,Siauliai Basketball,2,4,06:24,8,6,,Assist,0,0,0,0,0,0,2,0,0,0,0,0,0,0,0,1
+8,1,2026-09-30 15:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,42,LLI,P015120,CM,"LEWIS III, MAXWELL",Maxwell Lewis III,London Lions,2,4,06:24,8,6,,Foul,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-1
+8,1,2026-09-30 15:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,43,SIA,P015064,RV,"CAFFEY, MICHAEL",Michael Caffey,Siauliai Basketball,55,4,06:24,8,6,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+8,1,2026-09-30 15:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,44,SIA,P013883,OUT,"PACEVICIUS, MARTYNAS",Martynas Pacevicius,Siauliai Basketball,9,4,06:24,8,6,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,1,2026-09-30 15:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,45,SIA,P015063,IN,"REID, EFTON",Efton Reid,Siauliai Basketball,15,4,06:24,8,6,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,1,2026-09-30 15:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,46,LLI,P015120,OUT,"LEWIS III, MAXWELL",Maxwell Lewis III,London Lions,2,4,06:24,8,6,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,1,2026-09-30 15:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,47,LLI,P015122,IN,"HORTON, LANDRIUS",Landrius Horton,London Lions,23,4,06:24,8,6,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,1,2026-09-30 15:30:00,TRUE,home,1,NA,NA,0,0,0,0,1,0,0,48,SIA,P015064,FTM,"CAFFEY, MICHAEL",Michael Caffey,Siauliai Basketball,55,4,06:24,9,6,,Free Throw In,0,0,0,0,1,1,0,0,0,0,0,0,0,0,3,1
+8,1,2026-09-30 15:30:00,TRUE,away,1,NA,NA,0,0,0,1,0,0,0,49,LLI,P013973,2FGA,"KENNEDY, THOMAS",Thomas Kennedy,London Lions,54,4,06:05,9,6,,Missed Two Pointer,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,-1
+8,1,2026-09-30 15:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,50,LLI,P013973,O,"KENNEDY, THOMAS",Thomas Kennedy,London Lions,54,4,06:02,9,6,,Off Rebound,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+8,1,2026-09-30 15:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,52,SIA,P015061,CM,"ROMANCENKO, DOVYDAS",Dovydas Romancenko,Siauliai Basketball,25,4,06:00,9,6,,Foul,0,0,0,0,0,0,0,0,0,0,1,0,0,0,0,-1
+8,1,2026-09-30 15:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,53,LLI,P011218,RV,"EVANS, KEENAN",Keenan Evans,London Lions,12,4,06:00,9,6,,Foul Drawn,0,0,0,0,0,0,0,0,0,0,0,1,0,0,0,1
+8,1,2026-09-30 15:30:00,TRUE,away,1,NA,NA,0,1,0,0,0,0,0,54,LLI,P011218,3FGA,"EVANS, KEENAN",Keenan Evans,London Lions,12,4,06:00,9,6,,Missed Three Pointer,1,0,0,0,0,0,0,0,0,0,0,0,0,0,0,-1
+8,1,2026-09-30 15:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,55,LLI,P015122,O,"HORTON, LANDRIUS",Landrius Horton,London Lions,23,4,06:00,9,6,,Off Rebound,0,0,0,0,0,0,0,0,1,0,0,0,0,0,0,1
+8,1,2026-09-30 15:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,57,LLI,P013260,TO,"JONES, DEVANTE",Devante Jones,London Lions,3,5,05:48,9,6,,Turnover,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-1
+8,1,2026-09-30 15:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,58,SIA,P001487,IN,"JOGELA, TAURAS",Tauras Jogela,Siauliai Basketball,22,5,05:48,9,6,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,1,2026-09-30 15:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,59,SIA,P015061,OUT,"ROMANCENKO, DOVYDAS",Dovydas Romancenko,Siauliai Basketball,25,5,05:48,9,6,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,1,2026-09-30 15:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,61,LLI,P014135,IN,"PRICE, ETHAN",Ethan Price,London Lions,10,5,05:41,9,6,,In,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,1,2026-09-30 15:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,62,LLI,P013973,OUT,"KENNEDY, THOMAS",Thomas Kennedy,London Lions,54,5,05:41,9,6,,Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
+8,1,2026-09-30 15:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,63,SIA,P015064,TO,"CAFFEY, MICHAEL",Michael Caffey,Siauliai Basketball,55,5,05:28,9,6,,Turnover,0,0,0,0,0,0,0,0,0,1,0,0,0,0,0,-1
+8,1,2026-09-30 15:30:00,TRUE,away,1,NA,NA,0,0,0,1,0,0,0,64,LLI,P011218,2FGA,"EVANS, KEENAN",Keenan Evans,London Lions,12,5,05:03,9,6,,Missed Two Pointer,0,0,2,0,0,0,0,0,0,0,0,0,0,0,0,-1
+8,1,2026-09-30 15:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,65,SIA,P015060,D,"HENDERSON JR, CEDRIC",Cedric Henderson Jr,Siauliai Basketball,2,5,05:00,9,6,,Def Rebound,0,0,0,0,0,0,0,3,0,0,0,0,0,0,0,1
+8,1,2026-09-30 15:30:00,TRUE,home,1,NA,NA,1,0,0,0,0,0,0,67,SIA,P015060,3FGM,"HENDERSON JR, CEDRIC",Cedric Henderson Jr,Siauliai Basketball,2,6,04:52,12,6,,Three Pointer,2,1,0,0,0,0,0,0,0,0,0,0,0,0,7,3
+8,1,2026-09-30 15:30:00,TRUE,away,1,NA,NA,0,0,0,1,0,0,0,68,LLI,P011218,2FGA,"EVANS, KEENAN",Keenan Evans,London Lions,12,6,04:43,12,6,,Missed Two Pointer,0,0,3,0,0,0,0,0,0,0,0,0,0,0,0,-1
+8,1,2026-09-30 15:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,69,LLI,P011218,AG,"EVANS, KEENAN",Keenan Evans,London Lions,12,6,04:43,12,6,,Shot Rejected,0,0,0,0,0,0,0,0,0,0,0,0,0,1,0,-1
+8,1,2026-09-30 15:30:00,TRUE,home,1,NA,NA,0,0,0,0,0,0,0,70,SIA,P015063,FV,"REID, EFTON",Efton Reid,Siauliai Basketball,15,6,04:43,12,6,,Block,0,0,0,0,0,0,0,0,0,0,0,0,1,0,0,1
+8,1,2026-09-30 15:30:00,TRUE,away,1,NA,NA,0,0,0,0,0,0,0,71,LLI,,D,NA,NA,London Lions,,6,04:43,12,6,,Def Rebound,0,0,0,0,0,0,0,1,0,0,0,0,0,0,0,1
+8,1,2026-09-30 15:30:00,TRUE,NA,1,NA,NA,0,0,0,0,0,0,0,72,,,TOUT_TV,NA,NA,NA,NA,6,04:43,12,6,,TV Time Out,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0,0
