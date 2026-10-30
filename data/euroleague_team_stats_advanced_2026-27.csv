@@ -11,11 +11,11 @@ team_ranking,team_code,team_tv_codes,team_name,team_image_url,games_played,effec
 10,PRS,PBB,Paris Basketball,https://media-cdn.incrowdsports.com/a033e5b3-0de7-48a3-98d9-d9a4b9df1f39.png,9,55.3%,57.3%,35.8%,61.9%,48.5%,1.5,18.3%,12.4%,51.7%,48.3%,21.1%,48.3%,40%,11.7%
 11,ASV,ASV,LDLC ASVEL Villeurbanne,https://media-cdn.incrowdsports.com/e33c6d1a-95ca-4dbc-b8cb-0201812104cc.png,8,56.4%,59.3%,29%,59.7%,44.3%,1.6,19.9%,12.8%,58.5%,41.5%,29.3%,46.1%,38%,15.9%
 12,TEL,MTA,Maccabi Rapyd Tel Aviv,https://media-cdn.cortextech.io/1b533342-78f5-4932-b714-a7d80b5826b5.png,9,56.1%,59.8%,31.3%,67.7%,49.3%,1.4,18%,13.1%,60.3%,39.7%,28.3%,50.8%,32.7%,16.5%
-13,DUB,DUB,Dubai Basketball,https://media-cdn.incrowdsports.com/1efae090-16e2-4963-ae47-4b94f249c244.png,8,54.7%,59.4%,33.8%,67.3%,50.9%,1.5,17.2%,11.5%,61.7%,38.3%,34.5%,48.1%,31.7%,20.1%
-14,RED,CZV,Crvena Zvezda Meridianbet Belgrade,https://media-cdn.incrowdsports.com/d2eef4a8-62df-4fdd-9076-276004268515.png,9,52.3%,55.9%,33.6%,66.3%,50.2%,1.8,19.6%,10.6%,57.3%,42.7%,28.8%,47.5%,35.5%,17%
-15,ZAL,ZAL,Zalgiris Kaunas,https://media-cdn.incrowdsports.com/0aa09358-3847-4c4e-b228-3582ee4e536d.png,8,54.8%,58.3%,37.3%,72.3%,54.6%,1.4,18.5%,13.2%,61.2%,38.8%,30%,45.5%,37.6%,16.9%
+13,RED,CZV,Crvena Zvezda Meridianbet Belgrade,https://media-cdn.incrowdsports.com/d2eef4a8-62df-4fdd-9076-276004268515.png,9,52.3%,55.9%,33.6%,66.3%,50.2%,1.8,19.6%,10.6%,57.3%,42.7%,28.8%,47.5%,35.5%,17%
+14,ZAL,ZAL,Zalgiris Kaunas,https://media-cdn.incrowdsports.com/0aa09358-3847-4c4e-b228-3582ee4e536d.png,8,54.8%,58.3%,37.3%,72.3%,54.6%,1.4,18.5%,13.2%,61.2%,38.8%,30%,45.5%,37.6%,16.9%
+15,DUB,DUB,Dubai Basketball,https://media-cdn.incrowdsports.com/1efae090-16e2-4963-ae47-4b94f249c244.png,9,55.5%,60.2%,33.6%,68.8%,51.7%,1.5,17.3%,11.2%,62.2%,37.8%,35.3%,49.3%,30.5%,20.2%
 16,PAN,PAO,Panathinaikos AKTOR Athens,https://media-cdn.incrowdsports.com/e3dff28a-9ec6-4faf-9d96-ecbc68f75780.png,8,56.2%,59.9%,36%,66.3%,52.3%,1.5,18.7%,12.6%,57.9%,42.1%,37.2%,49.1%,31.6%,19.3%
-17,HTA,HTA,Hapoel Tel Aviv,https://media-cdn.incrowdsports.com/cbb1c3ad-03d5-426a-b5ef-2832a4eee484.png,8,58%,61.7%,29.5%,69.1%,50.2%,1.6,16%,9.8%,59.9%,40.1%,30.7%,47.9%,34.9%,17.2%
+17,HTA,HTA,Hapoel Tel Aviv,https://media-cdn.incrowdsports.com/cbb1c3ad-03d5-426a-b5ef-2832a4eee484.png,9,57.4%,61%,28.4%,69%,49.3%,1.8,16.4%,9.4%,61.2%,38.8%,28.6%,48.9%,34.7%,16.5%
 18,PAM,VBC,Valencia Basket,https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHL/bc3e00b2-fea4-40be-a7ec-1e633129bde3.png,8,55.8%,59.7%,34.7%,70.2%,52.1%,1.8,17.6%,9.8%,59.6%,40.4%,32.2%,47.9%,33.8%,18.2%
 19,MAD,RMB,Real Madrid,https://media-cdn.incrowdsports.com/371b0d9b-9250-4c09-bda7-0686cf024657.png,9,57.1%,61.8%,34.5%,69.6%,52.3%,1.7,18.5%,11%,55.2%,44.8%,31.2%,43.2%,38.1%,18.7%
 20,OLY,OLY,Olympiacos Piraeus,https://media-cdn.incrowdsports.com/789423ac-3cdf-4b89-b11c-b458aa5f59a6.png,8,55.2%,60%,36.7%,66.9%,52.8%,1.6,19%,12.1%,62.5%,37.5%,33.5%,53.9%,26.3%,19.8%
