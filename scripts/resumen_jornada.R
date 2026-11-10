@@ -24,7 +24,7 @@ ritmo <- read_csv(
 
 
 # Top 10 por DRE con mas del 60% de los partidos de su equipo; Box Creation
-# por 100 posesiones, VAL y DRE por partido
+# y DRE por 100 posesiones (la formula del DRE espera esa escala), VAL por partido
 
 ranking <- read_csv(
   paste0("data/euroleague_player_stats_traditional_", temporada, ".csv"),
@@ -42,10 +42,12 @@ ranking <- read_csv(
     prof = (2 / (1 + exp(-fg3a)) - 1) * fg3_pct,
     box_creation = ast * 0.1843 + (pts + tov) * 0.0969 - 2.3021 * prof +
       0.0582 * ast * (pts + tov) * prof - 1.1942,
-    dre = -8.4 + 0.8 * points_scored - 0.7 * two_pointers_attempted -
-      0.6 * three_pointers_attempted - 0.2 * free_throws_attempted +
-      0.1 * offensive_rebounds + 0.4 * defensive_rebounds + 0.5 * assists +
-      1.7 * steals + 0.8 * blocks - 1.4 * turnovers - 0.1 * fouls_commited
+    dre = -8.4 + 100 / poss * (
+      0.8 * points_scored - 0.7 * two_pointers_attempted -
+        0.6 * three_pointers_attempted - 0.2 * free_throws_attempted +
+        0.1 * offensive_rebounds + 0.4 * defensive_rebounds + 0.5 * assists +
+        1.7 * steals + 0.8 * blocks - 1.4 * turnovers - 0.1 * fouls_commited
+    )
   ) %>%
   slice_max(dre, n = 10, with_ties = FALSE) %>%
   transmute(
@@ -135,7 +137,7 @@ titulo <- paste0(
 subtitulo <- paste0(
   "<span style='font-family: Signate Grotesk; color: #8C8C8C;",
   " font-size: 30px'>",
-  "Más del 60% de los partidos de su equipo | Box Creation por 100 pos.",
+  "Más del 60% de los partidos de su equipo | Box Creation y DRE por 100 pos.",
   " | Temporada ",
   temporada, "</span>"
 )
