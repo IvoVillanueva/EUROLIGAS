@@ -56,7 +56,7 @@ ranking <- read_csv(
     apellido = word(name, 2, -1),
     foto = image_url,
     escudo = team_image_url,
-    team_code,
+    team_code = recode(team_code, PAM = "VBC"),
     gp = games_played,
     min = minutes_played,
     box_creation,
