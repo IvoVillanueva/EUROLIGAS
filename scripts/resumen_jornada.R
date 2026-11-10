@@ -23,7 +23,7 @@ ritmo <- read_csv(
   )
 
 
-# Top 10 por DRE con mas del 60% de los partidos de su equipo; Box Creation
+# Top 10 por DRE con mas del 60% de los partidos de su equipo y 15 minutos; Box Creation
 # y DRE por 100 posesiones (la formula del DRE espera esa escala), VAL por partido
 
 ranking <- read_csv(
@@ -31,7 +31,7 @@ ranking <- read_csv(
   show_col_types = FALSE
 ) %>%
   inner_join(ritmo, by = "team_code") %>%
-  filter(games_played > 0.6 * team_gp) %>%
+  filter(games_played > 0.6 * team_gp, minutes_played >= 15) %>%
   mutate(
     poss = minutes_played / 40 * pace,
     fg3_pct = parse_number(three_pointers_percentage) / 100,
@@ -137,7 +137,7 @@ titulo <- paste0(
 subtitulo <- paste0(
   "<span style='font-family: Signate Grotesk; color: #8C8C8C;",
   " font-size: 30px'>",
-  "Más del 60% de los partidos de su equipo | Box Creation y DRE por 100 pos.",
+  "Más del 60% de los partidos de su equipo y 15 min | Box Creation y DRE por 100 pos.",
   " | Temporada ",
   temporada, "</span>"
 )
