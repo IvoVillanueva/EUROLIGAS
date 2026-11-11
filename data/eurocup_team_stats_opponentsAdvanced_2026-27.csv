@@ -6,16 +6,16 @@ team_ranking,team_code,team_tv_codes,team_name,team_image_url,games_played,effec
 5,KLA,NEP,Neptunas Klaipeda,https://media-cdn.cortextech.io/ed0df5cd-c9e4-4387-bcd4-3606270cd255.png,7,55.5%,59.1%,30.3%,64.4%,47.9%,1.8,18.7%,10.5%,65%,35%,30.6%,57.6%,25.2%,17.2%
 6,RTK,ROS,Rostock Seawolves,https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/de14cdb9-c0f7-485f-84ac-f305ace44723.png,7,51.6%,56.3%,29.1%,72.5%,51.8%,1.6,17.1%,10.6%,60.5%,39.5%,37.7%,46.9%,31.7%,21.3%
 7,ULM,ULM,ratiopharm ulm,https://media-cdn.cortextech.io/5750bc8b-dd63-48e4-8586-10d4e5e2b4e2.png,6,53.6%,57.9%,35.5%,72%,53.1%,1,15.1%,15%,62.1%,37.9%,42.3%,52.6%,25.5%,21.9%
-8,BGS,BUR,Recoletas Salud San Pablo Burgos,https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCxM/40c97670-177e-4c74-9f5f-76b528a0da86.png,6,52.1%,56%,34.5%,66.5%,50.4%,1.7,17.8%,10.5%,53.5%,46.5%,31.6%,47.2%,34.5%,18.3%
-9,SIA,SIA,Siauliai,https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/55a49aa3-e91f-45cc-88d0-670896ce5825.png,6,52.7%,57.4%,29.3%,73.6%,50.4%,1.8,18.7%,10.4%,56.6%,43.4%,32.1%,46.2%,34.1%,19.7%
+8,SIA,SIA,Siauliai,https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/55a49aa3-e91f-45cc-88d0-670896ce5825.png,7,52.9%,57.8%,28.5%,73.1%,49.8%,1.8,18.7%,10.6%,57%,43%,32.3%,46.9%,33.2%,19.8%
+9,BGS,BUR,Recoletas Salud San Pablo Burgos,https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCxM/40c97670-177e-4c74-9f5f-76b528a0da86.png,6,52.1%,56%,34.5%,66.5%,50.4%,1.7,17.8%,10.5%,53.5%,46.5%,31.6%,47.2%,34.5%,18.3%
 10,BCR,ROM,ROMA BASKETBALL,https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOS1/1e9e0379-db30-4234-89b0-19576709c285.png,6,54%,57.9%,35.5%,66.5%,50.3%,1.6,18.5%,11.5%,57.7%,42.3%,32.1%,47.8%,34%,18.2%
 11,MRO,RMA,MAXIMA ROMA,https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/f1547a87-c0bf-41ab-bf7e-a0001649430d.png,6,53.2%,55.8%,28.8%,68.8%,48.6%,1.7,19%,11.1%,57.5%,42.5%,25.1%,50.8%,35.1%,14.1%
 12,RIG,RIG,Riga Zelli,https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/0ab8fe2a-5972-48c5-bdff-f5159ca0abe7.png,6,52.8%,56.6%,33.2%,68.2%,51.2%,1.4,18.1%,13.4%,56.8%,43.2%,36.3%,45.1%,35.4%,19.5%
 13,BLK,BLK,Balkan Botevgrad,https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/ba6e2d99-3ea9-4730-a0ce-830cccca4657.png,7,53.7%,57.7%,27.7%,69.4%,49.7%,1.4,18.3%,13.6%,61%,39%,37.8%,48.3%,31.4%,20.2%
-14,BOU,JLB,JL Bourg,https://media-cdn.incrowdsports.com/d4225e1b-7c1b-4382-98d4-ca8511c64441.png,7,52.8%,56.3%,32.6%,66.2%,49.6%,1.4,18%,12.8%,61.8%,38.2%,29.6%,52.6%,30.4%,17%
-15,BUD,BUD,KK Buducnost,https://media-cdn.incrowdsports.com/47161285-94b3-4266-9d23-b722e8600945.png,7,52.3%,56.6%,28.6%,64.7%,46.6%,1.4,16.7%,11.7%,61.5%,38.5%,35.2%,48.1%,32%,20%
-16,BOS,BOS,Bosna Sarajevo,https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOJl/0024f0d4-55d9-4ed0-be41-68c0e90c41d5.png,7,49.9%,54.5%,32.1%,72.9%,51.1%,1.3,15.7%,12%,56.4%,43.6%,25.4%,54.1%,28.3%,17.6%
-17,LKB,LIE,Lietkabelis Panevezys ,https://media-cdn.cortextech.io/ffcb6e37-31f4-48f6-91c2-a8c9a6f791a9.png,6,54.5%,58.4%,34.7%,65.3%,51%,1.1,17.1%,15.9%,58.5%,41.5%,29%,49%,33.6%,17.3%
+14,LKB,LIE,Lietkabelis Panevezys ,https://media-cdn.cortextech.io/ffcb6e37-31f4-48f6-91c2-a8c9a6f791a9.png,7,56.6%,60.6%,35.4%,65.4%,51.6%,1.1,17.7%,16.1%,59.1%,40.9%,30.8%,48.3%,34.1%,17.7%
+15,BOU,JLB,JL Bourg,https://media-cdn.incrowdsports.com/d4225e1b-7c1b-4382-98d4-ca8511c64441.png,7,52.8%,56.3%,32.6%,66.2%,49.6%,1.4,18%,12.8%,61.8%,38.2%,29.6%,52.6%,30.4%,17%
+16,BUD,BUD,KK Buducnost,https://media-cdn.incrowdsports.com/47161285-94b3-4266-9d23-b722e8600945.png,7,52.3%,56.6%,28.6%,64.7%,46.6%,1.4,16.7%,11.7%,61.5%,38.5%,35.2%,48.1%,32%,20%
+17,BOS,BOS,Bosna Sarajevo,https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnOJl/0024f0d4-55d9-4ed0-be41-68c0e90c41d5.png,7,49.9%,54.5%,32.1%,72.9%,51.1%,1.3,15.7%,12%,56.4%,43.6%,25.4%,54.1%,28.3%,17.6%
 18,MAN,MAN,Kids&Us Manresa ,https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/06792bed-0383-4de2-80b9-95ecca3fd973.png,7,55.9%,59.5%,33.8%,65.7%,50.6%,0.9,15.5%,17.1%,64.9%,35.1%,30%,54.2%,28.8%,17%
 19,NIN,CHE,NINERS Chemnitz,https://media-cdn.cortextech.io/75ae96be-69f9-4e48-b5bd-b1056842db57.png,6,50.4%,55%,32.1%,65.1%,49.3%,1,15.8%,15.2%,62.3%,37.7%,37.5%,49%,29.6%,21.4%
 19,TRT,DER,Baglietto Derthona Tortona,https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCjnONv/4976fa46-8eb4-471c-b6dd-4704866c5769.png,6,49%,53.3%,25.8%,68.5%,47.5%,1.5,15.6%,10.3%,57.9%,42.1%,28%,47.2%,34.8%,18.1%
@@ -25,9 +25,9 @@ team_ranking,team_code,team_tv_codes,team_name,team_image_url,games_played,effec
 24,NAP,NAP,Napoli Basketball,https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/c2de1d20-72f4-4453-95de-b4534db6d57f.png,6,51.9%,55.8%,32.3%,70.5%,50.1%,1,15.3%,15.1%,59.7%,40.3%,31.6%,51%,30.7%,18.3%
 25,LEM,MSB,Le Mans Sarthe Basket,https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/b8ec3298-5030-4865-8469-722a21b471c3.png,6,46.4%,50.9%,36.4%,69.3%,52.7%,1.1,15.4%,14.1%,61.1%,38.9%,23.3%,55.7%,27%,17.3%
 26,VNC,URV,Umana Reyer Venice,https://media-cdn.incrowdsports.com/104f5074-9f23-47da-a21f-f2078db8244c.png,7,52.2%,54.8%,31.3%,69.1%,49.6%,1.3,16.7%,12.6%,62.7%,37.3%,29.4%,53.5%,30.9%,15.6%
-27,TNF,LLT,La Laguna Tenerife,https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/59bf7582-6c0b-4e14-bce6-1380aad90f34.png,6,53.8%,58.3%,34.2%,64.2%,49.2%,1,16.1%,15.4%,60.2%,39.8%,34.3%,46.5%,33.6%,19.9%
-28,BUR,TOF,Tofas Bursa,https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/72e5c4e0-abe1-43ce-bfb7-dcb025bb4adc.png,7,48.6%,53.2%,34.1%,65.5%,48.8%,1.2,16.4%,14.1%,57.9%,42.1%,36.2%,43.1%,35.7%,21.2%
-29,LLI,LDN,London Lions,https://media-cdn.cortextech.io/102de468-9e41-4b8e-b44d-23bebb9e916f.png,7,51.6%,56%,29.5%,64.6%,48.6%,1.2,17.7%,15%,60.6%,39.4%,36.2%,50.5%,29%,20.5%
-30,BAH,BKS,Bahcesehir Koleji Istanbul,https://media-cdn.incrowdsports.com/1d3274d8-da86-4d21-9e97-6810ab88babe.png,6,53.1%,57.4%,28.6%,61.1%,44.6%,1,15.4%,15.4%,54%,46%,29.7%,49.2%,32.8%,18.1%
+27,BUR,TOF,Tofas Bursa,https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjChWbHH/72e5c4e0-abe1-43ce-bfb7-dcb025bb4adc.png,7,48.6%,53.2%,34.1%,65.5%,48.8%,1.2,16.4%,14.1%,57.9%,42.1%,36.2%,43.1%,35.7%,21.2%
+28,LLI,LDN,London Lions,https://media-cdn.cortextech.io/102de468-9e41-4b8e-b44d-23bebb9e916f.png,7,51.6%,56%,29.5%,64.6%,48.6%,1.2,17.7%,15%,60.6%,39.4%,36.2%,50.5%,29%,20.5%
+29,TNF,LLT,La Laguna Tenerife,https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCgOCpC/59bf7582-6c0b-4e14-bce6-1380aad90f34.png,7,53.1%,57.6%,33.6%,66.1%,49.9%,1,15.5%,15.9%,61.1%,38.9%,36.2%,47%,32.5%,20.4%
+30,BAH,BKS,Bahcesehir Koleji Istanbul,https://media-cdn.incrowdsports.com/1d3274d8-da86-4d21-9e97-6810ab88babe.png,7,51.4%,55.8%,29.5%,60.9%,44.6%,0.9,14.9%,16.3%,54.8%,45.2%,33.1%,49.2%,31.3%,19.6%
 31,ARI,ARI,Aris Thessaloniki,https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjHGF4tl/056002af-8da9-4134-b3b6-8d3ac5e8945b.png,6,44.2%,48.9%,38.1%,64.7%,49.7%,1,14.2%,14.1%,60.4%,39.6%,31.3%,52%,27.5%,20.5%
 32,JER,JLM,Hapoel  Midtown Jerusalem,https://media-cdn.cortextech.io/1dU3kpCqReRp93/1BSdBWIjCiezvp/6d6e8da8-550f-4d1f-8a06-4611227e0c31.png,6,47.3%,51.9%,29.6%,59%,43.4%,0.9,14.1%,14.9%,56.1%,43.9%,32.9%,44.9%,34.7%,20.4%
